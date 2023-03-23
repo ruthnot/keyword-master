@@ -5,8 +5,9 @@ def main():
     db = DBHelper()
     today = db.today
     keywords = db.keywords
+    db.print()
     while True:
-        print('Please type your keyword')
+        print('Please type your keyword:')
         user_input = input()
         if user_input == 'exit':
             print('Have a nice day!')

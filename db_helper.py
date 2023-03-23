@@ -30,8 +30,8 @@ class DBHelper(object):
             with open(BACKUP_PATH, "w") as f_to:
                 f_to.write(f_from .read())
 
-    def printl(self):
+    def print(self):
         for key, val in self.keywords.items():
-            print(f'{key}: val')
+            print(f'{key}: {val}')
 
 
