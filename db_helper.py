@@ -1,9 +1,9 @@
 import json
 import datetime as dt
-import os
 
 PATH = 'keyword.json'
 BACKUP_PATH = 'keyword_backup.json'
+
 
 class DBHelper(object):
     def __init__(self):
@@ -30,7 +30,8 @@ class DBHelper(object):
             with open(BACKUP_PATH, "w") as f_to:
                 f_to.write(f_from .read())
 
+    def printl(self):
+        for key, val in self.keywords.items():
+            print(f'{key}: val')
 
-if __name__=='__main__':
-    x = DBHelper()
-    b = x.keywords
+
