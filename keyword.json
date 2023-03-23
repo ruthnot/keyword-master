@@ -1,0 +1,35 @@
+{
+    "surmise": {
+        "first_added": "2023-3-18",
+        "review_history": [
+            [
+                "2023-3-21",
+                "h"
+            ]
+        ],
+        "type": "vocab",
+        "priority": 30.4
+    },
+    "supposition": {
+        "first_added": "2023-3-18",
+        "review_history": [
+            [
+                "2023-3-18",
+                "h"
+            ]
+        ],
+        "type": "vocab",
+        "priority": 26.0
+    },
+    "BGP": {
+        "date_added": "2023-3-22",
+        "review_history": [
+            [
+                "2023-3-22",
+                "h"
+            ]
+        ],
+        "type": "computer_network",
+        "priority": 100.0
+    }
+}
