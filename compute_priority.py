@@ -2,6 +2,8 @@ import math
 import datetime as dt
 import json
 
+RATE_WEIGHT = {'h': 2.0, 'm': 1.0, 'l': 0.5}
+
 
 class ComputePriority(object):
     def __init__(self):
@@ -11,13 +13,16 @@ class ComputePriority(object):
         assert isinstance(keywords, dict)
         for key, val in keywords.items():
             last_review = val['review_history'][-1]
-            last_date, last_conf = last_review[0], last_review[1]
+            last_date, last_rate = last_review[0], last_review[1]
             year, month, day = last_date.split('-')
             delta_days = (self.today - dt.date(int(year), int(month), int(day))).days
             if delta_days <= 0:
                 continue
             priority = self.algorithm(delta_days)
+            priority *= RATE_WEIGHT[last_rate]
+            priority = min(100.0, priority)
             val['priority'] = priority
+        return keywords
 
     def algorithm(self, days):
         # Ebbinghaus Forgetting Curve
