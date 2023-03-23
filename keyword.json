@@ -31,5 +31,82 @@
         ],
         "type": "computer_network",
         "priority": 100.0
+    },
+    "BGP Blackholing": {
+        "date_added": "2023-3-22",
+        "review_history": [
+            [
+                "2023-3-22",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "IXP": {
+        "date_added": "2023-3-22",
+        "review_history": [
+            [
+                "2023-3-22",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "CDN": {
+        "date_added": "2023-3-22",
+        "review_history": [
+            [
+                "2023-3-22",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "BGP Hijacking": {
+        "date_added": "2023-3-22",
+        "review_history": [
+            [
+                "2023-3-22",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "amount": {
+        "date_added": "2023-3-22",
+        "review_history": [
+            [
+                "2023-3-22",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "daemon": {
+        "date_added": "2023-3-22",
+        "review_history": [
+            [
+                "2023-3-22",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "Prefix Hijacking": {
+        "date_added": "2023-3-22",
+        "review_history": [
+            [
+                "2023-3-22",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
     }
 }
