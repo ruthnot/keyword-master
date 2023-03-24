@@ -2,7 +2,7 @@ import math
 import datetime as dt
 import json
 
-RATE_WEIGHT = {'h': 2.0, 'm': 1.0, 'l': 0.5}
+RATE_WEIGHT = {'h': 1.5, 'm': 1.0, 'l': 0.5}
 
 
 class ComputePriority(object):
@@ -19,7 +19,11 @@ class ComputePriority(object):
             if delta_days <= 0:
                 continue
             priority = self.algorithm(delta_days)
+            if key == 'IXP':
+                print(priority)
             priority *= RATE_WEIGHT[last_rate]
+            if key == 'IXP':
+                print(priority)
             priority = min(100.0, priority)
             val['priority'] = priority
         return keywords
@@ -32,6 +36,5 @@ class ComputePriority(object):
         b = 100 * k / (math.log(t, 10)**c + k)
         return round(b, 1)
 
-if __name__=='__main__':
-    x = ComputePriority()
+
 
