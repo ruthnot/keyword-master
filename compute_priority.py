@@ -19,12 +19,8 @@ class ComputePriority(object):
             if delta_days <= 0:
                 continue
             priority = self.algorithm(delta_days)
-            if key == 'IXP':
-                print(priority)
             priority *= RATE_WEIGHT[last_rate]
-            if key == 'IXP':
-                print(priority)
-            priority = min(100.0, priority)
+            priority = round(min(100.0, priority), 1)
             val['priority'] = priority
         return keywords
 
@@ -34,7 +30,7 @@ class ComputePriority(object):
         k = 1.84
         t = days * 24 * 60
         b = 100 * k / (math.log(t, 10)**c + k)
-        return round(b, 1)
+        return b
 
 
 

@@ -13,10 +13,14 @@
             [
                 "2023-3-23",
                 "l"
+            ],
+            [
+                "2023-3-25",
+                "m"
             ]
         ],
         "type": "vocab",
-        "priority": 30.4
+        "priority": 14.05
     },
     "supposition": {
         "first_added": "2023-3-18",
@@ -32,10 +36,14 @@
             [
                 "2023-3-23",
                 "m"
+            ],
+            [
+                "2023-3-25",
+                "h"
             ]
         ],
         "type": "vocab",
-        "priority": 15.2
+        "priority": 28.1
     },
     "BGP": {
         "date_added": "2023-3-22",
@@ -47,10 +55,14 @@
             [
                 "2023-3-23",
                 "h"
+            ],
+            [
+                "2023-3-25",
+                "h"
             ]
         ],
         "type": "computer_network",
-        "priority": 60.8
+        "priority": 42.150000000000006
     },
     "BGP Blackholing": {
         "date_added": "2023-3-22",
@@ -62,10 +74,14 @@
             [
                 "2023-3-23",
                 "l"
+            ],
+            [
+                "2023-3-25",
+                "m"
             ]
         ],
         "type": null,
-        "priority": 60.8
+        "priority": 14.05
     },
     "IXP": {
         "date_added": "2023-3-22",
@@ -77,10 +93,14 @@
             [
                 "2023-3-23",
                 "m"
+            ],
+            [
+                "2023-3-25",
+                "h"
             ]
         ],
         "type": null,
-        "priority": 60.8
+        "priority": 28.1
     },
     "CDN": {
         "date_added": "2023-3-22",
@@ -92,10 +112,14 @@
             [
                 "2023-3-23",
                 "l"
+            ],
+            [
+                "2023-3-25",
+                "l"
             ]
         ],
         "type": null,
-        "priority": 60.8
+        "priority": 14.05
     },
     "BGP Hijacking": {
         "date_added": "2023-3-22",
@@ -107,10 +131,14 @@
             [
                 "2023-3-23",
                 "h"
+            ],
+            [
+                "2023-3-25",
+                "h"
             ]
         ],
         "type": null,
-        "priority": 60.8
+        "priority": 42.150000000000006
     },
     "amount": {
         "date_added": "2023-3-22",
@@ -122,10 +150,14 @@
             [
                 "2023-3-23",
                 "h"
+            ],
+            [
+                "2023-3-25",
+                "h"
             ]
         ],
         "type": null,
-        "priority": 60.8
+        "priority": 42.150000000000006
     },
     "daemon": {
         "date_added": "2023-3-22",
@@ -137,10 +169,14 @@
             [
                 "2023-3-23",
                 "m"
+            ],
+            [
+                "2023-3-25",
+                "h"
             ]
         ],
         "type": null,
-        "priority": 60.8
+        "priority": 28.1
     },
     "Prefix Hijacking": {
         "date_added": "2023-3-22",
@@ -152,10 +188,14 @@
             [
                 "2023-3-23",
                 "h"
+            ],
+            [
+                "2023-3-25",
+                "h"
             ]
         ],
         "type": null,
-        "priority": 60.8
+        "priority": 42.150000000000006
     },
     "Andrew Grove": {
         "date_added": "2023-3-23",
@@ -163,10 +203,14 @@
             [
                 "2023-3-23",
                 "h"
+            ],
+            [
+                "2023-3-25",
+                "h"
             ]
         ],
         "type": null,
-        "priority": 100.0
+        "priority": 42.150000000000006
     },
     "insinuate": {
         "date_added": "2023-3-23",
@@ -174,10 +218,14 @@
             [
                 "2023-3-23",
                 "h"
+            ],
+            [
+                "2023-3-25",
+                "h"
             ]
         ],
         "type": null,
-        "priority": 100.0
+        "priority": 42.150000000000006
     },
     "connotation": {
         "date_added": "2023-3-23",
@@ -185,10 +233,14 @@
             [
                 "2023-3-23",
                 "h"
+            ],
+            [
+                "2023-3-25",
+                "h"
             ]
         ],
         "type": null,
-        "priority": 100.0
+        "priority": 42.150000000000006
     },
     "prepend": {
         "date_added": "2023-3-23",
@@ -196,10 +248,14 @@
             [
                 "2023-3-23",
                 "h"
+            ],
+            [
+                "2023-3-25",
+                "h"
             ]
         ],
         "type": null,
-        "priority": 100.0
+        "priority": 42.150000000000006
     },
     "incontinence": {
         "date_added": "2023-3-23",
@@ -207,10 +263,14 @@
             [
                 "2023-3-23",
                 "h"
+            ],
+            [
+                "2023-3-25",
+                "l"
             ]
         ],
         "type": null,
-        "priority": 100.0
+        "priority": 42.150000000000006
     },
     "abatement": {
         "date_added": "2023-3-23",
@@ -221,7 +281,7 @@
             ]
         ],
         "type": null,
-        "priority": 100.0
+        "priority": 42.1
     },
     "rumination": {
         "date_added": "2023-3-23",
@@ -232,13 +292,222 @@
             ]
         ],
         "type": null,
-        "priority": 100.0
+        "priority": 42.1
     },
     "regurgitation": {
         "date_added": "2023-3-23",
         "review_history": [
             [
                 "2023-3-23",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 42.1
+    },
+    "stark": {
+        "date_added": "2023-3-24",
+        "review_history": [
+            [
+                "2023-3-24",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 45.6
+    },
+    "aggravated": {
+        "date_added": "2023-3-24",
+        "review_history": [
+            [
+                "2023-3-24",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 45.6
+    },
+    "assuage": {
+        "date_added": "2023-3-24",
+        "review_history": [
+            [
+                "2023-3-24",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 45.6
+    },
+    "composure": {
+        "date_added": "2023-3-24",
+        "review_history": [
+            [
+                "2023-3-24",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 45.6
+    },
+    "Gordon Moore": {
+        "date_added": "2023-3-24",
+        "review_history": [
+            [
+                "2023-3-24",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 45.6
+    },
+    "ratify": {
+        "date_added": "2023-3-24",
+        "review_history": [
+            [
+                "2023-3-24",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 45.6
+    },
+    "patronizing": {
+        "date_added": "2023-3-24",
+        "review_history": [
+            [
+                "2023-3-24",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 45.6
+    },
+    "vindictive": {
+        "date_added": "2023-3-24",
+        "review_history": [
+            [
+                "2023-3-24",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 45.6
+    },
+    "subvert": {
+        "date_added": "2023-3-24",
+        "review_history": [
+            [
+                "2023-3-24",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 45.6
+    },
+    "trail off": {
+        "date_added": "2023-3-24",
+        "review_history": [
+            [
+                "2023-3-24",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 45.6
+    },
+    "dub": {
+        "date_added": "2023-3-24",
+        "review_history": [
+            [
+                "2023-3-24",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 45.6
+    },
+    "deter": {
+        "date_added": "2023-3-24",
+        "review_history": [
+            [
+                "2023-3-24",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 45.6
+    },
+    "resilience": {
+        "date_added": "2023-3-24",
+        "review_history": [
+            [
+                "2023-3-24",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 45.6
+    },
+    "serendipity": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "emergent": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "Robert Shiller": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "Aldous Huxley": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "Jane Austen": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "adversity": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
                 "h"
             ]
         ],
