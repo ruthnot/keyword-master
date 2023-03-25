@@ -16,10 +16,10 @@ class ComputePriority(object):
             last_date, last_rate = last_review[0], last_review[1]
             year, month, day = last_date.split('-')
             delta_days = (self.today - dt.date(int(year), int(month), int(day))).days
-            if delta_days <= 0:
-                base_priority = 100
-            else:
-                base_priority = self.algorithm(delta_days)
+            if delta_days <= 5:  # add buffer time for newly reviewed/created keywords
+                val['priority'] = 100
+                continue
+            base_priority = self.algorithm(delta_days)
             adjusted_priority = base_priority * RATE_WEIGHT[last_rate]
             adjusted_priority = round(min(100.0, adjusted_priority), 1)
             val['priority'] = adjusted_priority

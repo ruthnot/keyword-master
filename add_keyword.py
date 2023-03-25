@@ -17,7 +17,7 @@ def main():
         if keyword in keywords:
             print('Keyword already existed!')
             continue
-        keywords[keyword] = {'date_added': today, 'review_history': [[today, 'h']], 'type': None, 'priority': 100.}
+        keywords[keyword] = {'date_added': today, 'review_history': [[today, 'm']], 'type': None, 'priority': 100.}
 
         print(f'Added keyword: {keyword} !\n')
     db.overwrite(keywords)

@@ -19,6 +19,10 @@ def main():
             print('Reached the end of database, goodbye!')
             break
         keyword_pair = sorted_keywords[idx]
+        # skip priority 100 or above keywords
+        if keyword_pair[1] >= 100:
+            idx += 1
+            continue
         print(f'Keyword: "{keyword_pair[0]}", please type your confidence level: h, m, l')
         user_input = input()
 
