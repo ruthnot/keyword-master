@@ -17,11 +17,12 @@ class ComputePriority(object):
             year, month, day = last_date.split('-')
             delta_days = (self.today - dt.date(int(year), int(month), int(day))).days
             if delta_days <= 0:
-                continue
-            priority = self.algorithm(delta_days)
-            priority *= RATE_WEIGHT[last_rate]
-            priority = round(min(100.0, priority), 1)
-            val['priority'] = priority
+                base_priority = 100
+            else:
+                base_priority = self.algorithm(delta_days)
+            adjusted_priority = base_priority * RATE_WEIGHT[last_rate]
+            adjusted_priority = round(min(100.0, adjusted_priority), 1)
+            val['priority'] = adjusted_priority
         return keywords
 
     def algorithm(self, days):

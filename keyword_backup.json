@@ -17,10 +17,14 @@
             [
                 "2023-3-25",
                 "m"
+            ],
+            [
+                "2023-3-25",
+                "h"
             ]
         ],
         "type": "vocab",
-        "priority": 14.05
+        "priority": 100.0
     },
     "supposition": {
         "first_added": "2023-3-18",
@@ -43,7 +47,7 @@
             ]
         ],
         "type": "vocab",
-        "priority": 28.1
+        "priority": 100.0
     },
     "BGP": {
         "date_added": "2023-3-22",
@@ -62,7 +66,7 @@
             ]
         ],
         "type": "computer_network",
-        "priority": 42.150000000000006
+        "priority": 100.0
     },
     "BGP Blackholing": {
         "date_added": "2023-3-22",
@@ -81,7 +85,7 @@
             ]
         ],
         "type": null,
-        "priority": 14.05
+        "priority": 100.0
     },
     "IXP": {
         "date_added": "2023-3-22",
@@ -100,7 +104,7 @@
             ]
         ],
         "type": null,
-        "priority": 28.1
+        "priority": 100.0
     },
     "CDN": {
         "date_added": "2023-3-22",
@@ -119,7 +123,7 @@
             ]
         ],
         "type": null,
-        "priority": 14.05
+        "priority": 50.0
     },
     "BGP Hijacking": {
         "date_added": "2023-3-22",
@@ -138,7 +142,7 @@
             ]
         ],
         "type": null,
-        "priority": 42.150000000000006
+        "priority": 100.0
     },
     "amount": {
         "date_added": "2023-3-22",
@@ -157,7 +161,7 @@
             ]
         ],
         "type": null,
-        "priority": 42.150000000000006
+        "priority": 100.0
     },
     "daemon": {
         "date_added": "2023-3-22",
@@ -176,7 +180,7 @@
             ]
         ],
         "type": null,
-        "priority": 28.1
+        "priority": 100.0
     },
     "Prefix Hijacking": {
         "date_added": "2023-3-22",
@@ -195,7 +199,7 @@
             ]
         ],
         "type": null,
-        "priority": 42.150000000000006
+        "priority": 100.0
     },
     "Andrew Grove": {
         "date_added": "2023-3-23",
@@ -210,7 +214,7 @@
             ]
         ],
         "type": null,
-        "priority": 42.150000000000006
+        "priority": 100.0
     },
     "insinuate": {
         "date_added": "2023-3-23",
@@ -225,7 +229,7 @@
             ]
         ],
         "type": null,
-        "priority": 42.150000000000006
+        "priority": 100.0
     },
     "connotation": {
         "date_added": "2023-3-23",
@@ -240,7 +244,7 @@
             ]
         ],
         "type": null,
-        "priority": 42.150000000000006
+        "priority": 100.0
     },
     "prepend": {
         "date_added": "2023-3-23",
@@ -255,7 +259,7 @@
             ]
         ],
         "type": null,
-        "priority": 42.150000000000006
+        "priority": 100.0
     },
     "incontinence": {
         "date_added": "2023-3-23",
@@ -270,7 +274,7 @@
             ]
         ],
         "type": null,
-        "priority": 42.150000000000006
+        "priority": 50.0
     },
     "abatement": {
         "date_added": "2023-3-23",
@@ -504,6 +508,116 @@
         "priority": 100.0
     },
     "adversity": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "Enuma Elish": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "menial": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "vex": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "contention": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "perpetrator": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "ambivalence": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "enmity": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "Aesop's Fables": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "Tree of Knowledge of Good and Evil": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "h"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "rapacious": {
         "date_added": "2023-3-25",
         "review_history": [
             [
