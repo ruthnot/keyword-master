@@ -627,5 +627,49 @@
         ],
         "type": null,
         "priority": 100
+    },
+    "inure": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "rite": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "yearn": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "longing": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
     }
 }
