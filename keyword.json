@@ -637,7 +637,7 @@
             ]
         ],
         "type": null,
-        "priority": 100.0
+        "priority": 100
     },
     "rite": {
         "date_added": "2023-3-25",
@@ -648,7 +648,7 @@
             ]
         ],
         "type": null,
-        "priority": 100.0
+        "priority": 100
     },
     "yearn": {
         "date_added": "2023-3-25",
@@ -659,13 +659,101 @@
             ]
         ],
         "type": null,
-        "priority": 100.0
+        "priority": 100
     },
     "longing": {
         "date_added": "2023-3-25",
         "review_history": [
             [
                 "2023-3-25",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "solicit": {
+        "date_added": "2023-3-26",
+        "review_history": [
+            [
+                "2023-3-26",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "elicit": {
+        "date_added": "2023-3-26",
+        "review_history": [
+            [
+                "2023-3-26",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "engulf": {
+        "date_added": "2023-3-26",
+        "review_history": [
+            [
+                "2023-3-26",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "ostensible": {
+        "date_added": "2023-3-26",
+        "review_history": [
+            [
+                "2023-3-26",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "esteem": {
+        "date_added": "2023-3-26",
+        "review_history": [
+            [
+                "2023-3-26",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "virtuoso": {
+        "date_added": "2023-3-26",
+        "review_history": [
+            [
+                "2023-3-26",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "impediment": {
+        "date_added": "2023-3-26",
+        "review_history": [
+            [
+                "2023-3-26",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "hindrance": {
+        "date_added": "2023-3-26",
+        "review_history": [
+            [
+                "2023-3-26",
                 "m"
             ]
         ],

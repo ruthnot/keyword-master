@@ -627,5 +627,71 @@
         ],
         "type": null,
         "priority": 100
+    },
+    "inure": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "rite": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "yearn": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "longing": {
+        "date_added": "2023-3-25",
+        "review_history": [
+            [
+                "2023-3-25",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "solicit": {
+        "date_added": "2023-3-26",
+        "review_history": [
+            [
+                "2023-3-26",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "elicit": {
+        "date_added": "2023-3-26",
+        "review_history": [
+            [
+                "2023-3-26",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
     }
 }
