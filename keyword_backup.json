@@ -327,10 +327,14 @@
             [
                 "2023-3-24",
                 "h"
+            ],
+            [
+                "2023-3-30",
+                "m"
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 37.4
     },
     "aggravated": {
         "date_added": "2023-3-24",
@@ -341,7 +345,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 37.4
     },
     "assuage": {
         "date_added": "2023-3-24",
@@ -352,7 +356,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 37.4
     },
     "composure": {
         "date_added": "2023-3-24",
@@ -363,7 +367,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 37.4
     },
     "Gordon Moore": {
         "date_added": "2023-3-24",
@@ -374,7 +378,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 37.4
     },
     "ratify": {
         "date_added": "2023-3-24",
@@ -385,7 +389,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 37.4
     },
     "patronizing": {
         "date_added": "2023-3-24",
@@ -396,7 +400,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 37.4
     },
     "vindictive": {
         "date_added": "2023-3-24",
@@ -407,7 +411,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 37.4
     },
     "subvert": {
         "date_added": "2023-3-24",
@@ -418,7 +422,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 37.4
     },
     "trail off": {
         "date_added": "2023-3-24",
@@ -429,7 +433,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 37.4
     },
     "dub": {
         "date_added": "2023-3-24",
@@ -440,7 +444,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 37.4
     },
     "deter": {
         "date_added": "2023-3-24",
@@ -451,7 +455,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 37.4
     },
     "resilience": {
         "date_added": "2023-3-24",
@@ -462,7 +466,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 37.4
     },
     "serendipity": {
         "date_added": "2023-3-25",

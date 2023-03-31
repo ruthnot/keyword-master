@@ -34,4 +34,7 @@ class DBHelper(object):
         for key, val in self.keywords.items():
             print(f'{key}: {val}')
 
+    def count(self):
+        print(len(self.keywords))
+
 
