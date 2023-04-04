@@ -24,7 +24,7 @@
             ]
         ],
         "type": "vocab",
-        "priority": 100
+        "priority": 36.3
     },
     "supposition": {
         "first_added": "2023-3-18",
@@ -47,7 +47,7 @@
             ]
         ],
         "type": "vocab",
-        "priority": 100
+        "priority": 36.3
     },
     "BGP": {
         "date_added": "2023-3-22",
@@ -66,7 +66,7 @@
             ]
         ],
         "type": "computer_network",
-        "priority": 100
+        "priority": 36.3
     },
     "BGP Blackholing": {
         "date_added": "2023-3-22",
@@ -81,6 +81,10 @@
             ],
             [
                 "2023-3-25",
+                "m"
+            ],
+            [
+                "2023-4-1",
                 "m"
             ]
         ],
@@ -104,7 +108,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "CDN": {
         "date_added": "2023-3-22",
@@ -119,6 +123,10 @@
             ],
             [
                 "2023-3-25",
+                "l"
+            ],
+            [
+                "2023-4-1",
                 "l"
             ]
         ],
@@ -142,7 +150,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "amount": {
         "date_added": "2023-3-22",
@@ -161,7 +169,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "daemon": {
         "date_added": "2023-3-22",
@@ -180,7 +188,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "Prefix Hijacking": {
         "date_added": "2023-3-22",
@@ -199,7 +207,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "Andrew Grove": {
         "date_added": "2023-3-23",
@@ -214,7 +222,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "insinuate": {
         "date_added": "2023-3-23",
@@ -229,7 +237,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "connotation": {
         "date_added": "2023-3-23",
@@ -244,7 +252,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "prepend": {
         "date_added": "2023-3-23",
@@ -259,7 +267,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "incontinence": {
         "date_added": "2023-3-23",
@@ -270,6 +278,10 @@
             ],
             [
                 "2023-3-25",
+                "l"
+            ],
+            [
+                "2023-4-1",
                 "l"
             ]
         ],
@@ -334,7 +346,7 @@
             ]
         ],
         "type": null,
-        "priority": 37.4
+        "priority": 100
     },
     "aggravated": {
         "date_added": "2023-3-24",
@@ -345,7 +357,7 @@
             ]
         ],
         "type": null,
-        "priority": 37.4
+        "priority": 35.9
     },
     "assuage": {
         "date_added": "2023-3-24",
@@ -356,7 +368,7 @@
             ]
         ],
         "type": null,
-        "priority": 37.4
+        "priority": 35.9
     },
     "composure": {
         "date_added": "2023-3-24",
@@ -367,7 +379,7 @@
             ]
         ],
         "type": null,
-        "priority": 37.4
+        "priority": 35.9
     },
     "Gordon Moore": {
         "date_added": "2023-3-24",
@@ -378,7 +390,7 @@
             ]
         ],
         "type": null,
-        "priority": 37.4
+        "priority": 35.9
     },
     "ratify": {
         "date_added": "2023-3-24",
@@ -389,7 +401,7 @@
             ]
         ],
         "type": null,
-        "priority": 37.4
+        "priority": 35.9
     },
     "patronizing": {
         "date_added": "2023-3-24",
@@ -400,7 +412,7 @@
             ]
         ],
         "type": null,
-        "priority": 37.4
+        "priority": 35.9
     },
     "vindictive": {
         "date_added": "2023-3-24",
@@ -411,7 +423,7 @@
             ]
         ],
         "type": null,
-        "priority": 37.4
+        "priority": 35.9
     },
     "subvert": {
         "date_added": "2023-3-24",
@@ -422,7 +434,7 @@
             ]
         ],
         "type": null,
-        "priority": 37.4
+        "priority": 35.9
     },
     "trail off": {
         "date_added": "2023-3-24",
@@ -433,7 +445,7 @@
             ]
         ],
         "type": null,
-        "priority": 37.4
+        "priority": 35.9
     },
     "dub": {
         "date_added": "2023-3-24",
@@ -444,7 +456,7 @@
             ]
         ],
         "type": null,
-        "priority": 37.4
+        "priority": 35.9
     },
     "deter": {
         "date_added": "2023-3-24",
@@ -455,7 +467,7 @@
             ]
         ],
         "type": null,
-        "priority": 37.4
+        "priority": 35.9
     },
     "resilience": {
         "date_added": "2023-3-24",
@@ -466,7 +478,7 @@
             ]
         ],
         "type": null,
-        "priority": 37.4
+        "priority": 35.9
     },
     "serendipity": {
         "date_added": "2023-3-25",
@@ -477,7 +489,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "emergent": {
         "date_added": "2023-3-25",
@@ -488,7 +500,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "Robert Shiller": {
         "date_added": "2023-3-25",
@@ -499,7 +511,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "Aldous Huxley": {
         "date_added": "2023-3-25",
@@ -510,7 +522,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "Jane Austen": {
         "date_added": "2023-3-25",
@@ -521,7 +533,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "adversity": {
         "date_added": "2023-3-25",
@@ -532,7 +544,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "Enuma Elish": {
         "date_added": "2023-3-25",
@@ -543,7 +555,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "menial": {
         "date_added": "2023-3-25",
@@ -554,7 +566,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "vex": {
         "date_added": "2023-3-25",
@@ -565,7 +577,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "contention": {
         "date_added": "2023-3-25",
@@ -576,7 +588,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "perpetrator": {
         "date_added": "2023-3-25",
@@ -587,7 +599,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "ambivalence": {
         "date_added": "2023-3-25",
@@ -598,7 +610,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "enmity": {
         "date_added": "2023-3-25",
@@ -609,7 +621,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "Aesop's Fables": {
         "date_added": "2023-3-25",
@@ -620,7 +632,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "Tree of Knowledge of Good and Evil": {
         "date_added": "2023-3-25",
@@ -631,7 +643,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "rapacious": {
         "date_added": "2023-3-25",
@@ -642,7 +654,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.3
     },
     "inure": {
         "date_added": "2023-3-25",
@@ -650,6 +662,10 @@
             [
                 "2023-3-25",
                 "m"
+            ],
+            [
+                "2023-4-1",
+                "l"
             ]
         ],
         "type": null,
@@ -661,6 +677,10 @@
             [
                 "2023-3-25",
                 "m"
+            ],
+            [
+                "2023-4-1",
+                "h"
             ]
         ],
         "type": null,
@@ -671,6 +691,10 @@
         "review_history": [
             [
                 "2023-3-25",
+                "m"
+            ],
+            [
+                "2023-4-1",
                 "m"
             ]
         ],
@@ -683,6 +707,10 @@
             [
                 "2023-3-25",
                 "m"
+            ],
+            [
+                "2023-4-1",
+                "l"
             ]
         ],
         "type": null,
@@ -694,6 +722,10 @@
             [
                 "2023-3-26",
                 "m"
+            ],
+            [
+                "2023-4-1",
+                "h"
             ]
         ],
         "type": null,
@@ -705,6 +737,10 @@
             [
                 "2023-3-26",
                 "m"
+            ],
+            [
+                "2023-4-1",
+                "h"
             ]
         ],
         "type": null,
@@ -716,6 +752,10 @@
             [
                 "2023-3-26",
                 "m"
+            ],
+            [
+                "2023-4-1",
+                "h"
             ]
         ],
         "type": null,
@@ -727,6 +767,10 @@
             [
                 "2023-3-26",
                 "m"
+            ],
+            [
+                "2023-4-1",
+                "l"
             ]
         ],
         "type": null,
@@ -738,6 +782,10 @@
             [
                 "2023-3-26",
                 "m"
+            ],
+            [
+                "2023-4-2",
+                "l"
             ]
         ],
         "type": null,
@@ -749,6 +797,10 @@
             [
                 "2023-3-26",
                 "m"
+            ],
+            [
+                "2023-4-2",
+                "h"
             ]
         ],
         "type": null,
@@ -760,6 +812,10 @@
             [
                 "2023-3-26",
                 "m"
+            ],
+            [
+                "2023-4-2",
+                "l"
             ]
         ],
         "type": null,
@@ -771,6 +827,10 @@
             [
                 "2023-3-26",
                 "m"
+            ],
+            [
+                "2023-4-2",
+                "l"
             ]
         ],
         "type": null,
@@ -782,6 +842,10 @@
             [
                 "2023-3-26",
                 "m"
+            ],
+            [
+                "2023-4-2",
+                "h"
             ]
         ],
         "type": null,
@@ -792,6 +856,10 @@
         "review_history": [
             [
                 "2023-3-26",
+                "m"
+            ],
+            [
+                "2023-4-2",
                 "m"
             ]
         ],
@@ -804,6 +872,10 @@
             [
                 "2023-3-26",
                 "m"
+            ],
+            [
+                "2023-4-2",
+                "h"
             ]
         ],
         "type": null,
@@ -902,6 +974,149 @@
         "review_history": [
             [
                 "2023-3-29",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "reprimand": {
+        "date_added": "2023-3-30",
+        "review_history": [
+            [
+                "2023-3-30",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "agitation": {
+        "date_added": "2023-3-30",
+        "review_history": [
+            [
+                "2023-3-30",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "fluster": {
+        "date_added": "2023-3-30",
+        "review_history": [
+            [
+                "2023-3-30",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "exhilaration ": {
+        "date_added": "2023-3-30",
+        "review_history": [
+            [
+                "2023-3-30",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "relish": {
+        "date_added": "2023-3-30",
+        "review_history": [
+            [
+                "2023-3-30",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "obstinate": {
+        "date_added": "2023-3-30",
+        "review_history": [
+            [
+                "2023-3-30",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "contentious": {
+        "date_added": "2023-3-30",
+        "review_history": [
+            [
+                "2023-3-30",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "plaster": {
+        "date_added": "2023-4-1",
+        "review_history": [
+            [
+                "2023-4-1",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "fresco": {
+        "date_added": "2023-4-1",
+        "review_history": [
+            [
+                "2023-4-1",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "contort": {
+        "date_added": "2023-4-1",
+        "review_history": [
+            [
+                "2023-4-1",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "Michelangelo": {
+        "date_added": "2023-4-1",
+        "review_history": [
+            [
+                "2023-4-1",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "formidable": {
+        "date_added": "2023-4-1",
+        "review_history": [
+            [
+                "2023-4-1",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "swath": {
+        "date_added": "2023-4-1",
+        "review_history": [
+            [
+                "2023-4-1",
                 "m"
             ]
         ],
