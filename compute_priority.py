@@ -19,20 +19,20 @@ class ComputePriority(object):
             year, month, day = last_date.split('-')
             delta_days = (self.today - dt.date(int(year), int(month), int(day))).days
 
-            # Calm window: for newly reviewed/created keywords
+            # Calm Window: for newly reviewed/created keywords
             if delta_days <= CALM_WINDOW:
                 val['priority'] = 100
                 continue
 
-            # Base priority: is based on algorithm function
+            # Base Priority: is based on algorithm function
             base_priority = self.algorithm(delta_days)
 
-            # Adjusted priority: is based on latest review
+            # Review-adjusted Priority: is based on latest review
             adjusted_priority = base_priority * RATE_WEIGHT[last_rate]
             adjusted_priority = round(min(100.0, adjusted_priority), 1)
             val['priority'] = adjusted_priority
 
-            # Random Bombing: toss a coin and decide if random bomb
+            # Random bombing: toss a coin and decide if random bomb
             coin = random.random()
             if coin < RANDOM_BOMBING['prob']:
                 val['priority'] *= RANDOM_BOMBING['weight']

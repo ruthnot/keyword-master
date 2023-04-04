@@ -63,10 +63,14 @@
             [
                 "2023-3-25",
                 "h"
+            ],
+            [
+                "2023-4-3",
+                "h"
             ]
         ],
         "type": "computer_network",
-        "priority": 35.9
+        "priority": 100
     },
     "BGP Blackholing": {
         "date_added": "2023-3-22",
@@ -108,7 +112,7 @@
             ]
         ],
         "type": null,
-        "priority": 17.95
+        "priority": 35.9
     },
     "CDN": {
         "date_added": "2023-3-22",
@@ -268,10 +272,14 @@
             [
                 "2023-3-25",
                 "h"
+            ],
+            [
+                "2023-4-3",
+                "l"
             ]
         ],
         "type": null,
-        "priority": 35.9
+        "priority": 100
     },
     "incontinence": {
         "date_added": "2023-3-23",
@@ -372,7 +380,7 @@
             ]
         ],
         "type": null,
-        "priority": 17.75
+        "priority": 35.5
     },
     "composure": {
         "date_added": "2023-3-24",
@@ -394,7 +402,7 @@
             ]
         ],
         "type": null,
-        "priority": 35.5
+        "priority": 17.75
     },
     "ratify": {
         "date_added": "2023-3-24",
@@ -457,10 +465,14 @@
             [
                 "2023-3-24",
                 "h"
+            ],
+            [
+                "2023-4-3",
+                "m"
             ]
         ],
         "type": null,
-        "priority": 35.5
+        "priority": 100
     },
     "deter": {
         "date_added": "2023-3-24",
@@ -471,7 +483,7 @@
             ]
         ],
         "type": null,
-        "priority": 35.5
+        "priority": 17.75
     },
     "resilience": {
         "date_added": "2023-3-24",
@@ -493,7 +505,7 @@
             ]
         ],
         "type": null,
-        "priority": 35.9
+        "priority": 17.95
     },
     "emergent": {
         "date_added": "2023-3-25",
@@ -504,7 +516,7 @@
             ]
         ],
         "type": null,
-        "priority": 35.9
+        "priority": 17.95
     },
     "Robert Shiller": {
         "date_added": "2023-3-25",
@@ -515,7 +527,7 @@
             ]
         ],
         "type": null,
-        "priority": 35.9
+        "priority": 17.95
     },
     "Aldous Huxley": {
         "date_added": "2023-3-25",
@@ -548,7 +560,7 @@
             ]
         ],
         "type": null,
-        "priority": 17.95
+        "priority": 35.9
     },
     "Enuma Elish": {
         "date_added": "2023-3-25",
@@ -567,10 +579,14 @@
             [
                 "2023-3-25",
                 "h"
+            ],
+            [
+                "2023-4-3",
+                "l"
             ]
         ],
         "type": null,
-        "priority": 35.9
+        "priority": 100
     },
     "vex": {
         "date_added": "2023-3-25",
@@ -633,10 +649,14 @@
             [
                 "2023-3-25",
                 "h"
+            ],
+            [
+                "2023-4-3",
+                "m"
             ]
         ],
         "type": null,
-        "priority": 35.9
+        "priority": 100
     },
     "Tree of Knowledge of Good and Evil": {
         "date_added": "2023-3-25",

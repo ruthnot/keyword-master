@@ -14,6 +14,7 @@ def main():
     sorted_keywords.sort(key=lambda x: x[1])
 
     idx = 0
+    review_count = 1
     while True:
         if idx >= len(sorted_keywords):
             print('Reached the end of database, goodbye!')
@@ -23,7 +24,7 @@ def main():
         if keyword_pair[1] >= 100:
             idx += 1
             continue
-        print(f'Keyword: "{keyword_pair[0]}", please type your confidence level: h, m, l')
+        print(f'{review_count}. "{keyword_pair[0]}", please type your confidence level: h, m, l')
         user_input = input()
 
         if user_input == 'exit':
@@ -32,8 +33,9 @@ def main():
         elif user_input == 'h' or user_input == 'm' or user_input == 'l':
             keywords[keyword_pair[0]]['review_history'].append([db.today, user_input])
             idx += 1
+            review_count += 1
         else:
-            print(f'User input: "{user_input}" not defined, please try again!')
+            print(f'User input: "{user_input}" not defined, please try again!\n')
     db.overwrite(keywords)
 
 
