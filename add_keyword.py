@@ -13,13 +13,16 @@ def main():
             print('Have a nice day!')
             break
         # keyword, type, *others = user_input.split(' ')
-        keyword = user_input
+        keyword = user_input.strip(' ')  # prevent space at beginning or end
+        if len(keyword) == 0:
+            print('Empty keyword, input again!\n')
+            continue
         if keyword in keywords:
-            print('Keyword already existed!')
+            print('Keyword already existed!\n')
             continue
         keywords[keyword] = {'date_added': today, 'review_history': [[today, 'm']], 'type': None, 'priority': 100.}
 
-        print(f'Added keyword: {keyword} !\n')
+        print(f'Added keyword: "{keyword}"!\n')
     db.overwrite(keywords)
 
 
