@@ -1,8 +1,10 @@
 import math
 import datetime as dt
-import json
+import random
 
 RATE_WEIGHT = {'h': 1.5, 'm': 1.0, 'l': 0.5}
+CALM_WINDOW = 5
+RANDOM_BOMBING = {'prob': 0.1, 'weight': 0.5}
 
 
 class ComputePriority(object):
@@ -16,13 +18,25 @@ class ComputePriority(object):
             last_date, last_rate = last_review[0], last_review[1]
             year, month, day = last_date.split('-')
             delta_days = (self.today - dt.date(int(year), int(month), int(day))).days
-            if delta_days <= 5:  # add buffer time for newly reviewed/created keywords
+
+            # Calm window: for newly reviewed/created keywords
+            if delta_days <= CALM_WINDOW:
                 val['priority'] = 100
                 continue
+
+            # Base priority: is based on algorithm function
             base_priority = self.algorithm(delta_days)
+
+            # Adjusted priority: is based on latest review
             adjusted_priority = base_priority * RATE_WEIGHT[last_rate]
             adjusted_priority = round(min(100.0, adjusted_priority), 1)
             val['priority'] = adjusted_priority
+
+            # Random Bombing: toss a coin and decide if random bomb
+            coin = random.random()
+            if coin < RANDOM_BOMBING['prob']:
+                val['priority'] *= RANDOM_BOMBING['weight']
+
         return keywords
 
     def algorithm(self, days):
