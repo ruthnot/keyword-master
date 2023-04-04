@@ -10,7 +10,7 @@
 **II. Add Keyword**
 
 
-**III. Exam Mode**
+**III. Quiz Mode**
 - option to set target amount, otherwise until list exhausted
 - iterate list and show keyword name, and response option
 - user can input

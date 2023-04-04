@@ -15,10 +15,10 @@ def main():
         # keyword, type, *others = user_input.split(' ')
         keyword = user_input.strip(' ')  # prevent space at beginning or end
         if len(keyword) == 0:
-            print('Empty keyword, input again!\n')
+            print('Error: Empty keyword, input again!\n')
             continue
         if keyword in keywords:
-            print('Keyword already existed!\n')
+            print('Warning: Keyword already existed!\n')
             continue
         keywords[keyword] = {'date_added': today, 'review_history': [[today, 'm']], 'type': None, 'priority': 100.}
 
