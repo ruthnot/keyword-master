@@ -1683,5 +1683,71 @@
         ],
         "type": null,
         "priority": 100
+    },
+    "patronage": {
+        "date_added": "2023-4-6",
+        "review_history": [
+            [
+                "2023-4-6",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "ordain": {
+        "date_added": "2023-4-6",
+        "review_history": [
+            [
+                "2023-4-6",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "ordination": {
+        "date_added": "2023-4-6",
+        "review_history": [
+            [
+                "2023-4-6",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "commendable": {
+        "date_added": "2023-4-6",
+        "review_history": [
+            [
+                "2023-4-6",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "amiable": {
+        "date_added": "2023-4-6",
+        "review_history": [
+            [
+                "2023-4-6",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "disposed": {
+        "date_added": "2023-4-6",
+        "review_history": [
+            [
+                "2023-4-6",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
     }
 }

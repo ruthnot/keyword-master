@@ -250,6 +250,10 @@
             [
                 "2023-3-25",
                 "h"
+            ],
+            [
+                "2023-4-5",
+                "m"
             ]
         ],
         "type": null,
@@ -1165,6 +1169,10 @@
             [
                 "2023-3-30",
                 "m"
+            ],
+            [
+                "2023-4-5",
+                "l"
             ]
         ],
         "type": null,
@@ -1675,5 +1683,27 @@
         ],
         "type": null,
         "priority": 100
+    },
+    "patronage": {
+        "date_added": "2023-4-6",
+        "review_history": [
+            [
+                "2023-4-6",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "ordain": {
+        "date_added": "2023-4-6",
+        "review_history": [
+            [
+                "2023-4-6",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
     }
 }
