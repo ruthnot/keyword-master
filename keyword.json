@@ -231,10 +231,14 @@
             [
                 "2023-3-25",
                 "h"
+            ],
+            [
+                "2023-4-5",
+                "h"
             ]
         ],
         "type": null,
-        "priority": 35.1
+        "priority": 100
     },
     "insinuate": {
         "date_added": "2023-3-23",
@@ -246,10 +250,14 @@
             [
                 "2023-3-25",
                 "h"
+            ],
+            [
+                "2023-4-5",
+                "m"
             ]
         ],
         "type": null,
-        "priority": 35.1
+        "priority": 17.55
     },
     "connotation": {
         "date_added": "2023-3-23",
@@ -374,7 +382,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 100
     },
     "aggravated": {
         "date_added": "2023-3-24",
@@ -408,10 +416,14 @@
             [
                 "2023-3-24",
                 "h"
+            ],
+            [
+                "2023-4-5",
+                "l"
             ]
         ],
         "type": null,
-        "priority": 34.8
+        "priority": 100
     },
     "Gordon Moore": {
         "date_added": "2023-3-24",
@@ -459,7 +471,7 @@
             ]
         ],
         "type": null,
-        "priority": 17.4
+        "priority": 100
     },
     "subvert": {
         "date_added": "2023-3-24",
@@ -474,7 +486,7 @@
             ]
         ],
         "type": null,
-        "priority": 17.4
+        "priority": 100
     },
     "trail off": {
         "date_added": "2023-3-24",
@@ -585,7 +597,7 @@
             ]
         ],
         "type": null,
-        "priority": 17.55
+        "priority": 100
     },
     "adversity": {
         "date_added": "2023-3-25",
@@ -644,7 +656,7 @@
             ]
         ],
         "type": null,
-        "priority": 35.1
+        "priority": 17.55
     },
     "perpetrator": {
         "date_added": "2023-3-25",
@@ -674,10 +686,14 @@
             [
                 "2023-3-25",
                 "h"
+            ],
+            [
+                "2023-4-5",
+                "l"
             ]
         ],
         "type": null,
-        "priority": 35.1
+        "priority": 100
     },
     "Aesop's Fables": {
         "date_added": "2023-3-25",
@@ -707,7 +723,7 @@
             ]
         ],
         "type": null,
-        "priority": 17.55
+        "priority": 100
     },
     "rapacious": {
         "date_added": "2023-3-25",
@@ -1093,7 +1109,7 @@
             ]
         ],
         "type": null,
-        "priority": 12.45
+        "priority": 100
     },
     "agitation": {
         "date_added": "2023-3-30",
@@ -1108,7 +1124,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 100
     },
     "fluster": {
         "date_added": "2023-3-30",
@@ -1145,7 +1161,7 @@
             ]
         ],
         "type": null,
-        "priority": 12.45
+        "priority": 100
     },
     "obstinate": {
         "date_added": "2023-3-30",
@@ -1153,10 +1169,14 @@
             [
                 "2023-3-30",
                 "m"
+            ],
+            [
+                "2023-4-5",
+                "l"
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 12.45
     },
     "contentious": {
         "date_added": "2023-3-30",
@@ -1603,6 +1623,61 @@
         "review_history": [
             [
                 "2023-4-4",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "obviate": {
+        "date_added": "2023-4-5",
+        "review_history": [
+            [
+                "2023-4-5",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "implore": {
+        "date_added": "2023-4-5",
+        "review_history": [
+            [
+                "2023-4-5",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "proponent": {
+        "date_added": "2023-4-5",
+        "review_history": [
+            [
+                "2023-4-5",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "disseminate": {
+        "date_added": "2023-4-5",
+        "review_history": [
+            [
+                "2023-4-5",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "defy": {
+        "date_added": "2023-4-5",
+        "review_history": [
+            [
+                "2023-4-5",
                 "m"
             ]
         ],
