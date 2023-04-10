@@ -36,4 +36,3 @@ class DBHelper(object):
 
     def count(self):
         print(len(self.keywords))
-

@@ -27,7 +27,7 @@ class ComputePriority(object):
             # Base Priority: is based on algorithm function
             base_priority = self.algorithm(delta_days)
 
-            # Review-adjusted Priority: is based on latest review
+            # Review Adjusted Priority: is based on latest review
             adjusted_priority = base_priority * RATE_WEIGHT[last_rate]
             adjusted_priority = round(min(100.0, adjusted_priority), 1)
             val['priority'] = adjusted_priority
