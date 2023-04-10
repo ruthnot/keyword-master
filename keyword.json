@@ -82,7 +82,7 @@
             ]
         ],
         "type": "computer_network",
-        "priority": 18.7
+        "priority": 100
     },
     "BGP Blackholing": {
         "date_added": "2023-3-22",
@@ -128,7 +128,7 @@
             ]
         ],
         "type": null,
-        "priority": 34.1
+        "priority": 33.9
     },
     "CDN": {
         "date_added": "2023-3-22",
@@ -178,7 +178,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.5
     },
     "amount": {
         "date_added": "2023-3-22",
@@ -243,7 +243,7 @@
             ]
         ],
         "type": null,
-        "priority": 34.1
+        "priority": 33.9
     },
     "Andrew Grove": {
         "date_added": "2023-3-23",
@@ -323,7 +323,7 @@
             ]
         ],
         "type": null,
-        "priority": 12.5
+        "priority": 100
     },
     "incontinence": {
         "date_added": "2023-3-23",
@@ -362,10 +362,14 @@
             [
                 "2023-4-4",
                 "l"
+            ],
+            [
+                "2023-4-10",
+                "m"
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 12.5
     },
     "rumination": {
         "date_added": "2023-3-23",
@@ -384,7 +388,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 37.4
     },
     "regurgitation": {
         "date_added": "2023-3-23",
@@ -399,7 +403,7 @@
             ]
         ],
         "type": null,
-        "priority": 35.1
+        "priority": 34.8
     },
     "stark": {
         "date_added": "2023-3-24",
@@ -445,10 +449,14 @@
             [
                 "2023-4-4",
                 "h"
+            ],
+            [
+                "2023-4-10",
+                "h"
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 18.7
     },
     "composure": {
         "date_added": "2023-3-24",
@@ -474,7 +482,7 @@
             ]
         ],
         "type": null,
-        "priority": 33.9
+        "priority": 33.7
     },
     "ratify": {
         "date_added": "2023-3-24",
@@ -545,7 +553,7 @@
             ]
         ],
         "type": null,
-        "priority": 33.9
+        "priority": 33.7
     },
     "dub": {
         "date_added": "2023-3-24",
@@ -560,7 +568,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.5
     },
     "deter": {
         "date_added": "2023-3-24",
@@ -575,7 +583,7 @@
             ]
         ],
         "type": null,
-        "priority": 16.95
+        "priority": 100
     },
     "resilience": {
         "date_added": "2023-3-24",
@@ -586,7 +594,7 @@
             ]
         ],
         "type": null,
-        "priority": 33.9
+        "priority": 33.7
     },
     "serendipity": {
         "date_added": "2023-3-25",
@@ -601,7 +609,7 @@
             ]
         ],
         "type": null,
-        "priority": 17.05
+        "priority": 100
     },
     "emergent": {
         "date_added": "2023-3-25",
@@ -612,7 +620,7 @@
             ]
         ],
         "type": null,
-        "priority": 34.1
+        "priority": 33.9
     },
     "Robert Schiller": {
         "date_added": "2023-3-25",
@@ -638,7 +646,7 @@
             ]
         ],
         "type": null,
-        "priority": 34.1
+        "priority": 33.9
     },
     "Jane Austen": {
         "date_added": "2023-3-25",
@@ -664,7 +672,7 @@
             ]
         ],
         "type": null,
-        "priority": 34.1
+        "priority": 33.9
     },
     "Enuma Elish": {
         "date_added": "2023-3-25",
@@ -675,7 +683,7 @@
             ]
         ],
         "type": null,
-        "priority": 34.1
+        "priority": 33.9
     },
     "menial": {
         "date_added": "2023-3-25",
@@ -694,7 +702,7 @@
             ]
         ],
         "type": null,
-        "priority": 12.5
+        "priority": 100
     },
     "vex": {
         "date_added": "2023-3-25",
@@ -705,7 +713,7 @@
             ]
         ],
         "type": null,
-        "priority": 34.1
+        "priority": 33.9
     },
     "contention": {
         "date_added": "2023-3-25",
@@ -720,7 +728,7 @@
             ]
         ],
         "type": null,
-        "priority": 17.05
+        "priority": 100
     },
     "perpetrator": {
         "date_added": "2023-3-25",
@@ -731,7 +739,7 @@
             ]
         ],
         "type": null,
-        "priority": 34.1
+        "priority": 33.9
     },
     "ambivalence": {
         "date_added": "2023-3-25",
@@ -776,7 +784,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.5
     },
     "Tree of Knowledge of Good and Evil": {
         "date_added": "2023-3-25",
@@ -840,7 +848,7 @@
             ]
         ],
         "type": null,
-        "priority": 36.3
+        "priority": 35.9
     },
     "yearn": {
         "date_added": "2023-3-25",
@@ -893,7 +901,7 @@
             ]
         ],
         "type": null,
-        "priority": 36.3
+        "priority": 35.9
     },
     "elicit": {
         "date_added": "2023-3-26",
@@ -908,7 +916,7 @@
             ]
         ],
         "type": null,
-        "priority": 36.3
+        "priority": 35.9
     },
     "engulf": {
         "date_added": "2023-3-26",
@@ -923,7 +931,7 @@
             ]
         ],
         "type": null,
-        "priority": 36.3
+        "priority": 35.9
     },
     "ostensible": {
         "date_added": "2023-3-26",
@@ -976,7 +984,7 @@
             ]
         ],
         "type": null,
-        "priority": 36.8
+        "priority": 36.3
     },
     "impediment": {
         "date_added": "2023-3-26",
@@ -1029,7 +1037,7 @@
             ]
         ],
         "type": null,
-        "priority": 36.8
+        "priority": 36.3
     },
     "Hierarchy of Needs": {
         "date_added": "2023-3-26",
@@ -1041,10 +1049,14 @@
             [
                 "2023-4-2",
                 "m"
+            ],
+            [
+                "2023-4-10",
+                "m"
             ]
         ],
         "type": null,
-        "priority": 24.5
+        "priority": 24.2
     },
     "Tsar": {
         "date_added": "2023-3-26",
@@ -1059,7 +1071,7 @@
             ]
         ],
         "type": null,
-        "priority": 36.8
+        "priority": 36.3
     },
     "disgruntled": {
         "date_added": "2023-3-29",
@@ -1071,10 +1083,14 @@
             [
                 "2023-4-4",
                 "l"
+            ],
+            [
+                "2023-4-10",
+                "m"
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 6.25
     },
     "enunciate": {
         "date_added": "2023-3-29",
@@ -1089,7 +1105,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "laden": {
         "date_added": "2023-3-29",
@@ -1101,10 +1117,14 @@
             [
                 "2023-4-4",
                 "l"
+            ],
+            [
+                "2023-4-10",
+                "l"
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 12.5
     },
     "endow": {
         "date_added": "2023-3-29",
@@ -1116,10 +1136,14 @@
             [
                 "2023-4-4",
                 "l"
+            ],
+            [
+                "2023-4-10",
+                "h"
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 6.25
     },
     "stellar": {
         "date_added": "2023-3-29",
@@ -1134,7 +1158,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 37.4
     },
     "profuse": {
         "date_added": "2023-3-29",
@@ -1146,10 +1170,14 @@
             [
                 "2023-4-4",
                 "l"
+            ],
+            [
+                "2023-4-10",
+                "m"
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 12.5
     },
     "disposition": {
         "date_added": "2023-3-29",
@@ -1164,7 +1192,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "countenance": {
         "date_added": "2023-3-29",
@@ -1179,7 +1207,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "gloomy": {
         "date_added": "2023-3-29",
@@ -1194,7 +1222,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "reprimand": {
         "date_added": "2023-3-30",
@@ -1374,7 +1402,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.2
+        "priority": 100
     },
     "swath": {
         "date_added": "2023-4-1",
@@ -1382,10 +1410,14 @@
             [
                 "2023-4-1",
                 "m"
+            ],
+            [
+                "2023-4-10",
+                "l"
             ]
         ],
         "type": null,
-        "priority": 24.2
+        "priority": 11.95
     },
     "rebuke": {
         "date_added": "2023-4-2",
@@ -1400,7 +1432,7 @@
             ]
         ],
         "type": null,
-        "priority": 12.25
+        "priority": 100
     },
     "reproach": {
         "date_added": "2023-4-2",
@@ -1415,7 +1447,7 @@
             ]
         ],
         "type": null,
-        "priority": 12.25
+        "priority": 100
     },
     "chastise": {
         "date_added": "2023-4-2",
@@ -1423,10 +1455,14 @@
             [
                 "2023-4-2",
                 "m"
+            ],
+            [
+                "2023-4-10",
+                "l"
             ]
         ],
         "type": null,
-        "priority": 24.5
+        "priority": 24.2
     },
     "punitive": {
         "date_added": "2023-4-2",
@@ -1452,7 +1488,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.5
+        "priority": 24.2
     },
     "rectify": {
         "date_added": "2023-4-2",
@@ -1463,7 +1499,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.5
+        "priority": 24.2
     },
     "reverence": {
         "date_added": "2023-4-2",
@@ -1478,7 +1514,7 @@
             ]
         ],
         "type": null,
-        "priority": 12.25
+        "priority": 100
     },
     "poised": {
         "date_added": "2023-4-2",
@@ -1504,7 +1540,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.5
     },
     "quantization": {
         "date_added": "2023-4-3",
@@ -1515,7 +1551,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.5
     },
     "jitter": {
         "date_added": "2023-4-3",
@@ -1526,7 +1562,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.5
     },
     "temporal": {
         "date_added": "2023-4-3",
@@ -1537,7 +1573,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.5
     },
     "panegyric": {
         "date_added": "2023-4-3",
@@ -1548,7 +1584,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.5
     },
     "atone": {
         "date_added": "2023-4-3",
@@ -1559,7 +1595,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.5
     },
     "defer": {
         "date_added": "2023-4-3",
@@ -1570,7 +1606,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.5
     },
     "affront": {
         "date_added": "2023-4-3",
@@ -1581,7 +1617,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.5
     },
     "bewitch": {
         "date_added": "2023-4-3",
@@ -1592,7 +1628,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.5
     },
     "impertinence": {
         "date_added": "2023-4-3",
@@ -1603,7 +1639,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.5
     },
     "Dale Chihuly": {
         "date_added": "2023-4-3",
@@ -1614,7 +1650,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.5
     },
     "undertake": {
         "date_added": "2023-4-3",
@@ -1625,7 +1661,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.5
     },
     "rebuff": {
         "date_added": "2023-4-3",
@@ -1636,7 +1672,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.5
     },
     "dismiss": {
         "date_added": "2023-4-3",
@@ -1647,7 +1683,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.5
     },
     "windfall": {
         "date_added": "2023-4-3",
@@ -1658,7 +1694,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.5
     },
     "arraignment": {
         "date_added": "2023-4-3",
@@ -1673,7 +1709,7 @@
             ]
         ],
         "type": null,
-        "priority": 12.45
+        "priority": 100
     },
     "endowment": {
         "date_added": "2023-4-4",
@@ -1681,10 +1717,14 @@
             [
                 "2023-4-4",
                 "m"
+            ],
+            [
+                "2023-4-10",
+                "h"
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 12.45
     },
     "bequeath": {
         "date_added": "2023-4-4",
@@ -1695,7 +1735,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "rescind": {
         "date_added": "2023-4-4",
@@ -1706,7 +1746,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "imperious": {
         "date_added": "2023-4-4",
@@ -1714,10 +1754,14 @@
             [
                 "2023-4-4",
                 "m"
+            ],
+            [
+                "2023-4-10",
+                "l"
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 12.45
     },
     "transient": {
         "date_added": "2023-4-4",
@@ -1728,7 +1772,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "bitrate adaptation": {
         "date_added": "2023-4-4",
@@ -1739,7 +1783,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "reverse searing": {
         "date_added": "2023-4-4",
@@ -1750,7 +1794,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "sear": {
         "date_added": "2023-4-4",
@@ -1761,7 +1805,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "fortnight": {
         "date_added": "2023-4-4",
@@ -1772,7 +1816,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "impertinent": {
         "date_added": "2023-4-4",
@@ -1783,7 +1827,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "obviate": {
         "date_added": "2023-4-5",
@@ -2267,7 +2311,7 @@
             ]
         ],
         "type": null,
-        "priority": 100.0
+        "priority": 100
     },
     "rhetoric": {
         "date_added": "2023-4-9",
@@ -2278,7 +2322,7 @@
             ]
         ],
         "type": null,
-        "priority": 100.0
+        "priority": 100
     },
     "gloss over": {
         "date_added": "2023-4-9",
@@ -2289,7 +2333,7 @@
             ]
         ],
         "type": null,
-        "priority": 100.0
+        "priority": 100
     },
     "The Tower of Babel": {
         "date_added": "2023-4-9",
@@ -2300,7 +2344,7 @@
             ]
         ],
         "type": null,
-        "priority": 100.0
+        "priority": 100
     },
     "lament": {
         "date_added": "2023-4-9",
@@ -2311,7 +2355,7 @@
             ]
         ],
         "type": null,
-        "priority": 100.0
+        "priority": 100
     },
     "abide": {
         "date_added": "2023-4-9",
@@ -2322,7 +2366,7 @@
             ]
         ],
         "type": null,
-        "priority": 100.0
+        "priority": 100
     },
     "Mesopotamia": {
         "date_added": "2023-4-9",
@@ -2333,7 +2377,7 @@
             ]
         ],
         "type": null,
-        "priority": 100.0
+        "priority": 100
     },
     "insolent": {
         "date_added": "2023-4-9",
@@ -2344,7 +2388,7 @@
             ]
         ],
         "type": null,
-        "priority": 100.0
+        "priority": 100
     },
     "felicity": {
         "date_added": "2023-4-9",
@@ -2355,6 +2399,6 @@
             ]
         ],
         "type": null,
-        "priority": 100.0
+        "priority": 100
     }
 }
