@@ -9,20 +9,25 @@ def main():
     while True:
         print('Please type your keyword:')
         user_input = input()
-        if user_input == 'exit':
+        if user_input == '-q':
             print('Have a nice day!')
             break
-        # keyword, type, *others = user_input.split(' ')
-        keyword = user_input.strip(' ')  # prevent space at beginning or end
+        if '-t' in user_input:
+            keyword = user_input.split('-t')[0].strip()
+            type = user_input.split('-t')[1].strip()
+        else:
+            keyword = user_input.strip()
+            type = None
+
         if len(keyword) == 0:
             print('Error: Empty keyword, input again!\n')
             continue
         if keyword in keywords:
             print('Warning: Keyword already existed!\n')
             continue
-        keywords[keyword] = {'date_added': today, 'review_history': [[today, 'm']], 'type': None, 'priority': 100.}
+        keywords[keyword] = {'date_added': today, 'review_history': [[today, 'm']], 'type': type, 'priority': 100.}
 
-        print(f'Added keyword: "{keyword}"!\n')
+        print(f'Added keyword: "{keyword}", with type: "{type}"!\n')
     db.overwrite(keywords)
 
 

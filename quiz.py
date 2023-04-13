@@ -10,8 +10,8 @@ def main():
 
     sorted_keywords = []
     for keyword_name, keyword_data in keywords.items():
-        sorted_keywords.append((keyword_name, keyword_data['priority']))
-    sorted_keywords.sort(key=lambda x: x[1])
+        sorted_keywords.append((keyword_data['priority'], keyword_name, keyword_data))
+    sorted_keywords.sort(key=lambda x: x[0])
 
     idx = 0
     review_count = 1
@@ -19,19 +19,26 @@ def main():
         if idx >= len(sorted_keywords):
             print('Reached the end of database, goodbye!')
             break
-        keyword_pair = sorted_keywords[idx]
+        keyword_tuple = sorted_keywords[idx]
         # skip priority 100 or above keywords
-        if keyword_pair[1] >= 100:
+        if keyword_tuple[0] >= 100:
             idx += 1
             continue
-        print(f'{review_count}. "{keyword_pair[0]}", please type your confidence level: h, m, l')
+        kw_type = keyword_tuple[2]['type']
+        print(f'{review_count}. "{keyword_tuple[1]}", type[{kw_type}]. Type confidence level: h, m, l')
         user_input = input()
 
-        if user_input == 'exit':
+        if user_input == '-q':
             print('Have a nice day!')
             break
+        elif '-t' in user_input:
+            new_type = user_input.split('-t')[-1].strip()
+            if 'vocab' in new_type:
+                new_type = 'vocabulary'
+            keyword_tuple[2]['type'] = new_type
+            print(f'You updated type: "{new_type}"')
         elif user_input == 'h' or user_input == 'm' or user_input == 'l':
-            keywords[keyword_pair[0]]['review_history'].append([db.today, user_input])
+            keyword_tuple[2]['review_history'].append([db.today, user_input])
             idx += 1
             review_count += 1
         else:

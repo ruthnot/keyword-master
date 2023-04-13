@@ -548,10 +548,14 @@
             [
                 "2023-4-5",
                 "m"
+            ],
+            [
+                "2023-4-12",
+                "m"
             ]
         ],
         "type": null,
-        "priority": 12.25
+        "priority": 100
     },
     "subvert": {
         "date_added": "2023-3-24",
@@ -662,7 +666,7 @@
                 "m"
             ]
         ],
-        "type": null,
+        "type": "people",
         "priority": 24.5
     },
     "Aldous Huxley": {
@@ -1951,10 +1955,14 @@
             [
                 "2023-4-4",
                 "m"
+            ],
+            [
+                "2023-4-12",
+                "h"
             ]
         ],
-        "type": null,
-        "priority": 24.2
+        "type": "cooking",
+        "priority": 100
     },
     "sear": {
         "date_added": "2023-4-4",
@@ -2161,10 +2169,14 @@
             [
                 "2023-4-6",
                 "m"
+            ],
+            [
+                "2023-4-12",
+                "l"
             ]
         ],
         "type": null,
-        "priority": 12.45
+        "priority": 100
     },
     "atonement": {
         "date_added": "2023-4-6",
@@ -2681,6 +2693,28 @@
             ]
         ],
         "type": null,
+        "priority": 100
+    },
+    "Comprehensions": {
+        "date_added": "2023-4-12",
+        "review_history": [
+            [
+                "2023-4-12",
+                "m"
+            ]
+        ],
+        "type": "python",
+        "priority": 100
+    },
+    "Decorators": {
+        "date_added": "2023-4-12",
+        "review_history": [
+            [
+                "2023-4-12",
+                "m"
+            ]
+        ],
+        "type": "python",
         "priority": 100
     }
 }
