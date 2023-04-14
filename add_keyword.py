@@ -9,7 +9,7 @@ def main():
     while True:
         print('Please type your keyword:')
         user_input = input()
-        if user_input == '-q':
+        if user_input == '-q' or user_input == 'exit':
             print('Have a nice day!')
             break
         if '-t' in user_input:

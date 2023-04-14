@@ -2913,16 +2913,5 @@
         ],
         "type": null,
         "priority": 100
-    },
-    "exit": {
-        "date_added": "2023-4-13",
-        "review_history": [
-            [
-                "2023-4-13",
-                "m"
-            ]
-        ],
-        "type": null,
-        "priority": 100
     }
 }

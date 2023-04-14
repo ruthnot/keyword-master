@@ -28,7 +28,7 @@ def main():
         print(f'{review_count}. "{keyword_tuple[1]}", type[{kw_type}]. Type confidence level: h, m, l')
         user_input = input()
 
-        if user_input == '-q':
+        if user_input == '-q' or user_input == 'exit':
             print('Have a nice day!')
             break
         elif '-t' in user_input:
