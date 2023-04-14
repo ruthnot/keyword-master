@@ -15,6 +15,8 @@ def main():
         if '-t' in user_input:
             keyword = user_input.split('-t')[0].strip()
             type = user_input.split('-t')[1].strip()
+            if 'vocab' in type:
+                type = 'vocabulary'
         else:
             keyword = user_input.strip()
             type = None

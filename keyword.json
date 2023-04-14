@@ -28,7 +28,7 @@
             ]
         ],
         "type": "vocab",
-        "priority": 100
+        "priority": 36.8
     },
     "supposition": {
         "first_added": "2023-3-18",
@@ -113,7 +113,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.5
     },
     "IXP": {
         "date_added": "2023-3-22",
@@ -160,9 +160,13 @@
             [
                 "2023-4-7",
                 "h"
+            ],
+            [
+                "2023-4-13",
+                "h"
             ]
         ],
-        "type": null,
+        "type": "computer networking",
         "priority": 100
     },
     "BGP Hijacking": {
@@ -213,7 +217,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 37.4
     },
     "daemon": {
         "date_added": "2023-3-22",
@@ -236,7 +240,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.5
     },
     "Prefix Hijacking": {
         "date_added": "2023-3-22",
@@ -255,7 +259,7 @@
             ]
         ],
         "type": null,
-        "priority": 33.5
+        "priority": 33.2
     },
     "Andrew Grove": {
         "date_added": "2023-3-23",
@@ -294,10 +298,14 @@
             [
                 "2023-4-5",
                 "m"
+            ],
+            [
+                "2023-4-13",
+                "h"
             ]
         ],
-        "type": null,
-        "priority": 24.5
+        "type": "vocabulary",
+        "priority": 100
     },
     "connotation": {
         "date_added": "2023-3-23",
@@ -316,7 +324,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.5
     },
     "prepend": {
         "date_added": "2023-3-23",
@@ -362,7 +370,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.8
     },
     "abatement": {
         "date_added": "2023-3-23",
@@ -404,7 +412,7 @@
             ]
         ],
         "type": null,
-        "priority": 36.3
+        "priority": 35.5
     },
     "regurgitation": {
         "date_added": "2023-3-23",
@@ -419,7 +427,7 @@
             ]
         ],
         "type": null,
-        "priority": 34.3
+        "priority": 33.9
     },
     "stark": {
         "date_added": "2023-3-24",
@@ -438,7 +446,7 @@
             ]
         ],
         "type": null,
-        "priority": 36.8
+        "priority": 35.9
     },
     "aggravated": {
         "date_added": "2023-3-24",
@@ -453,7 +461,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 12.5
     },
     "assuage": {
         "date_added": "2023-3-24",
@@ -521,7 +529,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "patronizing": {
         "date_added": "2023-3-24",
@@ -536,7 +544,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 36.8
     },
     "vindictive": {
         "date_added": "2023-3-24",
@@ -567,10 +575,14 @@
             [
                 "2023-4-5",
                 "m"
+            ],
+            [
+                "2023-4-13",
+                "m"
             ]
         ],
         "type": null,
-        "priority": 24.5
+        "priority": 100
     },
     "trail off": {
         "date_added": "2023-3-24",
@@ -581,7 +593,7 @@
             ]
         ],
         "type": null,
-        "priority": 33.3
+        "priority": 33.0
     },
     "dub": {
         "date_added": "2023-3-24",
@@ -626,7 +638,7 @@
             ]
         ],
         "type": null,
-        "priority": 33.3
+        "priority": 33.0
     },
     "serendipity": {
         "date_added": "2023-3-25",
@@ -652,7 +664,7 @@
             ]
         ],
         "type": null,
-        "priority": 33.5
+        "priority": 33.2
     },
     "Robert Schiller": {
         "date_added": "2023-3-25",
@@ -664,10 +676,14 @@
             [
                 "2023-4-5",
                 "m"
+            ],
+            [
+                "2023-4-13",
+                "h"
             ]
         ],
         "type": "people",
-        "priority": 24.5
+        "priority": 100
     },
     "Aldous Huxley": {
         "date_added": "2023-3-25",
@@ -697,7 +713,7 @@
             ]
         ],
         "type": null,
-        "priority": 36.8
+        "priority": 35.9
     },
     "adversity": {
         "date_added": "2023-3-25",
@@ -723,7 +739,7 @@
             ]
         ],
         "type": null,
-        "priority": 33.5
+        "priority": 33.2
     },
     "menial": {
         "date_added": "2023-3-25",
@@ -757,7 +773,7 @@
             ]
         ],
         "type": "vocabulary",
-        "priority": 16.75
+        "priority": 100
     },
     "contention": {
         "date_added": "2023-3-25",
@@ -783,7 +799,7 @@
             ]
         ],
         "type": null,
-        "priority": 33.5
+        "priority": 33.2
     },
     "ambivalence": {
         "date_added": "2023-3-25",
@@ -798,7 +814,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 12.5
     },
     "enmity": {
         "date_added": "2023-3-25",
@@ -851,7 +867,7 @@
             ]
         ],
         "type": null,
-        "priority": 36.8
+        "priority": 35.9
     },
     "rapacious": {
         "date_added": "2023-3-25",
@@ -863,6 +879,10 @@
             [
                 "2023-4-7",
                 "l"
+            ],
+            [
+                "2023-4-13",
+                "m"
             ]
         ],
         "type": null,
@@ -882,6 +902,10 @@
             [
                 "2023-4-7",
                 "l"
+            ],
+            [
+                "2023-4-13",
+                "h"
             ]
         ],
         "type": null,
@@ -923,7 +947,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.5
     },
     "longing": {
         "date_added": "2023-3-25",
@@ -942,7 +966,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 18.4
     },
     "solicit": {
         "date_added": "2023-3-26",
@@ -957,7 +981,7 @@
             ]
         ],
         "type": null,
-        "priority": 35.1
+        "priority": 34.6
     },
     "elicit": {
         "date_added": "2023-3-26",
@@ -969,10 +993,14 @@
             [
                 "2023-4-1",
                 "h"
+            ],
+            [
+                "2023-4-13",
+                "h"
             ]
         ],
         "type": null,
-        "priority": 35.1
+        "priority": 100
     },
     "engulf": {
         "date_added": "2023-3-26",
@@ -987,7 +1015,7 @@
             ]
         ],
         "type": null,
-        "priority": 35.1
+        "priority": 34.6
     },
     "ostensible": {
         "date_added": "2023-3-26",
@@ -1002,6 +1030,10 @@
             ],
             [
                 "2023-4-7",
+                "l"
+            ],
+            [
+                "2023-4-13",
                 "l"
             ]
         ],
@@ -1025,7 +1057,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "virtuoso": {
         "date_added": "2023-3-26",
@@ -1063,7 +1095,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "hindrance": {
         "date_added": "2023-3-26",
@@ -1082,7 +1114,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "Abraham Maslow": {
         "date_added": "2023-3-26",
@@ -1097,7 +1129,7 @@
             ]
         ],
         "type": null,
-        "priority": 35.5
+        "priority": 34.8
     },
     "Hierarchy of Needs": {
         "date_added": "2023-3-26",
@@ -1226,7 +1258,7 @@
             ]
         ],
         "type": null,
-        "priority": 36.3
+        "priority": 35.5
     },
     "profuse": {
         "date_added": "2023-3-29",
@@ -1352,6 +1384,10 @@
             [
                 "2023-4-7",
                 "l"
+            ],
+            [
+                "2023-4-13",
+                "m"
             ]
         ],
         "type": null,
@@ -1370,7 +1406,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.5
     },
     "relish": {
         "date_added": "2023-3-30",
@@ -1423,7 +1459,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.5
     },
     "plaster": {
         "date_added": "2023-4-1",
@@ -1438,7 +1474,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.5
     },
     "fresco": {
         "date_added": "2023-4-1",
@@ -1450,9 +1486,13 @@
             [
                 "2023-4-7",
                 "m"
+            ],
+            [
+                "2023-4-13",
+                "h"
             ]
         ],
-        "type": null,
+        "type": "art",
         "priority": 100
     },
     "contort": {
@@ -1468,7 +1508,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "Michelangelo": {
         "date_added": "2023-4-1",
@@ -1483,7 +1523,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 37.4
     },
     "formidable": {
         "date_added": "2023-4-1",
@@ -1570,10 +1610,14 @@
             [
                 "2023-4-8",
                 "l"
+            ],
+            [
+                "2023-4-14",
+                "h"
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 6.25
     },
     "concession": {
         "date_added": "2023-4-2",
@@ -1633,7 +1677,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 12.5
     },
     "VoIP": {
         "date_added": "2023-4-3",
@@ -1918,7 +1962,7 @@
             ]
         ],
         "type": "vocabulary",
-        "priority": 24.2
+        "priority": 100
     },
     "imperious": {
         "date_added": "2023-4-4",
@@ -1941,10 +1985,14 @@
             [
                 "2023-4-4",
                 "m"
+            ],
+            [
+                "2023-4-13",
+                "m"
             ]
         ],
-        "type": null,
-        "priority": 24.2
+        "type": "vocabulary",
+        "priority": 100
     },
     "bitrate adaptation": {
         "date_added": "2023-4-4",
@@ -1952,10 +2000,14 @@
             [
                 "2023-4-4",
                 "m"
+            ],
+            [
+                "2023-4-13",
+                "l"
             ]
         ],
-        "type": null,
-        "priority": 24.2
+        "type": "computer networking",
+        "priority": 100
     },
     "reverse searing": {
         "date_added": "2023-4-4",
@@ -2023,10 +2075,14 @@
             [
                 "2023-4-5",
                 "m"
+            ],
+            [
+                "2023-4-14",
+                "l"
             ]
         ],
         "type": null,
-        "priority": 24.5
+        "priority": 11.95
     },
     "implore": {
         "date_added": "2023-4-5",
@@ -2037,7 +2093,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.5
+        "priority": 23.9
     },
     "proponent": {
         "date_added": "2023-4-5",
@@ -2048,7 +2104,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.5
+        "priority": 23.9
     },
     "disseminate": {
         "date_added": "2023-4-5",
@@ -2059,7 +2115,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.5
+        "priority": 23.9
     },
     "defy": {
         "date_added": "2023-4-5",
@@ -2067,10 +2123,14 @@
             [
                 "2023-4-5",
                 "m"
+            ],
+            [
+                "2023-4-14",
+                "m"
             ]
         ],
         "type": null,
-        "priority": 24.5
+        "priority": 11.95
     },
     "patronage": {
         "date_added": "2023-4-6",
@@ -2081,7 +2141,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.2
     },
     "ordain": {
         "date_added": "2023-4-6",
@@ -2092,7 +2152,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.2
     },
     "ordination": {
         "date_added": "2023-4-6",
@@ -2103,7 +2163,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.2
     },
     "commendable": {
         "date_added": "2023-4-6",
@@ -2114,7 +2174,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.2
     },
     "amiable": {
         "date_added": "2023-4-6",
@@ -2125,7 +2185,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.2
     },
     "disposed": {
         "date_added": "2023-4-6",
@@ -2136,7 +2196,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.2
     },
     "enter-deep vs bring-home": {
         "date_added": "2023-4-6",
@@ -2147,7 +2207,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.2
     },
     "consistent hashing": {
         "date_added": "2023-4-6",
@@ -2158,7 +2218,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.2
     },
     "reconciliation": {
         "date_added": "2023-4-6",
@@ -2169,7 +2229,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.2
     },
     "amends": {
         "date_added": "2023-4-6",
@@ -2195,7 +2255,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 24.2
     },
     "gratify": {
         "date_added": "2023-4-7",
@@ -2206,7 +2266,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.5
     },
     "DNS Hierarchy": {
         "date_added": "2023-4-7",
@@ -2214,10 +2274,14 @@
             [
                 "2023-4-7",
                 "m"
+            ],
+            [
+                "2023-4-14",
+                "l"
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 12.25
     },
     "Recersive and Iterative DNS queries": {
         "date_added": "2023-4-7",
@@ -2228,7 +2292,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.5
     },
     "Root Servers": {
         "date_added": "2023-4-7",
@@ -2239,7 +2303,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.5
     },
     "DNS Caching": {
         "date_added": "2023-4-7",
@@ -2247,6 +2311,10 @@
             [
                 "2023-4-7",
                 "m"
+            ],
+            [
+                "2023-4-13",
+                "h"
             ]
         ],
         "type": null,
@@ -2261,7 +2329,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.5
     },
     "DNS Resource Records": {
         "date_added": "2023-4-7",
@@ -2272,7 +2340,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.5
     },
     "IP Anycast": {
         "date_added": "2023-4-7",
@@ -2283,7 +2351,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.5
     },
     "HTTP Redirection": {
         "date_added": "2023-4-7",
@@ -2294,7 +2362,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.5
     },
     "grandeur": {
         "date_added": "2023-4-7",
@@ -2305,7 +2373,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.5
     },
     "engross": {
         "date_added": "2023-4-7",
@@ -2316,7 +2384,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.5
     },
     "proclaim": {
         "date_added": "2023-4-7",
@@ -2327,7 +2395,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.5
     },
     "espionage": {
         "date_added": "2023-4-8",
@@ -2338,7 +2406,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "vehemently": {
         "date_added": "2023-4-8",
@@ -2349,7 +2417,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "deem": {
         "date_added": "2023-4-8",
@@ -2360,7 +2428,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "palatable": {
         "date_added": "2023-4-8",
@@ -2371,7 +2439,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 12.45
     },
     "palate": {
         "date_added": "2023-4-8",
@@ -2382,7 +2450,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 12.45
     },
     "impede": {
         "date_added": "2023-4-8",
@@ -2393,7 +2461,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "hinder": {
         "date_added": "2023-4-8",
@@ -2404,7 +2472,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "abominable": {
         "date_added": "2023-4-8",
@@ -2415,7 +2483,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "trifle": {
         "date_added": "2023-4-8",
@@ -2426,7 +2494,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "grab bag": {
         "date_added": "2023-4-8",
@@ -2437,7 +2505,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "undershoot": {
         "date_added": "2023-4-8",
@@ -2448,7 +2516,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "tarnish": {
         "date_added": "2023-4-8",
@@ -2459,7 +2527,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 12.45
     },
     "bona fides": {
         "date_added": "2023-4-8",
@@ -2470,7 +2538,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "undercut": {
         "date_added": "2023-4-8",
@@ -2481,7 +2549,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "underscore": {
         "date_added": "2023-4-8",
@@ -2492,7 +2560,7 @@
             ]
         ],
         "type": null,
-        "priority": 100
+        "priority": 24.9
     },
     "Autonomous System": {
         "date_added": "2023-4-9",
@@ -2723,6 +2791,138 @@
             ]
         ],
         "type": "python",
+        "priority": 100
+    },
+    "forbearance": {
+        "date_added": "2023-4-13",
+        "review_history": [
+            [
+                "2023-4-13",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100
+    },
+    "equivocal": {
+        "date_added": "2023-4-13",
+        "review_history": [
+            [
+                "2023-4-13",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "articulate": {
+        "date_added": "2023-4-13",
+        "review_history": [
+            [
+                "2023-4-13",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100
+    },
+    "eloquent": {
+        "date_added": "2023-4-13",
+        "review_history": [
+            [
+                "2023-4-13",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100
+    },
+    "shackle": {
+        "date_added": "2023-4-13",
+        "review_history": [
+            [
+                "2023-4-13",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "confer": {
+        "date_added": "2023-4-13",
+        "review_history": [
+            [
+                "2023-4-13",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "NATO": {
+        "date_added": "2023-4-13",
+        "review_history": [
+            [
+                "2023-4-13",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "Brussels": {
+        "date_added": "2023-4-13",
+        "review_history": [
+            [
+                "2023-4-13",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "annex": {
+        "date_added": "2023-4-13",
+        "review_history": [
+            [
+                "2023-4-13",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "disclosure": {
+        "date_added": "2023-4-13",
+        "review_history": [
+            [
+                "2023-4-13",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "cohort": {
+        "date_added": "2023-4-13",
+        "review_history": [
+            [
+                "2023-4-13",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100
+    },
+    "exit": {
+        "date_added": "2023-4-13",
+        "review_history": [
+            [
+                "2023-4-13",
+                "m"
+            ]
+        ],
+        "type": null,
         "priority": 100
     }
 }
