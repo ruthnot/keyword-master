@@ -4,7 +4,7 @@ import random
 
 RATE_WEIGHT = {'h': 1.5, 'm': 1.0, 'l': 0.5}
 CALM_WINDOW = 5
-RANDOM_BOMBING = {'prob': 0.1, 'weight': 0.5}
+RANDOM_BOMBING = {'prob': 0.2, 'weight': 0.5}
 
 
 class ComputePriority(object):

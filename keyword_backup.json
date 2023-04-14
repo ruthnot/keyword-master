@@ -113,7 +113,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.5
+        "priority": 12.25
     },
     "IXP": {
         "date_added": "2023-3-22",
@@ -240,7 +240,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.5
+        "priority": 12.25
     },
     "Prefix Hijacking": {
         "date_added": "2023-3-22",
@@ -529,7 +529,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 12.45
     },
     "patronizing": {
         "date_added": "2023-3-24",
@@ -966,7 +966,7 @@
             ]
         ],
         "type": null,
-        "priority": 18.4
+        "priority": 36.8
     },
     "solicit": {
         "date_added": "2023-3-26",
@@ -981,7 +981,7 @@
             ]
         ],
         "type": null,
-        "priority": 34.6
+        "priority": 17.3
     },
     "elicit": {
         "date_added": "2023-3-26",
@@ -1459,7 +1459,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.5
+        "priority": 12.25
     },
     "plaster": {
         "date_added": "2023-4-1",
@@ -1610,10 +1610,14 @@
             [
                 "2023-4-8",
                 "l"
+            ],
+            [
+                "2023-4-14",
+                "h"
             ]
         ],
         "type": null,
-        "priority": 6.25
+        "priority": 100
     },
     "concession": {
         "date_added": "2023-4-2",
@@ -2071,10 +2075,14 @@
             [
                 "2023-4-5",
                 "m"
+            ],
+            [
+                "2023-4-14",
+                "l"
             ]
         ],
         "type": null,
-        "priority": 11.95
+        "priority": 100
     },
     "implore": {
         "date_added": "2023-4-5",
@@ -2115,10 +2123,14 @@
             [
                 "2023-4-5",
                 "m"
+            ],
+            [
+                "2023-4-14",
+                "m"
             ]
         ],
         "type": null,
-        "priority": 11.95
+        "priority": 100
     },
     "patronage": {
         "date_added": "2023-4-6",
@@ -2195,7 +2207,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.2
+        "priority": 12.1
     },
     "consistent hashing": {
         "date_added": "2023-4-6",
@@ -2217,7 +2229,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.2
+        "priority": 12.1
     },
     "amends": {
         "date_added": "2023-4-6",
@@ -2262,10 +2274,14 @@
             [
                 "2023-4-7",
                 "m"
+            ],
+            [
+                "2023-4-14",
+                "l"
             ]
         ],
         "type": null,
-        "priority": 12.25
+        "priority": 100
     },
     "Recersive and Iterative DNS queries": {
         "date_added": "2023-4-7",
@@ -2276,7 +2292,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.5
+        "priority": 12.25
     },
     "Root Servers": {
         "date_added": "2023-4-7",
@@ -2335,7 +2351,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.5
+        "priority": 12.25
     },
     "HTTP Redirection": {
         "date_added": "2023-4-7",
@@ -2390,7 +2406,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 12.45
     },
     "vehemently": {
         "date_added": "2023-4-8",
@@ -2423,7 +2439,7 @@
             ]
         ],
         "type": null,
-        "priority": 12.45
+        "priority": 24.9
     },
     "palate": {
         "date_added": "2023-4-8",
@@ -2434,7 +2450,7 @@
             ]
         ],
         "type": null,
-        "priority": 12.45
+        "priority": 24.9
     },
     "impede": {
         "date_added": "2023-4-8",
@@ -2500,7 +2516,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 12.45
     },
     "tarnish": {
         "date_added": "2023-4-8",
@@ -2898,15 +2914,48 @@
         "type": null,
         "priority": 100
     },
-    "exit": {
-        "date_added": "2023-4-13",
+    "dubious": {
+        "date_added": "2023-4-14",
         "review_history": [
             [
-                "2023-4-13",
+                "2023-4-14",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100
+    },
+    "pollination": {
+        "date_added": "2023-4-14",
+        "review_history": [
+            [
+                "2023-4-14",
                 "m"
             ]
         ],
         "type": null,
+        "priority": 100
+    },
+    "chairlift": {
+        "date_added": "2023-4-14",
+        "review_history": [
+            [
+                "2023-4-14",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100
+    },
+    "pungent": {
+        "date_added": "2023-4-14",
+        "review_history": [
+            [
+                "2023-4-14",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
         "priority": 100
     }
 }
