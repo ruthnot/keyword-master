@@ -35,11 +35,19 @@ class DBHelper(object):
             print(f'{key}: {val}')
 
     def total_count(self):
-        print(len(self.keywords))
+        count = len(self.keywords)
+        print(count)
+        return count
 
-    def review_freq_count(self):
+    def review_freq(self):
         freq_count = {}
+        freq_perc = {}
+        total_count = self.total_count()
         for kw, val in self.keywords.items():
             freq = len(val['review_history'])
             freq_count[freq] = freq_count.get(freq, 0) + 1
-        print(freq_count)
+        for freq, count in freq_count.items():
+            perc = round(count / total_count * 100, 2)
+            freq_perc[freq] = f'{perc}%'
+        print(freq_perc)
+        return freq_perc

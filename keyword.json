@@ -113,7 +113,7 @@
             ]
         ],
         "type": null,
-        "priority": 12.25
+        "priority": 24.5
     },
     "IXP": {
         "date_added": "2023-3-22",
@@ -240,7 +240,7 @@
             ]
         ],
         "type": null,
-        "priority": 12.25
+        "priority": 24.5
     },
     "Prefix Hijacking": {
         "date_added": "2023-3-22",
@@ -412,7 +412,7 @@
             ]
         ],
         "type": null,
-        "priority": 35.5
+        "priority": 17.75
     },
     "regurgitation": {
         "date_added": "2023-3-23",
@@ -458,10 +458,14 @@
             [
                 "2023-4-8",
                 "l"
+            ],
+            [
+                "2023-4-14",
+                "h"
             ]
         ],
-        "type": null,
-        "priority": 12.5
+        "type": "vocabulary",
+        "priority": 6.25
     },
     "assuage": {
         "date_added": "2023-3-24",
@@ -529,7 +533,7 @@
             ]
         ],
         "type": null,
-        "priority": 12.45
+        "priority": 24.9
     },
     "patronizing": {
         "date_added": "2023-3-24",
@@ -811,10 +815,14 @@
             [
                 "2023-4-8",
                 "l"
+            ],
+            [
+                "2023-4-14",
+                "l"
             ]
         ],
         "type": null,
-        "priority": 12.5
+        "priority": 6.25
     },
     "enmity": {
         "date_added": "2023-3-25",
@@ -867,7 +875,7 @@
             ]
         ],
         "type": null,
-        "priority": 35.9
+        "priority": 17.95
     },
     "rapacious": {
         "date_added": "2023-3-25",
@@ -1054,10 +1062,14 @@
             [
                 "2023-4-8",
                 "m"
+            ],
+            [
+                "2023-4-14",
+                "h"
             ]
         ],
-        "type": null,
-        "priority": 24.9
+        "type": "vocabulary",
+        "priority": 12.45
     },
     "virtuoso": {
         "date_added": "2023-3-26",
@@ -1459,7 +1471,7 @@
             ]
         ],
         "type": null,
-        "priority": 12.25
+        "priority": 24.5
     },
     "plaster": {
         "date_added": "2023-4-1",
@@ -2149,10 +2161,14 @@
             [
                 "2023-4-6",
                 "m"
+            ],
+            [
+                "2023-4-14",
+                "m"
             ]
         ],
-        "type": null,
-        "priority": 24.2
+        "type": "vocabulary",
+        "priority": 12.1
     },
     "ordination": {
         "date_added": "2023-4-6",
@@ -2193,10 +2209,14 @@
             [
                 "2023-4-6",
                 "m"
+            ],
+            [
+                "2023-4-14",
+                "l"
             ]
         ],
-        "type": null,
-        "priority": 24.2
+        "type": "vocabulary",
+        "priority": 12.1
     },
     "enter-deep vs bring-home": {
         "date_added": "2023-4-6",
@@ -2207,7 +2227,7 @@
             ]
         ],
         "type": null,
-        "priority": 12.1
+        "priority": 24.2
     },
     "consistent hashing": {
         "date_added": "2023-4-6",
@@ -2229,7 +2249,7 @@
             ]
         ],
         "type": null,
-        "priority": 12.1
+        "priority": 24.2
     },
     "amends": {
         "date_added": "2023-4-6",
@@ -2289,9 +2309,13 @@
             [
                 "2023-4-7",
                 "m"
+            ],
+            [
+                "2023-4-14",
+                "m"
             ]
         ],
-        "type": null,
+        "type": "Computer Networking",
         "priority": 12.25
     },
     "Root Servers": {
@@ -2300,10 +2324,14 @@
             [
                 "2023-4-7",
                 "m"
+            ],
+            [
+                "2023-4-14",
+                "h"
             ]
         ],
         "type": null,
-        "priority": 24.5
+        "priority": 12.25
     },
     "DNS Caching": {
         "date_added": "2023-4-7",
@@ -2337,10 +2365,14 @@
             [
                 "2023-4-7",
                 "m"
+            ],
+            [
+                "2023-4-14",
+                "l"
             ]
         ],
-        "type": null,
-        "priority": 24.5
+        "type": "Computer Networking",
+        "priority": 12.25
     },
     "IP Anycast": {
         "date_added": "2023-4-7",
@@ -2351,7 +2383,7 @@
             ]
         ],
         "type": null,
-        "priority": 12.25
+        "priority": 24.5
     },
     "HTTP Redirection": {
         "date_added": "2023-4-7",
@@ -2417,7 +2449,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 12.45
     },
     "deem": {
         "date_added": "2023-4-8",
@@ -2450,7 +2482,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 12.45
     },
     "impede": {
         "date_added": "2023-4-8",
@@ -2516,7 +2548,7 @@
             ]
         ],
         "type": null,
-        "priority": 12.45
+        "priority": 24.9
     },
     "tarnish": {
         "date_added": "2023-4-8",
@@ -2527,7 +2559,7 @@
             ]
         ],
         "type": null,
-        "priority": 12.45
+        "priority": 24.9
     },
     "bona fides": {
         "date_added": "2023-4-8",
@@ -2538,7 +2570,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 12.45
     },
     "undercut": {
         "date_added": "2023-4-8",
@@ -2549,7 +2581,7 @@
             ]
         ],
         "type": null,
-        "priority": 24.9
+        "priority": 12.45
     },
     "underscore": {
         "date_added": "2023-4-8",
@@ -2957,5 +2989,38 @@
         ],
         "type": "vocabulary",
         "priority": 100
+    },
+    "dogmatic": {
+        "date_added": "2023-4-14",
+        "review_history": [
+            [
+                "2023-4-14",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100
+    },
+    "fraudulent": {
+        "date_added": "2023-4-14",
+        "review_history": [
+            [
+                "2023-4-14",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100
+    },
+    "A record": {
+        "date_added": "2023-4-14",
+        "review_history": [
+            [
+                "2023-4-14",
+                "m"
+            ]
+        ],
+        "type": "computer networking",
+        "priority": 100.0
     }
 }
