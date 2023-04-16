@@ -3293,5 +3293,16 @@
         ],
         "type": "vocabulary",
         "priority": 100.0
+    },
+    "ostentatious": {
+        "date_added": "2023-4-15",
+        "review_history": [
+            [
+                "2023-4-15",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
     }
 }
