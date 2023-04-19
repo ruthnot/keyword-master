@@ -83,6 +83,10 @@
             [
                 "2023-4-9",
                 "m"
+            ],
+            [
+                "2023-4-18",
+                "h"
             ]
         ],
         "type": "computer_network",
@@ -794,6 +798,10 @@
             [
                 "2023-4-12",
                 "l"
+            ],
+            [
+                "2023-4-18",
+                "m"
             ]
         ],
         "type": "vocabulary",
@@ -1181,9 +1189,13 @@
             [
                 "2023-4-10",
                 "m"
+            ],
+            [
+                "2023-4-18",
+                "m"
             ]
         ],
-        "type": null,
+        "type": "psychology",
         "priority": 12.1
     },
     "Tsar": {
@@ -1257,9 +1269,13 @@
             [
                 "2023-4-10",
                 "l"
+            ],
+            [
+                "2023-4-18",
+                "h"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 6.05
     },
     "endow": {
@@ -1310,9 +1326,13 @@
             [
                 "2023-4-10",
                 "m"
+            ],
+            [
+                "2023-4-18",
+                "h"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 12.1
     },
     "disposition": {
@@ -1545,9 +1565,13 @@
             [
                 "2023-4-8",
                 "m"
+            ],
+            [
+                "2023-4-18",
+                "h"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 11.85
     },
     "Michelangelo": {
@@ -1594,9 +1618,13 @@
             [
                 "2023-4-10",
                 "l"
+            ],
+            [
+                "2023-4-18",
+                "h"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 12.1
     },
     "rebuke": {
@@ -1643,9 +1671,13 @@
             [
                 "2023-4-10",
                 "l"
+            ],
+            [
+                "2023-4-18",
+                "l"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 12.1
     },
     "punitive": {
@@ -1715,9 +1747,13 @@
             [
                 "2023-4-9",
                 "m"
+            ],
+            [
+                "2023-4-18",
+                "m"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 11.95
     },
     "poised": {
@@ -1779,9 +1815,13 @@
             [
                 "2023-4-11",
                 "l"
+            ],
+            [
+                "2023-4-18",
+                "h"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 6.15
     },
     "temporal": {
@@ -1978,9 +2018,13 @@
             [
                 "2023-4-9",
                 "l"
+            ],
+            [
+                "2023-4-18",
+                "m"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 12.0
     },
     "endowment": {
@@ -2218,9 +2262,13 @@
             [
                 "2023-4-6",
                 "m"
+            ],
+            [
+                "2023-4-18",
+                "h"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 11.6
     },
     "ordain": {
@@ -2498,9 +2546,13 @@
             [
                 "2023-4-7",
                 "m"
+            ],
+            [
+                "2023-4-18",
+                "l"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 11.7
     },
     "engross": {
@@ -2575,9 +2627,13 @@
             [
                 "2023-4-8",
                 "m"
+            ],
+            [
+                "2023-4-18",
+                "m"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 11.85
     },
     "impede": {
@@ -2783,9 +2839,13 @@
             [
                 "2023-4-9",
                 "m"
+            ],
+            [
+                "2023-4-18",
+                "m"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 11.95
     },
     "Mesopotamia": {
@@ -3462,5 +3522,126 @@
         ],
         "type": "vocabulary",
         "priority": 100
+    },
+    "cannibalization": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": "business",
+        "priority": 100.0
+    },
+    "assertion": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "content": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "wryly": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "Type I vs II Diabetes": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": "nutrition",
+        "priority": 100.0
+    },
+    "intrinsic vs. free sugar": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": "nutrition",
+        "priority": 100.0
+    },
+    "hyperglycemia": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": "nutrition",
+        "priority": 100.0
+    },
+    "hyperlipidemia": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": "nutrition",
+        "priority": 100.0
+    },
+    "hypertension": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": "nutrition",
+        "priority": 100.0
+    },
+    "Metabolic Syndrome": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "cholesterol": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
     }
 }

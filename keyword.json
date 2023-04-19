@@ -3522,5 +3522,148 @@
         ],
         "type": "vocabulary",
         "priority": 100
+    },
+    "cannibalization": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": "business",
+        "priority": 100.0
+    },
+    "assertion": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "content": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "wryly": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "Type I vs II Diabetes": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": "nutrition",
+        "priority": 100.0
+    },
+    "intrinsic vs. free sugar": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": "nutrition",
+        "priority": 100.0
+    },
+    "hyperglycemia": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": "nutrition",
+        "priority": 100.0
+    },
+    "hyperlipidemia": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": "nutrition",
+        "priority": 100.0
+    },
+    "hypertension": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": "nutrition",
+        "priority": 100.0
+    },
+    "Metabolic Syndrome": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "cholesterol": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "HDL vs LDL Cholesterol": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": "nutrition",
+        "priority": 100.0
+    },
+    "Triglycerides": {
+        "date_added": "2023-4-18",
+        "review_history": [
+            [
+                "2023-4-18",
+                "m"
+            ]
+        ],
+        "type": "nutrition",
+        "priority": 100.0
     }
 }
