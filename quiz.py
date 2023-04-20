@@ -37,6 +37,19 @@ def main():
                 new_type = 'vocabulary'
             keyword_tuple[2]['type'] = new_type
             print(f'You updated type: "{new_type}"')
+        elif '-a' in user_input:
+            word_idx = user_input.index('-a') + 1
+            type_idx = None
+            if '-t' in user_input:
+                type_idx = user_input.index('-t')
+            if type_idx is None:
+                new_word = user_input[word_idx:].strip()
+                new_type = None
+            else:
+                new_word = user_input[word_idx:type_idx].strip()
+                new_type = user_input[type_idx+1:].strip()
+            db.add(new_word, new_type)
+
         elif user_input == 'h' or user_input == 'm' or user_input == 'l':
             keyword_tuple[2]['review_history'].append([db.today, user_input])
             idx += 1

@@ -19,6 +19,18 @@ class DBHelper(object):
         today_date = dt.datetime.today().date()
         return f'{today_date.year}-{today_date.month}-{today_date.day}'
 
+    def add(self, keyword, type=None):
+        if len(keyword) == 0:
+            print('Error: Empty keyword, input again!\n')
+        elif keyword in self.keywords:
+            print('Warning: Keyword already existed!\n')
+        elif keyword in self.keywords:
+            print(f'Keyword exsited!')
+        else:
+            self.keywords[keyword] = {'date_added': self.today, 'review_history': [[self.today, 'm']], 'type': type, 'priority': 100.}
+            print(f'Added keyword: "{keyword}", with type: "{type}"!\n')
+
+
     def overwrite(self, data):
         # Always backup first
         self.backup()
