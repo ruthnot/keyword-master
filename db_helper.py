@@ -30,7 +30,6 @@ class DBHelper(object):
             self.keywords[keyword] = {'date_added': self.today, 'review_history': [[self.today, 'm']], 'type': type, 'priority': 100.}
             print(f'Added keyword: "{keyword}", with type: "{type}"!\n')
 
-
     def overwrite(self, data):
         # Always backup first
         self.backup()

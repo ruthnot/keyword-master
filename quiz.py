@@ -31,7 +31,7 @@ def main():
         if user_input == '-q' or user_input == 'exit':
             print('Have a nice day!')
             break
-        elif '-t' in user_input:
+        elif '-t' in user_input and '-a' not in user_input:
             new_type = user_input.split('-t')[-1].strip()
             if 'vocab' in new_type:
                 new_type = 'vocabulary'
@@ -48,8 +48,7 @@ def main():
             else:
                 new_word = user_input[word_idx:type_idx].strip()
                 new_type = user_input[type_idx+1:].strip()
-            db.add(new_word, new_type)
-
+            continue
         elif user_input == 'h' or user_input == 'm' or user_input == 'l':
             keyword_tuple[2]['review_history'].append([db.today, user_input])
             idx += 1
