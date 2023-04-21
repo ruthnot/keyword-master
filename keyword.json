@@ -3944,5 +3944,280 @@
         ],
         "type": "vocabulary",
         "priority": 100
+    },
+    "aperture": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "Pinhole Camera Model": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "Focal Length": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "Camera obscura": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "GSR": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "homogeneous coordinates": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "DMS": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "Camera Calibration": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "homogeneous linear system": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "singluar value decomposition": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "linear algebra",
+        "priority": 100.0
+    },
+    "Radial Distortion": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "Tangential Distortion": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "Linear Least Square": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "linear Algebra",
+        "priority": 100.0
+    },
+    "Projection Matrix": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "RQ Factorization": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "retina": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "stereopsis": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "Stereo Camera -v AV": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "Monocular Camera Calibration": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "Stereo Camera Calibration": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "javelin": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "Materialism": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "psychology",
+        "priority": 100.0
+    },
+    "Dualism": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "philosophy",
+        "priority": 100.0
+    },
+    "Rene Descartes": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "people",
+        "priority": 100.0
+    },
+    "I think therefore I am": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "quote",
+        "priority": 100.0
     }
 }

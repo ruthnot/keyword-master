@@ -652,9 +652,13 @@
             [
                 "2023-4-9",
                 "m"
+            ],
+            [
+                "2023-4-21",
+                "h"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 11.6
     },
     "resilience": {
@@ -1373,9 +1377,13 @@
             [
                 "2023-4-12",
                 "m"
+            ],
+            [
+                "2023-4-21",
+                "m"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 11.95
     },
     "countenance": {
@@ -1559,9 +1567,13 @@
             [
                 "2023-4-7",
                 "m"
+            ],
+            [
+                "2023-4-21",
+                "h"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 11.45
     },
     "fresco": {
@@ -1631,6 +1643,10 @@
             [
                 "2023-4-15",
                 "l"
+            ],
+            [
+                "2023-4-21",
+                "h"
             ]
         ],
         "type": "vocabulary",
@@ -1889,9 +1905,13 @@
             [
                 "2023-4-12",
                 "l"
+            ],
+            [
+                "2023-4-21",
+                "l"
             ]
         ],
-        "type": "test",
+        "type": "vocabulary",
         "priority": 12.0
     },
     "atone": {
@@ -1942,9 +1962,13 @@
             [
                 "2023-4-12",
                 "l"
+            ],
+            [
+                "2023-4-21",
+                "l"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 12.0
     },
     "bewitch": {
@@ -2059,9 +2083,13 @@
             [
                 "2023-4-12",
                 "l"
+            ],
+            [
+                "2023-4-21",
+                "h"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 12.0
     },
     "arraignment": {
@@ -2123,6 +2151,10 @@
             [
                 "2023-4-12",
                 "l"
+            ],
+            [
+                "2023-4-21",
+                "h"
             ]
         ],
         "type": "vocabulary",
@@ -2157,6 +2189,10 @@
             [
                 "2023-4-13",
                 "m"
+            ],
+            [
+                "2023-4-21",
+                "m"
             ]
         ],
         "type": "vocabulary",
@@ -2172,6 +2208,10 @@
             [
                 "2023-4-13",
                 "l"
+            ],
+            [
+                "2023-4-21",
+                "h"
             ]
         ],
         "type": "computer networking",
@@ -2457,9 +2497,13 @@
             [
                 "2023-4-12",
                 "l"
+            ],
+            [
+                "2023-4-21",
+                "m"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 12.0
     },
     "atonement": {
@@ -2890,9 +2934,13 @@
             [
                 "2023-4-9",
                 "m"
+            ],
+            [
+                "2023-4-21",
+                "m"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 11.6
     },
     "The Tower of Babel": {
@@ -3042,6 +3090,10 @@
             [
                 "2023-4-11",
                 "m"
+            ],
+            [
+                "2023-4-21",
+                "m"
             ]
         ],
         "type": null,
@@ -3090,9 +3142,13 @@
             [
                 "2023-4-12",
                 "m"
+            ],
+            [
+                "2023-4-21",
+                "m"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 11.95
     },
     "Comprehensions": {
@@ -3112,6 +3168,10 @@
             [
                 "2023-4-12",
                 "m"
+            ],
+            [
+                "2023-4-21",
+                "h"
             ]
         ],
         "type": "python",
@@ -3255,9 +3315,13 @@
             [
                 "2023-4-14",
                 "m"
+            ],
+            [
+                "2023-4-21",
+                "h"
             ]
         ],
-        "type": null,
+        "type": "vocabulary",
         "priority": 12.25
     },
     "chairlift": {
@@ -3287,6 +3351,10 @@
         "review_history": [
             [
                 "2023-4-14",
+                "m"
+            ],
+            [
+                "2023-4-21",
                 "m"
             ]
         ],
@@ -3321,6 +3389,10 @@
             [
                 "2023-4-14",
                 "m"
+            ],
+            [
+                "2023-4-21",
+                "h"
             ]
         ],
         "type": "people",
@@ -3343,6 +3415,10 @@
             [
                 "2023-4-14",
                 "m"
+            ],
+            [
+                "2023-4-21",
+                "h"
             ]
         ],
         "type": "nutrition",
@@ -3353,6 +3429,10 @@
         "review_history": [
             [
                 "2023-4-14",
+                "m"
+            ],
+            [
+                "2023-4-21",
                 "m"
             ]
         ],
@@ -3864,5 +3944,115 @@
         ],
         "type": "vocabulary",
         "priority": 100
+    },
+    "aperture": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "Pinhole Camera Model": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "Focal Length": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "Camera obscura": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "GSR": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "homogeneous coordinates": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "DMS": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "Camera Calibration": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "homogeneous linear system": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "AV",
+        "priority": 100.0
+    },
+    "singluar value decomposition": {
+        "date_added": "2023-4-21",
+        "review_history": [
+            [
+                "2023-4-21",
+                "m"
+            ]
+        ],
+        "type": "linear algebra",
+        "priority": 100.0
     }
 }
