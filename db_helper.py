@@ -60,5 +60,7 @@ class DBHelper(object):
         for freq, count in freq_count.items():
             perc = round(count / total_count * 100, 2)
             freq_perc[freq] = f'{perc}%'
-        print(freq_perc)
-        return freq_perc
+
+        sorted_perc = dict(sorted(freq_perc.items(), key=lambda x: x[0]))
+        print(sorted_perc)
+        return sorted_perc
