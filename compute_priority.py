@@ -2,9 +2,10 @@ import math
 import datetime as dt
 import random
 
-RATE_WEIGHT = {'h': 1.5, 'm': 1.0, 'l': 0.5}
+RATE_WEIGHT = {'h': 1.5, 'm': 1.1, 'l': 0.5}
 CALM_WINDOW = 5
 RANDOM_BOMBING = {'prob': 0.2, 'weight': 0.5}
+RANDOM_WEIGHT = [0.8, 1.0, 1.2]
 
 
 class ComputePriority(object):
@@ -36,6 +37,12 @@ class ComputePriority(object):
             coin = random.random()
             if coin < RANDOM_BOMBING['prob']:
                 val['priority'] *= RANDOM_BOMBING['weight']
+
+            # Random weight: toss a coin and decide the random weight
+            # This is to avoid 2 similar keywords always stick together
+            coin2 = random.randint(0, len(RANDOM_WEIGHT)-1)
+            random_weight = RANDOM_WEIGHT[coin2]
+            val['priority'] *= random_weight
 
         return keywords
 
