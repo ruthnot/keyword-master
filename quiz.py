@@ -53,7 +53,7 @@ def main():
                 new_type = None
             else:
                 new_word = user_input[word_idx:type_idx].strip()
-                new_type = user_input[type_idx+1:].strip()
+                new_type = user_input[type_idx+2:].strip()
             db.add(new_word, new_type)
         elif user_input == 'h' or user_input == 'm' or user_input == 'l':
             keyword_tuple[2]['review_history'].append([db.today, user_input])
