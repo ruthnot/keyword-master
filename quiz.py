@@ -10,7 +10,7 @@ def main():
 
     sorted_keywords = []
     for keyword_name, keyword_data in keywords.items():
-        sorted_keywords.append((keyword_data['priority'], keyword_name, keyword_data))
+        sorted_keywords.append([keyword_data['priority'], keyword_name, keyword_data])
     sorted_keywords.sort(key=lambda x: x[0])
 
     idx = 0
@@ -31,6 +31,12 @@ def main():
         if user_input == '-q' or user_input == 'exit':
             print('Have a nice day!')
             break
+        elif '-e' in user_input:
+            new_name = user_input.split('-e')[-1].strip()
+            old_name = keyword_tuple[1]
+            keywords[new_name] = keywords.pop(old_name)
+            keyword_tuple[1] = new_name
+            print(f'Change name to {new_name}!')
         elif '-t' in user_input and '-a' not in user_input:
             new_type = user_input.split('-t')[-1].strip()
             if 'vocab' in new_type:
@@ -38,7 +44,7 @@ def main():
             keyword_tuple[2]['type'] = new_type
             print(f'You updated type: "{new_type}"')
         elif '-a' in user_input:
-            word_idx = user_input.index('-a') + 1
+            word_idx = user_input.index('-a') + 2
             type_idx = None
             if '-t' in user_input:
                 type_idx = user_input.index('-t')
@@ -48,7 +54,7 @@ def main():
             else:
                 new_word = user_input[word_idx:type_idx].strip()
                 new_type = user_input[type_idx+1:].strip()
-            continue
+            db.add(new_word, new_type)
         elif user_input == 'h' or user_input == 'm' or user_input == 'l':
             keyword_tuple[2]['review_history'].append([db.today, user_input])
             idx += 1

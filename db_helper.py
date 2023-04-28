@@ -7,12 +7,12 @@ BACKUP_PATH = 'keyword_backup.json'
 
 class DBHelper(object):
     def __init__(self):
-        pass
+        self.keywords = json.load(open(PATH))
 
-    @property
-    def keywords(self):
-        f = open(PATH)
-        return json.load(f)
+    # @property
+    # def keywords(self):
+    #     f = open(PATH)
+    #     return json.load(f)
 
     @property
     def today(self):
