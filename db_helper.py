@@ -55,12 +55,17 @@ class DBHelper(object):
         freq_perc = {}
         total_count = self.total_count()
         for kw, val in self.keywords.items():
-            freq = len(val['review_history'])
+            if val['priority'] == 100:   # means it's in calm window
+                freq_count[-1] = freq_count.get(-1, 0) + 1
+                continue
+            freq = len(val['review_history']) - 1
             freq_count[freq] = freq_count.get(freq, 0) + 1
         for freq, count in freq_count.items():
             perc = round(count / total_count * 100, 2)
             freq_perc[freq] = f'{perc}%'
 
         sorted_perc = dict(sorted(freq_perc.items(), key=lambda x: x[0]))
+        sorted_count = dict(sorted(freq_count.items(), key=lambda x: x[0]))
         print(sorted_perc)
+        print(sorted_count)
         return sorted_perc
