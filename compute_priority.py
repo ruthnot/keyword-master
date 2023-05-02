@@ -1,11 +1,16 @@
 import math
 import datetime as dt
 import random
+import yaml
 
-RATE_WEIGHT = {'h': 1.5, 'm': 1.1, 'l': 0.5}
-CALM_WINDOW = 5
-RANDOM_BOMBING = {'prob': 0.2, 'weight': 0.5}
-RANDOM_WEIGHT = [0.8, 1.0, 1.2]
+with open('config.yml', 'r') as file:
+    configs = yaml.safe_load(file)
+
+RATE_WEIGHT = configs['rate_weight']
+CALM_WINDOW = configs['calm_window']
+RANDOM_BOMBING = configs['random_bombing']
+RANDOM_WEIGHT = configs['random_weight']
+NEW_WORD_WEIGHT = configs['new_word_weight']
 
 
 class ComputePriority(object):
@@ -43,6 +48,11 @@ class ComputePriority(object):
             coin2 = random.randint(0, len(RANDOM_WEIGHT)-1)
             random_weight = RANDOM_WEIGHT[coin2]
             val['priority'] *= random_weight
+
+            # Promote new words:
+            # Words passed calm window but hasn't been reviewed yet
+            if len(val['review_history']) <= 1:
+                val['priority'] *= NEW_WORD_WEIGHT
 
         return keywords
 

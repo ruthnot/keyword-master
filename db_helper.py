@@ -1,8 +1,12 @@
+import datetime
 import json
 import datetime as dt
+import yaml
 
 PATH = 'keyword.json'
 BACKUP_PATH = 'keyword_backup.json'
+with open('config.yml', 'r') as file:
+    CONFIGS = yaml.safe_load(file)
 
 
 class DBHelper(object):
@@ -50,12 +54,22 @@ class DBHelper(object):
         print(count)
         return count
 
+    def date_to_datetimedate(self, date):
+        assert isinstance(date, str)
+        info = date.split('-')
+        year, month, day = int(info[0]), int(info[1]), int(info[2])
+        datetimedate = datetime.date(year, month, day)
+        return datetimedate
+
     def review_freq(self):
         freq_count = {}
         freq_perc = {}
         total_count = self.total_count()
         for kw, val in self.keywords.items():
-            if val['priority'] == 100:   # means it's in calm window
+            date_added = self.date_to_datetimedate(val['date_added'])
+            duration = (self.date_to_datetimedate(self.today) - date_added).days
+            calm_window = CONFIGS['calm_window']
+            if duration <= calm_window:
                 freq_count[-1] = freq_count.get(-1, 0) + 1
                 continue
             freq = len(val['review_history']) - 1
