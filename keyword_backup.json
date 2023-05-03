@@ -6158,5 +6158,214 @@
         ],
         "type": "vocabulary",
         "priority": 100
+    },
+    "obstrude -v vocab": {
+        "date_added": "2023-5-2",
+        "review_history": [
+            [
+                "2023-5-2",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "whimsical": {
+        "date_added": "2023-5-2",
+        "review_history": [
+            [
+                "2023-5-2",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "capricious": {
+        "date_added": "2023-5-2",
+        "review_history": [
+            [
+                "2023-5-2",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "droop": {
+        "date_added": "2023-5-2",
+        "review_history": [
+            [
+                "2023-5-2",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "loom": {
+        "date_added": "2023-5-2",
+        "review_history": [
+            [
+                "2023-5-2",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "menace": {
+        "date_added": "2023-5-2",
+        "review_history": [
+            [
+                "2023-5-2",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "commandeer": {
+        "date_added": "2023-5-2",
+        "review_history": [
+            [
+                "2023-5-2",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "venue": {
+        "date_added": "2023-5-2",
+        "review_history": [
+            [
+                "2023-5-2",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "disparity": {
+        "date_added": "2023-5-2",
+        "review_history": [
+            [
+                "2023-5-2",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "pinnacle": {
+        "date_added": "2023-5-2",
+        "review_history": [
+            [
+                "2023-5-2",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "nuance": {
+        "date_added": "2023-5-2",
+        "review_history": [
+            [
+                "2023-5-2",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "stipulation": {
+        "date_added": "2023-5-2",
+        "review_history": [
+            [
+                "2023-5-2",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "solidarity": {
+        "date_added": "2023-5-2",
+        "review_history": [
+            [
+                "2023-5-2",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "dismay": {
+        "date_added": "2023-5-2",
+        "review_history": [
+            [
+                "2023-5-2",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "timorous": {
+        "date_added": "2023-5-2",
+        "review_history": [
+            [
+                "2023-5-2",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "ascertain": {
+        "date_added": "2023-5-2",
+        "review_history": [
+            [
+                "2023-5-2",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "complacency": {
+        "date_added": "2023-5-2",
+        "review_history": [
+            [
+                "2023-5-2",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "disdain": {
+        "date_added": "2023-5-2",
+        "review_history": [
+            [
+                "2023-5-2",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
+    },
+    "welfare": {
+        "date_added": "2023-5-2",
+        "review_history": [
+            [
+                "2023-5-2",
+                "m"
+            ]
+        ],
+        "type": "vocabulary",
+        "priority": 100.0
     }
 }
