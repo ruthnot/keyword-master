@@ -7,4 +7,4 @@ random_bombing:
   prob: 0.2
   weight: 0.3
 random_weight: [0.8, 1.0, 1.2]
-new_word_weight: 0.5
+new_word_weight: 0.6
