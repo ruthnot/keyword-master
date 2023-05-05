@@ -25,7 +25,7 @@ def main():
             idx += 1
             continue
         kw_type = keyword_tuple[2]['type']
-        print(f'{review_count}. "{keyword_tuple[1]}", type[{kw_type}]. Type confidence level: h, m, l')
+        print(f'{review_count}. "{keyword_tuple[1]}", [type: {kw_type}]. Type confidence level: h, m, l')
         user_input = input()
 
         if user_input == '-q' or user_input == 'exit':
@@ -39,9 +39,7 @@ def main():
             print(f'Change name to {new_name}!')
         elif '-t' in user_input and '-a' not in user_input:
             new_type = user_input.split('-t')[-1].strip()
-            if 'vocab' in new_type:
-                new_type = 'vocabulary'
-            keyword_tuple[2]['type'] = new_type
+            keyword_tuple[2]['type'] = DBHelper.type_convert(new_type)
             print(f'You updated type: "{new_type}"')
         elif '-a' in user_input:
             word_idx = user_input.index('-a') + 2

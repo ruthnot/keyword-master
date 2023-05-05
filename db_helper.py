@@ -5,34 +5,39 @@ import yaml
 
 PATH = 'keyword.json'
 BACKUP_PATH = 'keyword_backup.json'
-with open('config.yml', 'r') as file:
+with open('configs/priority.yml', 'r') as file:
     CONFIGS = yaml.safe_load(file)
+with open('configs/glossary.yml', 'r') as file2:
+    GLOSSARY = yaml.safe_load(file2)
 
 
 class DBHelper(object):
     def __init__(self):
         self.keywords = json.load(open(PATH))
 
-    # @property
-    # def keywords(self):
-    #     f = open(PATH)
-    #     return json.load(f)
-
     @property
     def today(self):
         today_date = dt.datetime.today().date()
         return f'{today_date.year}-{today_date.month}-{today_date.day}'
 
+    @staticmethod
+    def type_convert(raw_type):
+        if raw_type in GLOSSARY:
+            return GLOSSARY[raw_type]
+        return raw_type
+
     def add(self, keyword, type=None):
         if len(keyword) == 0:
-            print('Error: Empty keyword, input again!\n')
+            print(f'Error: Empty keyword, input again!\n')
         elif keyword in self.keywords:
-            print('Warning: Keyword already existed!\n')
-        elif keyword in self.keywords:
-            print(f'Keyword exsited!')
+            print(f'Warning: "{keyword}" already existed!\n')
         else:
-            self.keywords[keyword] = {'date_added': self.today, 'review_history': [[self.today, 'm']], 'type': type, 'priority': 100.}
-            print(f'Added keyword: "{keyword}", with type: "{type}"!\n')
+            convert_type = self.type_convert(type)
+            self.keywords[keyword] = {'date_added': self.today,
+                                      'review_history': [[self.today, 'm']],
+                                      'type': convert_type,
+                                      'priority': 100.}
+            print(f'Added keyword: "{keyword}", with type: "{convert_type}"!\n')
 
     def overwrite(self, data):
         # Always backup first

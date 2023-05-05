@@ -15,21 +15,20 @@ def main():
         if '-t' in user_input:
             keyword = user_input.split('-t')[0].strip()
             type = user_input.split('-t')[1].strip()
-            if 'vocab' in type:
-                type = 'vocabulary'
         else:
             keyword = user_input.strip()
             type = None
+        db.add(keyword, type)
 
-        if len(keyword) == 0:
-            print('Error: Empty keyword, input again!\n')
-            continue
-        if keyword in keywords:
-            print('Warning: Keyword already existed!\n')
-            continue
-        keywords[keyword] = {'date_added': today, 'review_history': [[today, 'm']], 'type': type, 'priority': 100.}
-
-        print(f'Added keyword: "{keyword}", with type: "{type}"!\n')
+        # if len(keyword) == 0:
+        #     print('Error: Empty keyword, input again!\n')
+        #     continue
+        # if keyword in keywords:
+        #     print('Warning: Keyword already existed!\n')
+        #     continue
+        # keywords[keyword] = {'date_added': today, 'review_history': [[today, 'm']], 'type': type, 'priority': 100.}
+        #
+        # print(f'Added keyword: "{keyword}", with type: "{type}"!\n')
     db.overwrite(keywords)
 
 

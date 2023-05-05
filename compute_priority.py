@@ -3,7 +3,7 @@ import datetime as dt
 import random
 import yaml
 
-with open('config.yml', 'r') as file:
+with open('configs/priority.yml', 'r') as file:
     configs = yaml.safe_load(file)
 
 RATE_WEIGHT = configs['rate_weight']
