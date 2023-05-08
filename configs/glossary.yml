@@ -1,5 +1,6 @@
 vocab: Vocabulary
 voc: Vocabulary
+vb: Vocabulary
 cv: Computer Vision
 cg: Computer Graphivs
 ml: Machine Learning
@@ -14,3 +15,7 @@ wd: Web Development
 fit: Fitness
 nu: Nutrition
 av: Autonomous Vehicle
+ppl: People
+org: Organization
+fin: Finance
+py: Python
