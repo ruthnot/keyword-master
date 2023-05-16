@@ -31,6 +31,10 @@ def main():
         if user_input == '-q' or user_input == 'exit':
             print('Have a nice day!')
             break
+        elif '-delete' in user_input:
+            del keywords[keyword_tuple[1]]
+            idx += 1
+            continue
         elif '-e' in user_input:
             new_name = user_input.split('-e')[-1].strip()
             old_name = keyword_tuple[1]
