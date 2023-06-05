@@ -1963,7 +1963,7 @@
                 "m"
             ]
         ],
-        "type": "computer networking",
+        "type": "Computer Networking",
         "priority": 5.472
     },
     "jitter": {
@@ -2440,6 +2440,10 @@
             ],
             [
                 "2023-5-13",
+                "l"
+            ],
+            [
+                "2023-5-30",
                 "l"
             ]
         ],
@@ -3417,6 +3421,10 @@
             [
                 "2023-5-19",
                 "l"
+            ],
+            [
+                "2023-5-30",
+                "m"
             ]
         ],
         "type": "Vocabulary",
@@ -4443,6 +4451,10 @@
             [
                 "2023-4-18",
                 "m"
+            ],
+            [
+                "2023-5-30",
+                "m"
             ]
         ],
         "type": "nutrition",
@@ -5095,6 +5107,10 @@
             [
                 "2023-5-7",
                 "l"
+            ],
+            [
+                "2023-5-30",
+                "m"
             ]
         ],
         "type": "Vocabulary",
@@ -5493,6 +5509,10 @@
             [
                 "2023-5-17",
                 "l"
+            ],
+            [
+                "2023-5-30",
+                "m"
             ]
         ],
         "type": "Vocabulary",
@@ -5861,9 +5881,13 @@
             [
                 "2023-4-24",
                 "m"
+            ],
+            [
+                "2023-5-30",
+                "m"
             ]
         ],
-        "type": null,
+        "type": "Biology",
         "priority": 4.829999999999999
     },
     "trench": {
@@ -6798,6 +6822,10 @@
             ],
             [
                 "2023-5-14",
+                "l"
+            ],
+            [
+                "2023-5-30",
                 "l"
             ]
         ],
@@ -7941,6 +7969,10 @@
             [
                 "2023-5-14",
                 "m"
+            ],
+            [
+                "2023-5-30",
+                "h"
             ]
         ],
         "type": "Vocabulary",
@@ -7966,6 +7998,10 @@
         "review_history": [
             [
                 "2023-5-14",
+                "m"
+            ],
+            [
+                "2023-5-30",
                 "m"
             ]
         ],
@@ -8019,6 +8055,10 @@
             [
                 "2023-5-15",
                 "m"
+            ],
+            [
+                "2023-5-30",
+                "l"
             ]
         ],
         "type": "Vocabulary",
@@ -8040,6 +8080,10 @@
         "review_history": [
             [
                 "2023-5-15",
+                "m"
+            ],
+            [
+                "2023-5-30",
                 "m"
             ]
         ],
@@ -8114,6 +8158,10 @@
         "review_history": [
             [
                 "2023-5-16",
+                "m"
+            ],
+            [
+                "2023-5-30",
                 "m"
             ]
         ],
@@ -8317,17 +8365,6 @@
         "type": "Probability",
         "priority": 14.447999999999999
     },
-    "cumulative distribution function": {
-        "date_added": "2023-5-19",
-        "review_history": [
-            [
-                "2023-5-19",
-                "m"
-            ]
-        ],
-        "type": null,
-        "priority": 5.418
-    },
     "prefrontal cortex": {
         "date_added": "2023-5-20",
         "review_history": [
@@ -8367,6 +8404,10 @@
             [
                 "2023-5-23",
                 "m"
+            ],
+            [
+                "2023-5-30",
+                "m"
             ]
         ],
         "type": "Deep Learning",
@@ -8388,6 +8429,10 @@
         "review_history": [
             [
                 "2023-5-23",
+                "m"
+            ],
+            [
+                "2023-5-30",
                 "m"
             ]
         ],
@@ -8503,5 +8548,42 @@
         ],
         "type": "math",
         "priority": 100
+    },
+    "activation function": {
+        "date_added": "2023-5-30",
+        "review_history": [
+            [
+                "2023-5-30",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "cononical name": {
+        "date_added": "2023-5-30",
+        "review_history": [
+            [
+                "2023-5-30",
+                "m"
+            ]
+        ],
+        "type": "Computer Networking",
+        "priority": 100.0
+    },
+    "Cumulative Distribution Function (CDF)": {
+        "date_added": "2023-5-19",
+        "review_history": [
+            [
+                "2023-5-19",
+                "m"
+            ],
+            [
+                "2023-5-30",
+                "l"
+            ]
+        ],
+        "type": "Probability",
+        "priority": 5.418
     }
 }

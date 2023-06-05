@@ -8585,5 +8585,60 @@
         ],
         "type": "Probability",
         "priority": 5.418
+    },
+    "obfuscate": {
+        "date_added": "2023-5-30",
+        "review_history": [
+            [
+                "2023-5-30",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "reconnaissace": {
+        "date_added": "2023-5-30",
+        "review_history": [
+            [
+                "2023-5-30",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "ReLU": {
+        "date_added": "2023-5-30",
+        "review_history": [
+            [
+                "2023-5-30",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "sigmoid": {
+        "date_added": "2023-5-30",
+        "review_history": [
+            [
+                "2023-5-30",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "cross-entropy loss": {
+        "date_added": "2023-5-30",
+        "review_history": [
+            [
+                "2023-5-30",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
     }
 }
