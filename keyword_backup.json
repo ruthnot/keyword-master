@@ -8585,5 +8585,159 @@
         ],
         "type": "Probability",
         "priority": 5.418
+    },
+    "obfuscate": {
+        "date_added": "2023-5-30",
+        "review_history": [
+            [
+                "2023-5-30",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "reconnaissace": {
+        "date_added": "2023-5-30",
+        "review_history": [
+            [
+                "2023-5-30",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "ReLU": {
+        "date_added": "2023-5-30",
+        "review_history": [
+            [
+                "2023-5-30",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "sigmoid": {
+        "date_added": "2023-5-30",
+        "review_history": [
+            [
+                "2023-5-30",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "cross-entropy loss": {
+        "date_added": "2023-5-30",
+        "review_history": [
+            [
+                "2023-5-30",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "precocial species": {
+        "date_added": "2023-6-4",
+        "review_history": [
+            [
+                "2023-6-4",
+                "m"
+            ]
+        ],
+        "type": "Biology",
+        "priority": 100.0
+    },
+    "inductive bias": {
+        "date_added": "2023-6-4",
+        "review_history": [
+            [
+                "2023-6-4",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "weight agnostic neural networks": {
+        "date_added": "2023-6-4",
+        "review_history": [
+            [
+                "2023-6-4",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "curse of dimensionality": {
+        "date_added": "2023-6-4",
+        "review_history": [
+            [
+                "2023-6-4",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "regularization": {
+        "date_added": "2023-6-4",
+        "review_history": [
+            [
+                "2023-6-4",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "learning rate": {
+        "date_added": "2023-6-4",
+        "review_history": [
+            [
+                "2023-6-4",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "epoch": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "momentum": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "hyper-parameters": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
     }
 }

@@ -2,7 +2,7 @@ vocab: Vocabulary
 voc: Vocabulary
 vb: Vocabulary
 cv: Computer Vision
-cg: Computer Graphivs
+cg: Computer Graphics
 ml: Machine Learning
 dl: Deep Learning
 phi: Philosophy
@@ -22,3 +22,6 @@ py: Python
 hi: History
 rel: Religion
 prob: Probability
+de: Data Engineering
+bo: Book
+phr: Phrase

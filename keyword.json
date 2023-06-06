@@ -8640,5 +8640,291 @@
         ],
         "type": "Deep Learning",
         "priority": 100.0
+    },
+    "precocial species": {
+        "date_added": "2023-6-4",
+        "review_history": [
+            [
+                "2023-6-4",
+                "m"
+            ]
+        ],
+        "type": "Biology",
+        "priority": 100.0
+    },
+    "inductive bias": {
+        "date_added": "2023-6-4",
+        "review_history": [
+            [
+                "2023-6-4",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "weight agnostic neural networks": {
+        "date_added": "2023-6-4",
+        "review_history": [
+            [
+                "2023-6-4",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "curse of dimensionality": {
+        "date_added": "2023-6-4",
+        "review_history": [
+            [
+                "2023-6-4",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "regularization": {
+        "date_added": "2023-6-4",
+        "review_history": [
+            [
+                "2023-6-4",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "learning rate": {
+        "date_added": "2023-6-4",
+        "review_history": [
+            [
+                "2023-6-4",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "epoch": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "momentum": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "hyper-parameters": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "ETl pipeline": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Data Engineering",
+        "priority": 100.0
+    },
+    "DBMS": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Data Engineering",
+        "priority": 100.0
+    },
+    "Database vs. Dat Warehouse vs. Data Lake": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Data Engineering",
+        "priority": 100.0
+    },
+    "NoSql Databases": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Data Engineering",
+        "priority": 100.0
+    },
+    "Cross-entropy Loss": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "model capacity": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "No free lunch theorem": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "Curse of dimensionality": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "modality": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "deep neural networks": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "dead ReLU": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "Leaky ReLU": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "saturations of activation functions": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "Tanh": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "Xavier initialization": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "weight initialization": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "vanishing gradient problem": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
     }
 }
