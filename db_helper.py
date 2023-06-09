@@ -59,6 +59,14 @@ class DBHelper(object):
         print(count)
         return count
 
+    def type_count(self):
+        count = dict()
+        for word, val in self.keywords.items():
+            type = val['type']
+            count[type] = count.get(type, 0) + 1
+        sorted_count = dict(sorted(count.items(), key=lambda item: item[1], reverse=True))
+        print(sorted_count)
+
     def date_to_datetimedate(self, date):
         assert isinstance(date, str)
         info = date.split('-')
