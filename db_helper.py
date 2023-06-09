@@ -26,6 +26,16 @@ class DBHelper(object):
             return GLOSSARY[raw_type]
         return raw_type
 
+    def get_keywords_subset(self, type):
+        if type in GLOSSARY:
+            type = GLOSSARY[type]
+        print(type)
+        subset = dict()
+        for keyword, value in self.keywords.items():
+            if type == value['type']:
+                subset[keyword] = value
+        return subset
+
     def add(self, keyword, type=None):
         if len(keyword) == 0:
             print(f'Error: Empty keyword, input again!\n')
@@ -38,6 +48,11 @@ class DBHelper(object):
                                       'type': convert_type,
                                       'priority': 100.}
             print(f'Added keyword: "{keyword}", with type: "{convert_type}"!\n')
+
+    def update(self, new_keywords):
+        for key, val in new_keywords.items():
+            self.keywords[key] = val
+        print('Database updated!')
 
     def overwrite(self, data):
         # Always backup first
@@ -65,7 +80,8 @@ class DBHelper(object):
             type = val['type']
             count[type] = count.get(type, 0) + 1
         sorted_count = dict(sorted(count.items(), key=lambda item: item[1], reverse=True))
-        print(sorted_count)
+        for k, v in sorted_count.items():
+            print(k, v)
 
     def date_to_datetimedate(self, date):
         assert isinstance(date, str)
