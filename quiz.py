@@ -1,31 +1,43 @@
+import random
 from db_helper import DBHelper
 from compute_priority import ComputePriority
+
+TOPIC = "ALL"
+SHUFFLE = True
 
 
 def main():
     db = DBHelper()
-    keywords = db.keywords
+    if TOPIC == "ALL":
+        keywords = db.keywords
+    else:
+        keywords = db.get_keywords_subset(TOPIC)
     keywords_new_priorities = ComputePriority().compute(keywords)
-    db.overwrite(keywords_new_priorities)
+    db.update(keywords_new_priorities)
 
     sorted_keywords = []
     for keyword_name, keyword_data in keywords.items():
         sorted_keywords.append([keyword_data['priority'], keyword_name, keyword_data])
-    sorted_keywords.sort(key=lambda x: x[0])
+
+    if SHUFFLE:
+        random.shuffle(sorted_keywords)
+    else:
+        sorted_keywords.sort(key=lambda x: x[0])
 
     idx = 0
     review_count = 1
+    total_count = len(sorted_keywords)
     while True:
         if idx >= len(sorted_keywords):
             print('Reached the end of database, goodbye!')
             break
         keyword_tuple = sorted_keywords[idx]
-        # skip priority 100 or above keywords
-        if keyword_tuple[0] >= 100:
+        # skip priority 100 or above keywords (only when topic is all)
+        if keyword_tuple[0] >= 100 and TOPIC == "ALL":
             idx += 1
             continue
         kw_type = keyword_tuple[2]['type']
-        print(f'{review_count}. "{keyword_tuple[1]}", [type: {kw_type}]. Type confidence level: h, m, l')
+        print(f'{review_count}/{total_count}. "{keyword_tuple[1]}", [type: {kw_type}]. Type confidence level: h, m, l')
         user_input = input()
 
         if user_input == '-q' or user_input == 'exit':
@@ -63,7 +75,7 @@ def main():
             review_count += 1
         else:
             print(f'User input: "{user_input}" not defined, please try again!\n')
-    db.overwrite(keywords)
+    db.update(keywords)
 
 
 if __name__=='__main__':

@@ -52,6 +52,7 @@ class DBHelper(object):
     def update(self, new_keywords):
         for key, val in new_keywords.items():
             self.keywords[key] = val
+        self.overwrite(self.keywords)
         print('Database updated!')
 
     def overwrite(self, data):
