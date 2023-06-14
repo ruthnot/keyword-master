@@ -3,7 +3,8 @@ from db_helper import DBHelper
 from compute_priority import ComputePriority
 
 TOPIC = "ALL"
-SHUFFLE = False
+# SHUFFLE = False
+SHUFFLE = True
 
 def main():
     db = DBHelper()
