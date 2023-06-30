@@ -10106,5 +10106,60 @@
         ],
         "type": "Deep Learning",
         "priority": 100
+    },
+    "regale": {
+        "date_added": "2023-6-23",
+        "review_history": [
+            [
+                "2023-6-23",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "pundit": {
+        "date_added": "2023-6-23",
+        "review_history": [
+            [
+                "2023-6-23",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "soot": {
+        "date_added": "2023-6-28",
+        "review_history": [
+            [
+                "2023-6-28",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "cellophane": {
+        "date_added": "2023-6-28",
+        "review_history": [
+            [
+                "2023-6-28",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "stoke": {
+        "date_added": "2023-6-28",
+        "review_history": [
+            [
+                "2023-6-28",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
     }
 }
