@@ -5636,6 +5636,10 @@
             [
                 "2023-4-22",
                 "m"
+            ],
+            [
+                "2023-7-21",
+                "l"
             ]
         ],
         "type": "Vocabulary",
@@ -6089,6 +6093,10 @@
             [
                 "2023-5-8",
                 "l"
+            ],
+            [
+                "2023-7-21",
+                "l"
             ]
         ],
         "type": "Vocabulary",
@@ -6176,6 +6184,10 @@
             ],
             [
                 "2023-7-1",
+                "l"
+            ],
+            [
+                "2023-7-21",
                 "l"
             ]
         ],
@@ -7057,6 +7069,10 @@
             [
                 "2023-6-9",
                 "l"
+            ],
+            [
+                "2023-7-21",
+                "h"
             ]
         ],
         "type": "Vocabulary",
@@ -7132,6 +7148,10 @@
             [
                 "2023-6-14",
                 "l"
+            ],
+            [
+                "2023-7-21",
+                "m"
             ]
         ],
         "type": "Vocabulary",
@@ -7441,17 +7461,6 @@
         "type": "ML",
         "priority": 9.840000000000002
     },
-    "preference bias": {
-        "date_added": "2023-5-2",
-        "review_history": [
-            [
-                "2023-5-2",
-                "m"
-            ]
-        ],
-        "type": "ML",
-        "priority": 3.6119999999999997
-    },
     "Occam's Razor": {
         "date_added": "2023-5-2",
         "review_history": [
@@ -7760,17 +7769,6 @@
         ],
         "type": "Vocabulary",
         "priority": 12.5
-    },
-    "fugitive -r voc": {
-        "date_added": "2023-5-5",
-        "review_history": [
-            [
-                "2023-5-5",
-                "m"
-            ]
-        ],
-        "type": null,
-        "priority": 3.6288000000000005
     },
     "provost": {
         "date_added": "2023-5-5",
@@ -8405,6 +8403,10 @@
             [
                 "2023-5-15",
                 "m"
+            ],
+            [
+                "2023-7-21",
+                "h"
             ]
         ],
         "type": "Vocabulary",
@@ -8980,6 +8982,10 @@
             [
                 "2023-5-30",
                 "l"
+            ],
+            [
+                "2023-7-21",
+                "l"
             ]
         ],
         "type": "Probability",
@@ -9190,17 +9196,6 @@
         "type": "Data Engineering",
         "priority": 34.1
     },
-    "Database vs. Dat Warehouse vs. Data Lake": {
-        "date_added": "2023-6-5",
-        "review_history": [
-            [
-                "2023-6-5",
-                "m"
-            ]
-        ],
-        "type": "Data Engineering",
-        "priority": 3.7968
-    },
     "NoSql Databases": {
         "date_added": "2023-6-5",
         "review_history": [
@@ -9355,6 +9350,10 @@
             [
                 "2023-6-5",
                 "m"
+            ],
+            [
+                "2023-7-21",
+                "h"
             ]
         ],
         "type": "Deep Learning",
@@ -9865,6 +9864,10 @@
             ],
             [
                 "2023-6-17",
+                "l"
+            ],
+            [
+                "2023-7-21",
                 "l"
             ]
         ],
@@ -11381,5 +11384,61 @@
         ],
         "type": "Vocabulary",
         "priority": 100
+    },
+    "confidence interval": {
+        "date_added": "2023-7-21",
+        "review_history": [
+            [
+                "2023-7-21",
+                "m"
+            ]
+        ],
+        "type": "Probability",
+        "priority": 100.0
+    },
+    "selection bias": {
+        "date_added": "2023-5-2",
+        "review_history": [
+            [
+                "2023-5-2",
+                "m"
+            ],
+            [
+                "2023-7-21",
+                "m"
+            ]
+        ],
+        "type": "Machine Learning",
+        "priority": 3.6119999999999997
+    },
+    "fugitive": {
+        "date_added": "2023-5-5",
+        "review_history": [
+            [
+                "2023-5-5",
+                "m"
+            ],
+            [
+                "2023-7-21",
+                "l"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 3.6288000000000005
+    },
+    "Database vs. DeataWarehouse vs. DataLake": {
+        "date_added": "2023-6-5",
+        "review_history": [
+            [
+                "2023-6-5",
+                "m"
+            ],
+            [
+                "2023-7-21",
+                "m"
+            ]
+        ],
+        "type": "Data Engineering",
+        "priority": 3.7968
     }
 }

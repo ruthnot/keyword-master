@@ -11440,5 +11440,38 @@
         ],
         "type": "Data Engineering",
         "priority": 3.7968
+    },
+    "-a sex dis-aggregated data": {
+        "date_added": "2023-7-21",
+        "review_history": [
+            [
+                "2023-7-21",
+                "m"
+            ]
+        ],
+        "type": "Sociology",
+        "priority": 100.0
+    },
+    "egalitarian": {
+        "date_added": "2023-7-21",
+        "review_history": [
+            [
+                "2023-7-21",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "utilitarian": {
+        "date_added": "2023-7-21",
+        "review_history": [
+            [
+                "2023-7-21",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
     }
 }
