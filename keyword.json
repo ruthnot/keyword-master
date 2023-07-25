@@ -11832,5 +11832,71 @@
         ],
         "type": "Deep Learning",
         "priority": 100.0
+    },
+    "value function": {
+        "date_added": "2023-7-24",
+        "review_history": [
+            [
+                "2023-7-24",
+                "m"
+            ]
+        ],
+        "type": "Reinforcement Learning",
+        "priority": 100.0
+    },
+    "silo": {
+        "date_added": "2023-7-24",
+        "review_history": [
+            [
+                "2023-7-24",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "opus": {
+        "date_added": "2023-7-24",
+        "review_history": [
+            [
+                "2023-7-24",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "disconsolate": {
+        "date_added": "2023-7-25",
+        "review_history": [
+            [
+                "2023-7-25",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "pogrom": {
+        "date_added": "2023-7-25",
+        "review_history": [
+            [
+                "2023-7-25",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "Nazi-Soviet Nonaggression Pact": {
+        "date_added": "2023-7-25",
+        "review_history": [
+            [
+                "2023-7-25",
+                "m"
+            ]
+        ],
+        "type": "WW2",
+        "priority": 100.0
     }
 }

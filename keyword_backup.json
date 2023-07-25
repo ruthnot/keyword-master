@@ -11700,5 +11700,137 @@
         ],
         "type": "WW2",
         "priority": 100
+    },
+    "epitome": {
+        "date_added": "2023-7-24",
+        "review_history": [
+            [
+                "2023-7-24",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "vendetta": {
+        "date_added": "2023-7-24",
+        "review_history": [
+            [
+                "2023-7-24",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "anemia": {
+        "date_added": "2023-7-24",
+        "review_history": [
+            [
+                "2023-7-24",
+                "m"
+            ]
+        ],
+        "type": "Medical",
+        "priority": 100.0
+    },
+    "refute": {
+        "date_added": "2023-7-24",
+        "review_history": [
+            [
+                "2023-7-24",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "-a Francisco Franco": {
+        "date_added": "2023-7-24",
+        "review_history": [
+            [
+                "2023-7-24",
+                "m"
+            ]
+        ],
+        "type": null,
+        "priority": 100.0
+    },
+    "stalemate": {
+        "date_added": "2023-7-24",
+        "review_history": [
+            [
+                "2023-7-24",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "rearmament": {
+        "date_added": "2023-7-24",
+        "review_history": [
+            [
+                "2023-7-24",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "The Sino-Japanese War": {
+        "date_added": "2023-7-24",
+        "review_history": [
+            [
+                "2023-7-24",
+                "m"
+            ]
+        ],
+        "type": "WW2",
+        "priority": 100.0
+    },
+    "The Spanish Civil War": {
+        "date_added": "2023-7-24",
+        "review_history": [
+            [
+                "2023-7-24",
+                "m"
+            ]
+        ],
+        "type": "WW2",
+        "priority": 100.0
+    },
+    "few-shot learning": {
+        "date_added": "2023-7-24",
+        "review_history": [
+            [
+                "2023-7-24",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "semi-supervised leaerning": {
+        "date_added": "2023-7-24",
+        "review_history": [
+            [
+                "2023-7-24",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "pseudo-labeling": {
+        "date_added": "2023-7-24",
+        "review_history": [
+            [
+                "2023-7-24",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
     }
 }
