@@ -12335,5 +12335,93 @@
         ],
         "type": "Vocabulary",
         "priority": 21.335999999999995
+    },
+    "subjugation": {
+        "date_added": "2023-7-30",
+        "review_history": [
+            [
+                "2023-7-30",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "the Phony War": {
+        "date_added": "2023-7-30",
+        "review_history": [
+            [
+                "2023-7-30",
+                "m"
+            ]
+        ],
+        "type": "WW2",
+        "priority": 100.0
+    },
+    "Battle of the River Plate": {
+        "date_added": "2023-7-30",
+        "review_history": [
+            [
+                "2023-7-30",
+                "m"
+            ]
+        ],
+        "type": "WW2",
+        "priority": 100.0
+    },
+    "scuttle": {
+        "date_added": "2023-7-30",
+        "review_history": [
+            [
+                "2023-7-30",
+                "m"
+            ]
+        ],
+        "type": "WW2",
+        "priority": 100.0
+    },
+    "estuary": {
+        "date_added": "2023-7-30",
+        "review_history": [
+            [
+                "2023-7-30",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "Helsinki": {
+        "date_added": "2023-7-30",
+        "review_history": [
+            [
+                "2023-7-30",
+                "m"
+            ]
+        ],
+        "type": "Geography",
+        "priority": 100.0
+    },
+    "DQN": {
+        "date_added": "2023-7-30",
+        "review_history": [
+            [
+                "2023-7-30",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "minimax": {
+        "date_added": "2023-7-30",
+        "review_history": [
+            [
+                "2023-7-30",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
     }
 }
