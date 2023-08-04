@@ -12447,5 +12447,71 @@
         ],
         "type": "Deep Learning",
         "priority": 100
+    },
+    "The Winter War": {
+        "date_added": "2023-7-31",
+        "review_history": [
+            [
+                "2023-7-31",
+                "m"
+            ]
+        ],
+        "type": "WW2",
+        "priority": 100.0
+    },
+    "cede": {
+        "date_added": "2023-7-31",
+        "review_history": [
+            [
+                "2023-7-31",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "The Battle of Narvic": {
+        "date_added": "2023-7-31",
+        "review_history": [
+            [
+                "2023-7-31",
+                "m"
+            ]
+        ],
+        "type": "WW2",
+        "priority": 100.0
+    },
+    "raspy": {
+        "date_added": "2023-8-3",
+        "review_history": [
+            [
+                "2023-8-3",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "devious": {
+        "date_added": "2023-8-3",
+        "review_history": [
+            [
+                "2023-8-3",
+                "m"
+            ]
+        ],
+        "type": "v",
+        "priority": 100.0
+    },
+    "congragate": {
+        "date_added": "2023-8-3",
+        "review_history": [
+            [
+                "2023-8-3",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
     }
 }
