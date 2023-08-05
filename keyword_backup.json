@@ -91,9 +91,13 @@
             [
                 "2023-4-18",
                 "h"
+            ],
+            [
+                "2023-8-5",
+                "h"
             ]
         ],
-        "type": "computer_network",
+        "type": "Computer Networking",
         "priority": 24.32
     },
     "BGP Blackholing": {
@@ -321,6 +325,10 @@
             ],
             [
                 "2023-4-13",
+                "h"
+            ],
+            [
+                "2023-8-5",
                 "h"
             ]
         ],
@@ -1269,9 +1277,13 @@
             [
                 "2023-4-10",
                 "h"
+            ],
+            [
+                "2023-8-5",
+                "m"
             ]
         ],
-        "type": null,
+        "type": "Vocabulary",
         "priority": 24.16
     },
     "impediment": {
@@ -2710,6 +2722,10 @@
             [
                 "2023-4-15",
                 "h"
+            ],
+            [
+                "2023-8-5",
+                "l"
             ]
         ],
         "type": "Vocabulary",
@@ -2725,6 +2741,10 @@
             [
                 "2023-4-29",
                 "h"
+            ],
+            [
+                "2023-8-5",
+                "m"
             ]
         ],
         "type": "Vocabulary",
@@ -7406,6 +7426,10 @@
             [
                 "2023-7-6",
                 "l"
+            ],
+            [
+                "2023-8-5",
+                "l"
             ]
         ],
         "type": "Vocabulary",
@@ -8081,6 +8105,10 @@
             [
                 "2023-7-30",
                 "h"
+            ],
+            [
+                "2023-8-5",
+                "m"
             ]
         ],
         "type": "Legal",
@@ -8665,21 +8693,6 @@
         "type": "Vocabulary",
         "priority": 11.984
     },
-    "time series prediction": {
-        "date_added": "2023-5-15",
-        "review_history": [
-            [
-                "2023-5-15",
-                "m"
-            ],
-            [
-                "2023-5-30",
-                "m"
-            ]
-        ],
-        "type": "Deep Learning",
-        "priority": 17.44
-    },
     "loss function": {
         "date_added": "2023-5-16",
         "review_history": [
@@ -9009,6 +9022,10 @@
             [
                 "2023-6-13",
                 "m"
+            ],
+            [
+                "2023-8-5",
+                "l"
             ]
         ],
         "type": "Psychology",
@@ -9181,25 +9198,6 @@
         ],
         "type": "Vocabulary",
         "priority": 12.152
-    },
-    "Product vs. Quotient Rule": {
-        "date_added": "2023-5-28",
-        "review_history": [
-            [
-                "2023-5-28",
-                "m"
-            ],
-            [
-                "2023-6-9",
-                "m"
-            ],
-            [
-                "2023-7-28",
-                "m"
-            ]
-        ],
-        "type": "Calculus",
-        "priority": 21.28
     },
     "activation function": {
         "date_added": "2023-5-30",
@@ -10530,6 +10528,10 @@
             [
                 "2023-6-16",
                 "m"
+            ],
+            [
+                "2023-8-5",
+                "l"
             ]
         ],
         "type": "Vocabulary",
@@ -10648,6 +10650,10 @@
             [
                 "2023-6-29",
                 "m"
+            ],
+            [
+                "2023-8-5",
+                "l"
             ]
         ],
         "type": "Vocabulary",
@@ -11297,6 +11303,10 @@
             [
                 "2023-7-17",
                 "m"
+            ],
+            [
+                "2023-8-5",
+                "h"
             ]
         ],
         "type": "Vocabulary",
@@ -11363,6 +11373,10 @@
             [
                 "2023-7-17",
                 "m"
+            ],
+            [
+                "2023-8-5",
+                "l"
             ]
         ],
         "type": "Vocabulary",
@@ -11718,6 +11732,10 @@
         "review_history": [
             [
                 "2023-7-21",
+                "m"
+            ],
+            [
+                "2023-8-5",
                 "m"
             ]
         ],
@@ -13050,5 +13068,69 @@
         ],
         "type": "WW2",
         "priority": 100
+    },
+    "time series forecasting": {
+        "date_added": "2023-5-15",
+        "review_history": [
+            [
+                "2023-5-15",
+                "m"
+            ],
+            [
+                "2023-5-30",
+                "m"
+            ],
+            [
+                "2023-8-5",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 17.44
+    },
+    "commend": {
+        "date_added": "2023-8-5",
+        "review_history": [
+            [
+                "2023-8-5",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "Power vs. Product vs. Quotient Rule": {
+        "date_added": "2023-5-28",
+        "review_history": [
+            [
+                "2023-5-28",
+                "m"
+            ],
+            [
+                "2023-6-9",
+                "m"
+            ],
+            [
+                "2023-7-28",
+                "m"
+            ],
+            [
+                "2023-8-5",
+                "m"
+            ]
+        ],
+        "type": "Calculus",
+        "priority": 21.28
+    },
+    "Chain Rule": {
+        "date_added": "2023-8-5",
+        "review_history": [
+            [
+                "2023-8-5",
+                "m"
+            ]
+        ],
+        "type": "Calculus",
+        "priority": 100.0
     }
 }
