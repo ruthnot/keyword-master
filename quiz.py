@@ -64,7 +64,7 @@ def main():
                 type_idx = user_input.index('-t')
             if type_idx is None:
                 new_word = user_input[word_idx:].strip()
-                new_type = None
+                new_type = 'vb'
             else:
                 new_word = user_input[word_idx:type_idx].strip()
                 new_type = user_input[type_idx+2:].strip()

@@ -17,7 +17,7 @@ def main():
             type = user_input.split('-t')[1].strip()
         else:
             keyword = user_input.strip()
-            type = None
+            type = 'vb'
         db.add(keyword, type)
 
         # if len(keyword) == 0:
