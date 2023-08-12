@@ -14533,5 +14533,104 @@
         ],
         "type": "Vocabulary",
         "priority": 100.0
+    },
+    "NeRF": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "somber": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "trifle with": {
+        "date_added": "2023-8-12",
+        "review_history": [
+            [
+                "2023-8-12",
+                "m"
+            ]
+        ],
+        "type": "Phrase",
+        "priority": 100.0
+    },
+    "adept": {
+        "date_added": "2023-8-12",
+        "review_history": [
+            [
+                "2023-8-12",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "lull": {
+        "date_added": "2023-8-12",
+        "review_history": [
+            [
+                "2023-8-12",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "Gilgamesh": {
+        "date_added": "2023-8-12",
+        "review_history": [
+            [
+                "2023-8-12",
+                "m"
+            ]
+        ],
+        "type": "People",
+        "priority": 100.0
+    },
+    "parchment": {
+        "date_added": "2023-8-12",
+        "review_history": [
+            [
+                "2023-8-12",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "quarry": {
+        "date_added": "2023-8-12",
+        "review_history": [
+            [
+                "2023-8-12",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "chiefdom": {
+        "date_added": "2023-8-12",
+        "review_history": [
+            [
+                "2023-8-12",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
     }
 }

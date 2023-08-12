@@ -14082,5 +14082,522 @@
         ],
         "type": "Nutrition",
         "priority": 17.040000000000003
+    },
+    "contraband": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "acquiesce": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "conanical": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "awning": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "conciliatory": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "oust": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "perpetual": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "effusive": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "solemn": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "acolyte": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "superlatives": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "cataract": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "freewheeling": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "marrow": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "totter": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "consensus": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "asceticism": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "averse": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "reluctant": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "Pantheon": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "revamp": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "virtuosity": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "contemplate": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "prune": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "retribution": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "purport": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "reassure": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "exploitation": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "alimony": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "appall": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "inept": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "tepid": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "impound": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "wunderkind": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "subjugate": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "haggle": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "mar": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "extortion": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "chasm": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "concede": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "innate": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "NeRF": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 100.0
+    },
+    "somber": {
+        "date_added": "2023-8-11",
+        "review_history": [
+            [
+                "2023-8-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "trifle with": {
+        "date_added": "2023-8-12",
+        "review_history": [
+            [
+                "2023-8-12",
+                "m"
+            ]
+        ],
+        "type": "Phrase",
+        "priority": 100.0
+    },
+    "adept": {
+        "date_added": "2023-8-12",
+        "review_history": [
+            [
+                "2023-8-12",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "lull": {
+        "date_added": "2023-8-12",
+        "review_history": [
+            [
+                "2023-8-12",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "Gilgamesh": {
+        "date_added": "2023-8-12",
+        "review_history": [
+            [
+                "2023-8-12",
+                "m"
+            ]
+        ],
+        "type": "People",
+        "priority": 100.0
     }
 }
