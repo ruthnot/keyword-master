@@ -14779,5 +14779,71 @@
         ],
         "type": "Vocabulary",
         "priority": 100
+    },
+    "amicable": {
+        "date_added": "2023-8-14",
+        "review_history": [
+            [
+                "2023-8-14",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "blubber": {
+        "date_added": "2023-8-14",
+        "review_history": [
+            [
+                "2023-8-14",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "withering": {
+        "date_added": "2023-8-14",
+        "review_history": [
+            [
+                "2023-8-14",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "cross examination -leg": {
+        "date_added": "2023-8-14",
+        "review_history": [
+            [
+                "2023-8-14",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "blistering": {
+        "date_added": "2023-8-14",
+        "review_history": [
+            [
+                "2023-8-14",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "conflate": {
+        "date_added": "2023-8-14",
+        "review_history": [
+            [
+                "2023-8-14",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
     }
 }
