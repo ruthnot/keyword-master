@@ -14949,5 +14949,49 @@
         ],
         "type": "Sociology",
         "priority": 100.0
+    },
+    "blunder": {
+        "date_added": "2023-8-15",
+        "review_history": [
+            [
+                "2023-8-15",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "forage": {
+        "date_added": "2023-8-15",
+        "review_history": [
+            [
+                "2023-8-15",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "henchman": {
+        "date_added": "2023-8-15",
+        "review_history": [
+            [
+                "2023-8-15",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "lambda function": {
+        "date_added": "2023-8-15",
+        "review_history": [
+            [
+                "2023-8-15",
+                "m"
+            ]
+        ],
+        "type": "Python",
+        "priority": 100.0
     }
 }
