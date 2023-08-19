@@ -15360,5 +15360,115 @@
         ],
         "type": "Vocabulary",
         "priority": 100
+    },
+    "\"Moderation is a fatal thing, nothing succeeds like excess.\" Oscar Wilde": {
+        "date_added": "2023-8-18",
+        "review_history": [
+            [
+                "2023-8-18",
+                "m"
+            ]
+        ],
+        "type": "Quotes",
+        "priority": 100.0
+    },
+    "in a rut": {
+        "date_added": "2023-8-18",
+        "review_history": [
+            [
+                "2023-8-18",
+                "m"
+            ]
+        ],
+        "type": "Phrase",
+        "priority": 100.0
+    },
+    "huckster": {
+        "date_added": "2023-8-18",
+        "review_history": [
+            [
+                "2023-8-18",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "foist": {
+        "date_added": "2023-8-18",
+        "review_history": [
+            [
+                "2023-8-18",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "unwitting": {
+        "date_added": "2023-8-18",
+        "review_history": [
+            [
+                "2023-8-18",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "Greco Italian War": {
+        "date_added": "2023-8-19",
+        "review_history": [
+            [
+                "2023-8-19",
+                "m"
+            ]
+        ],
+        "type": "WW2",
+        "priority": 100.0
+    },
+    "monotomy": {
+        "date_added": "2023-8-19",
+        "review_history": [
+            [
+                "2023-8-19",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "rdify": {
+        "date_added": "2023-8-19",
+        "review_history": [
+            [
+                "2023-8-19",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "silt": {
+        "date_added": "2023-8-19",
+        "review_history": [
+            [
+                "2023-8-19",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "demur": {
+        "date_added": "2023-8-19",
+        "review_history": [
+            [
+                "2023-8-19",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
     }
 }
