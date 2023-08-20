@@ -15670,5 +15670,49 @@
         ],
         "type": "Biology",
         "priority": 18.144
+    },
+    "prairie": {
+        "date_added": "2023-8-19",
+        "review_history": [
+            [
+                "2023-8-19",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "slosh": {
+        "date_added": "2023-8-19",
+        "review_history": [
+            [
+                "2023-8-19",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "overhaul": {
+        "date_added": "2023-8-19",
+        "review_history": [
+            [
+                "2023-8-19",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "twiddle": {
+        "date_added": "2023-8-19",
+        "review_history": [
+            [
+                "2023-8-19",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
     }
 }
