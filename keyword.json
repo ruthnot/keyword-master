@@ -15840,5 +15840,93 @@
         ],
         "type": "Religion",
         "priority": 100.0
+    },
+    "undulation": {
+        "date_added": "2023-8-20",
+        "review_history": [
+            [
+                "2023-8-20",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "girder": {
+        "date_added": "2023-8-20",
+        "review_history": [
+            [
+                "2023-8-20",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "Mobridge": {
+        "date_added": "2023-8-20",
+        "review_history": [
+            [
+                "2023-8-20",
+                "m"
+            ]
+        ],
+        "type": "Geography",
+        "priority": 100.0
+    },
+    "Missouri River": {
+        "date_added": "2023-8-20",
+        "review_history": [
+            [
+                "2023-8-20",
+                "m"
+            ]
+        ],
+        "type": "Geography",
+        "priority": 100.0
+    },
+    "bluff": {
+        "date_added": "2023-8-20",
+        "review_history": [
+            [
+                "2023-8-20",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "Chautauqua": {
+        "date_added": "2023-8-20",
+        "review_history": [
+            [
+                "2023-8-20",
+                "m"
+            ]
+        ],
+        "type": "History",
+        "priority": 100.0
+    },
+    "haughty": {
+        "date_added": "2023-8-20",
+        "review_history": [
+            [
+                "2023-8-20",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "botch": {
+        "date_added": "2023-8-20",
+        "review_history": [
+            [
+                "2023-8-20",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
     }
 }
