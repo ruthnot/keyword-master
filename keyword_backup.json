@@ -847,9 +847,13 @@
             [
                 "2023-4-11",
                 "h"
+            ],
+            [
+                "2023-8-22",
+                "h"
             ]
         ],
-        "type": null,
+        "type": "People",
         "priority": 7.175999999999999
     },
     "Jane Austen": {
@@ -4397,9 +4401,13 @@
             [
                 "2023-5-1",
                 "h"
+            ],
+            [
+                "2023-8-22",
+                "h"
             ]
         ],
-        "type": "nutrition",
+        "type": "Nutrition",
         "priority": 10.908
     },
     "margarine": {
@@ -5292,6 +5300,10 @@
             [
                 "2023-7-2",
                 "h"
+            ],
+            [
+                "2023-8-22",
+                "h"
             ]
         ],
         "type": "Vocabulary",
@@ -5728,6 +5740,10 @@
             ],
             [
                 "2023-7-22",
+                "h"
+            ],
+            [
+                "2023-8-22",
                 "h"
             ]
         ],
@@ -6316,6 +6332,10 @@
             [
                 "2023-7-2",
                 "h"
+            ],
+            [
+                "2023-8-22",
+                "h"
             ]
         ],
         "type": "Biology",
@@ -6582,6 +6602,10 @@
         "review_history": [
             [
                 "2023-4-27",
+                "m"
+            ],
+            [
+                "2023-8-22",
                 "m"
             ]
         ],
@@ -7316,6 +7340,10 @@
             [
                 "2023-7-22",
                 "m"
+            ],
+            [
+                "2023-8-22",
+                "h"
             ]
         ],
         "type": "Vocabulary",
@@ -8164,6 +8192,10 @@
             [
                 "2023-8-7",
                 "h"
+            ],
+            [
+                "2023-8-22",
+                "m"
             ]
         ],
         "type": "Vocabulary",
@@ -8208,6 +8240,10 @@
             ],
             [
                 "2023-7-1",
+                "m"
+            ],
+            [
+                "2023-8-22",
                 "m"
             ]
         ],
@@ -8663,6 +8699,10 @@
             [
                 "2023-6-11",
                 "l"
+            ],
+            [
+                "2023-8-22",
+                "l"
             ]
         ],
         "type": "Vocabulary",
@@ -8976,6 +9016,10 @@
             ],
             [
                 "2023-8-16",
+                "l"
+            ],
+            [
+                "2023-8-22",
                 "l"
             ]
         ],
@@ -10065,6 +10109,10 @@
             [
                 "2023-6-6",
                 "m"
+            ],
+            [
+                "2023-8-22",
+                "h"
             ]
         ],
         "type": "Deep Learning",
@@ -10853,9 +10901,13 @@
             [
                 "2023-6-14",
                 "m"
+            ],
+            [
+                "2023-8-22",
+                "l"
             ]
         ],
-        "type": "vod",
+        "type": "Vocabulary",
         "priority": 12.152
     },
     "attainment": {
@@ -11715,6 +11767,10 @@
             [
                 "2023-7-17",
                 "m"
+            ],
+            [
+                "2023-8-22",
+                "h"
             ]
         ],
         "type": "Vocabulary",
@@ -13079,6 +13135,10 @@
             [
                 "2023-8-4",
                 "m"
+            ],
+            [
+                "2023-8-22",
+                "h"
             ]
         ],
         "type": "Vocabulary",
@@ -14757,6 +14817,10 @@
             [
                 "2023-8-11",
                 "m"
+            ],
+            [
+                "2023-8-22",
+                "m"
             ]
         ],
         "type": "Vocabulary",
@@ -15965,5 +16029,82 @@
         ],
         "type": "Reinforcement Learning",
         "priority": 100
+    },
+    "classical vs. romatntic thinking": {
+        "date_added": "2023-8-22",
+        "review_history": [
+            [
+                "2023-8-22",
+                "m"
+            ]
+        ],
+        "type": "Philosophy",
+        "priority": 100.0
+    },
+    "analytic knife": {
+        "date_added": "2023-8-22",
+        "review_history": [
+            [
+                "2023-8-22",
+                "m"
+            ]
+        ],
+        "type": "Philosophy",
+        "priority": 100.0
+    },
+    "Malta": {
+        "date_added": "2023-8-22",
+        "review_history": [
+            [
+                "2023-8-22",
+                "m"
+            ]
+        ],
+        "type": "Geography",
+        "priority": 100.0
+    },
+    "Crete": {
+        "date_added": "2023-8-22",
+        "review_history": [
+            [
+                "2023-8-22",
+                "m"
+            ]
+        ],
+        "type": "Geography",
+        "priority": 100.0
+    },
+    "Gibraltar": {
+        "date_added": "2023-8-22",
+        "review_history": [
+            [
+                "2023-8-22",
+                "m"
+            ]
+        ],
+        "type": "Geography",
+        "priority": 100.0
+    },
+    "pedestal": {
+        "date_added": "2023-8-22",
+        "review_history": [
+            [
+                "2023-8-22",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "whiz": {
+        "date_added": "2023-8-22",
+        "review_history": [
+            [
+                "2023-8-22",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
     }
 }
