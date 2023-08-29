@@ -16580,5 +16580,192 @@
         ],
         "type": "Legal",
         "priority": 14.223999999999998
+    },
+    "Nicholas Copernicus": {
+        "date_added": "2023-8-27",
+        "review_history": [
+            [
+                "2023-8-27",
+                "m"
+            ]
+        ],
+        "type": "People",
+        "priority": 100.0
+    },
+    "polymath": {
+        "date_added": "2023-8-27",
+        "review_history": [
+            [
+                "2023-8-27",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "Immanuel Kant": {
+        "date_added": "2023-8-27",
+        "review_history": [
+            [
+                "2023-8-27",
+                "m"
+            ]
+        ],
+        "type": "People",
+        "priority": 100.0
+    },
+    "priori": {
+        "date_added": "2023-8-27",
+        "review_history": [
+            [
+                "2023-8-27",
+                "m"
+            ]
+        ],
+        "type": "Philosophy",
+        "priority": 100.0
+    },
+    "haywire": {
+        "date_added": "2023-8-27",
+        "review_history": [
+            [
+                "2023-8-27",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "veneer": {
+        "date_added": "2023-8-27",
+        "review_history": [
+            [
+                "2023-8-27",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "latent image": {
+        "date_added": "2023-8-27",
+        "review_history": [
+            [
+                "2023-8-27",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "coalesce": {
+        "date_added": "2023-8-27",
+        "review_history": [
+            [
+                "2023-8-27",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "euphemism": {
+        "date_added": "2023-8-27",
+        "review_history": [
+            [
+                "2023-8-27",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "partisan": {
+        "date_added": "2023-8-27",
+        "review_history": [
+            [
+                "2023-8-27",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "predicament": {
+        "date_added": "2023-8-27",
+        "review_history": [
+            [
+                "2023-8-27",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "expound": {
+        "date_added": "2023-8-27",
+        "review_history": [
+            [
+                "2023-8-27",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "contrive": {
+        "date_added": "2023-8-27",
+        "review_history": [
+            [
+                "2023-8-27",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "heretic": {
+        "date_added": "2023-8-27",
+        "review_history": [
+            [
+                "2023-8-27",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "stationary policy": {
+        "date_added": "2023-8-27",
+        "review_history": [
+            [
+                "2023-8-27",
+                "m"
+            ]
+        ],
+        "type": "Reinforcement Learning",
+        "priority": 100.0
+    },
+    "tumultuous relationship": {
+        "date_added": "2023-8-28",
+        "review_history": [
+            [
+                "2023-8-28",
+                "m"
+            ]
+        ],
+        "type": "Phrase",
+        "priority": 100.0
+    },
+    "stifle": {
+        "date_added": "2023-8-28",
+        "review_history": [
+            [
+                "2023-8-28",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
     }
 }
