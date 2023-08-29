@@ -16882,5 +16882,269 @@
         ],
         "type": "Phrase",
         "priority": 21.0
+    },
+    "ego-climbing vs. pilgrimage climbing": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Zen and the Art of Motorcycle Maintenance",
+        "priority": 100.0
+    },
+    "conform": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "consortium": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "berate": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "dire": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "imperil": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "boisterous": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "percolation": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "hurdle": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "rant": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "curate": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "ballistic": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "budge": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "superfluous": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "dissent": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "atrium": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "hoard": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "delegate": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "relatiation": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "deft": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "complacent": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "cirrhosis": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Medical",
+        "priority": 100.0
+    },
+    "incongruous": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "amble": {
+        "date_added": "2023-8-29",
+        "review_history": [
+            [
+                "2023-8-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
     }
 }
