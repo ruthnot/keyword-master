@@ -17168,5 +17168,82 @@
         ],
         "type": "Math",
         "priority": 100.0
+    },
+    "quandary": {
+        "date_added": "2023-8-31",
+        "review_history": [
+            [
+                "2023-8-31",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "gleam": {
+        "date_added": "2023-8-31",
+        "review_history": [
+            [
+                "2023-8-31",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "leaden": {
+        "date_added": "2023-8-31",
+        "review_history": [
+            [
+                "2023-8-31",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "transgression": {
+        "date_added": "2023-8-31",
+        "review_history": [
+            [
+                "2023-8-31",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "proximity": {
+        "date_added": "2023-8-31",
+        "review_history": [
+            [
+                "2023-8-31",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "succumb": {
+        "date_added": "2023-8-31",
+        "review_history": [
+            [
+                "2023-8-31",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "ordeal": {
+        "date_added": "2023-8-31",
+        "review_history": [
+            [
+                "2023-8-31",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
     }
 }
