@@ -17736,5 +17736,60 @@
         ],
         "type": "Nutrition",
         "priority": 100
+    },
+    "Hideki Tojo": {
+        "date_added": "2023-9-11",
+        "review_history": [
+            [
+                "2023-9-11",
+                "m"
+            ]
+        ],
+        "type": "People",
+        "priority": 100.0
+    },
+    "pail": {
+        "date_added": "2023-9-11",
+        "review_history": [
+            [
+                "2023-9-11",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "VOC": {
+        "date_added": "2023-9-11",
+        "review_history": [
+            [
+                "2023-9-11",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "SIDS": {
+        "date_added": "2023-9-11",
+        "review_history": [
+            [
+                "2023-9-11",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "APGAR Test": {
+        "date_added": "2023-9-11",
+        "review_history": [
+            [
+                "2023-9-11",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
     }
 }
