@@ -588,6 +588,10 @@
             [
                 "2023-8-7",
                 "l"
+            ],
+            [
+                "2023-9-12",
+                "h"
             ]
         ],
         "type": "Vocabulary",
@@ -1864,6 +1868,10 @@
             [
                 "2023-8-8",
                 "m"
+            ],
+            [
+                "2023-9-12",
+                "l"
             ]
         ],
         "type": "Vocabulary",
@@ -5499,6 +5507,10 @@
             [
                 "2023-8-4",
                 "h"
+            ],
+            [
+                "2023-9-12",
+                "h"
             ]
         ],
         "type": "Vocabulary",
@@ -5720,6 +5732,10 @@
             [
                 "2023-5-8",
                 "h"
+            ],
+            [
+                "2023-9-12",
+                "l"
             ]
         ],
         "type": "Biology",
@@ -6091,6 +6107,10 @@
             [
                 "2023-5-13",
                 "m"
+            ],
+            [
+                "2023-9-12",
+                "h"
             ]
         ],
         "type": "Vocabulary",
@@ -8562,6 +8582,10 @@
             [
                 "2023-8-11",
                 "h"
+            ],
+            [
+                "2023-9-12",
+                "h"
             ]
         ],
         "type": "Vocabulary",
@@ -9073,6 +9097,10 @@
             [
                 "2023-6-9",
                 "h"
+            ],
+            [
+                "2023-9-12",
+                "h"
             ]
         ],
         "type": "Biology",
@@ -9580,6 +9608,10 @@
             [
                 "2023-5-19",
                 "m"
+            ],
+            [
+                "2023-9-12",
+                "h"
             ]
         ],
         "type": "Nutrition",
@@ -9935,6 +9967,10 @@
             [
                 "2023-8-20",
                 "h"
+            ],
+            [
+                "2023-9-12",
+                "m"
             ]
         ],
         "type": "Deep Learning",
@@ -10568,6 +10604,10 @@
             [
                 "2023-8-4",
                 "h"
+            ],
+            [
+                "2023-9-12",
+                "m"
             ]
         ],
         "type": "Deep Learning",
@@ -11607,6 +11647,10 @@
             [
                 "2023-7-29",
                 "l"
+            ],
+            [
+                "2023-9-12",
+                "m"
             ]
         ],
         "type": "Deep Learning",
@@ -11850,6 +11894,10 @@
         "review_history": [
             [
                 "2023-7-9",
+                "m"
+            ],
+            [
+                "2023-9-12",
                 "m"
             ]
         ],
@@ -12109,6 +12157,10 @@
             [
                 "2023-7-17",
                 "m"
+            ],
+            [
+                "2023-9-12",
+                "l"
             ]
         ],
         "type": "Vocabulary",
@@ -14273,6 +14325,10 @@
             [
                 "2023-8-7",
                 "m"
+            ],
+            [
+                "2023-9-12",
+                "h"
             ]
         ],
         "type": "People",
@@ -15079,6 +15135,10 @@
             [
                 "2023-8-11",
                 "m"
+            ],
+            [
+                "2023-9-12",
+                "h"
             ]
         ],
         "type": "Vocabulary",
@@ -16249,6 +16309,10 @@
             [
                 "2023-8-20",
                 "m"
+            ],
+            [
+                "2023-9-12",
+                "m"
             ]
         ],
         "type": "Religion",
@@ -17173,6 +17237,10 @@
             [
                 "2023-8-29",
                 "m"
+            ],
+            [
+                "2023-9-12",
+                "m"
             ]
         ],
         "type": "Vocabulary",
@@ -17791,5 +17859,192 @@
         ],
         "type": "Baby",
         "priority": 100
+    },
+    "legume": {
+        "date_added": "2023-9-12",
+        "review_history": [
+            [
+                "2023-9-12",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "TD Lambda": {
+        "date_added": "2023-9-12",
+        "review_history": [
+            [
+                "2023-9-12",
+                "m"
+            ]
+        ],
+        "type": "Reinforcement Learning",
+        "priority": 100.0
+    },
+    "Monte Carlo Learning": {
+        "date_added": "2023-9-12",
+        "review_history": [
+            [
+                "2023-9-12",
+                "m"
+            ]
+        ],
+        "type": "Reinforcement Learning",
+        "priority": 100.0
+    },
+    "futility": {
+        "date_added": "2023-9-12",
+        "review_history": [
+            [
+                "2023-9-12",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "reckon with": {
+        "date_added": "2023-9-12",
+        "review_history": [
+            [
+                "2023-9-12",
+                "m"
+            ]
+        ],
+        "type": "Phrase",
+        "priority": 100.0
+    },
+    "Indochina": {
+        "date_added": "2023-9-12",
+        "review_history": [
+            [
+                "2023-9-12",
+                "m"
+            ]
+        ],
+        "type": "Geography",
+        "priority": 100.0
+    },
+    "hitherto": {
+        "date_added": "2023-9-12",
+        "review_history": [
+            [
+                "2023-9-12",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "gale": {
+        "date_added": "2023-9-12",
+        "review_history": [
+            [
+                "2023-9-12",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "groan": {
+        "date_added": "2023-9-12",
+        "review_history": [
+            [
+                "2023-9-12",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "apparition": {
+        "date_added": "2023-9-12",
+        "review_history": [
+            [
+                "2023-9-12",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "capitulate": {
+        "date_added": "2023-9-12",
+        "review_history": [
+            [
+                "2023-9-12",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "poignant": {
+        "date_added": "2023-9-12",
+        "review_history": [
+            [
+                "2023-9-12",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "ameliorate": {
+        "date_added": "2023-9-12",
+        "review_history": [
+            [
+                "2023-9-12",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "repose": {
+        "date_added": "2023-9-12",
+        "review_history": [
+            [
+                "2023-9-12",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "Geneva": {
+        "date_added": "2023-9-12",
+        "review_history": [
+            [
+                "2023-9-12",
+                "m"
+            ]
+        ],
+        "type": "Geography",
+        "priority": 100.0
+    },
+    "deplore": {
+        "date_added": "2023-9-15",
+        "review_history": [
+            [
+                "2023-9-15",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "abode": {
+        "date_added": "2023-9-15",
+        "review_history": [
+            [
+                "2023-9-15",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
     }
 }
