@@ -3,9 +3,14 @@ from db_helper import DBHelper
 from compute_priority import ComputePriority
 
 TOPIC = "ALL"
-# SHUFFLE = False
-SHUFFLE = True
-#
+
+SHUFFLE = False
+# SHUFFLE = True
+
+# ONLY_NEW = False
+ONLY_NEW = True
+
+
 def main():
     db = DBHelper()
     if TOPIC == "ALL":
@@ -36,6 +41,10 @@ def main():
         if keyword_tuple[0] >= 100 and TOPIC == "ALL":
             idx += 1
             continue
+        if ONLY_NEW and len(keyword_tuple[2]['review_history']) > 1:
+            idx += 1
+            continue
+
         kw_type = keyword_tuple[2]['type']
         print(f'{review_count}/{total_count}. "{keyword_tuple[1]}", [type: {kw_type}]. Type confidence level: h, m, l')
         user_input = input()
