@@ -18889,5 +18889,60 @@
         ],
         "type": "Medical",
         "priority": 100
+    },
+    "decimate": {
+        "date_added": "2023-9-23",
+        "review_history": [
+            [
+                "2023-9-23",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "placid": {
+        "date_added": "2023-9-23",
+        "review_history": [
+            [
+                "2023-9-23",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "trifling": {
+        "date_added": "2023-9-23",
+        "review_history": [
+            [
+                "2023-9-23",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "unbridled": {
+        "date_added": "2023-9-23",
+        "review_history": [
+            [
+                "2023-9-23",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "callous": {
+        "date_added": "2023-9-23",
+        "review_history": [
+            [
+                "2023-9-23",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
     }
 }
