@@ -19006,5 +19006,49 @@
         ],
         "type": "Vocabulary",
         "priority": 100.0
+    },
+    "spellbound": {
+        "date_added": "2023-9-24",
+        "review_history": [
+            [
+                "2023-9-24",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "wretched": {
+        "date_added": "2023-9-24",
+        "review_history": [
+            [
+                "2023-9-24",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "desolated": {
+        "date_added": "2023-9-24",
+        "review_history": [
+            [
+                "2023-9-24",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "deposition": {
+        "date_added": "2023-9-24",
+        "review_history": [
+            [
+                "2023-9-24",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
     }
 }
