@@ -7,9 +7,9 @@ TOPIC = "ALL"
 SHUFFLE = False
 # SHUFFLE = True
 
-# ONLY_NEW = False
-ONLY_NEW = True
-
+ONLY_NEW = False
+# ONLY_NEW = True
+#
 
 def main():
     db = DBHelper()
