@@ -10924,6 +10924,10 @@
             [
                 "2023-6-8",
                 "m"
+            ],
+            [
+                "2023-10-2",
+                "h"
             ]
         ],
         "type": "Deep Learning",
@@ -13608,17 +13612,6 @@
         ],
         "type": "Deep Learning",
         "priority": 18.311999999999998
-    },
-    "co": {
-        "date_added": "2023-7-27",
-        "review_history": [
-            [
-                "2023-7-27",
-                "m"
-            ]
-        ],
-        "type": "raining",
-        "priority": 3.6624
     },
     "5 stages of greif": {
         "date_added": "2023-5-13",
@@ -19469,5 +19462,218 @@
         ],
         "type": "Reinforcement Learning",
         "priority": 100
+    },
+    "co training": {
+        "date_added": "2023-7-27",
+        "review_history": [
+            [
+                "2023-7-27",
+                "m"
+            ],
+            [
+                "2023-10-2",
+                "l"
+            ]
+        ],
+        "type": "Deep Learning",
+        "priority": 3.6624
+    },
+    "apricot": {
+        "date_added": "2023-10-2",
+        "review_history": [
+            [
+                "2023-10-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "understatment": {
+        "date_added": "2023-10-2",
+        "review_history": [
+            [
+                "2023-10-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "accolade": {
+        "date_added": "2023-10-2",
+        "review_history": [
+            [
+                "2023-10-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "eschew": {
+        "date_added": "2023-10-2",
+        "review_history": [
+            [
+                "2023-10-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "dissemble": {
+        "date_added": "2023-10-2",
+        "review_history": [
+            [
+                "2023-10-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "jaundice": {
+        "date_added": "2023-10-2",
+        "review_history": [
+            [
+                "2023-10-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "billow": {
+        "date_added": "2023-10-2",
+        "review_history": [
+            [
+                "2023-10-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "tout": {
+        "date_added": "2023-10-2",
+        "review_history": [
+            [
+                "2023-10-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "brisk": {
+        "date_added": "2023-10-2",
+        "review_history": [
+            [
+                "2023-10-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "underdog": {
+        "date_added": "2023-10-2",
+        "review_history": [
+            [
+                "2023-10-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "fringe": {
+        "date_added": "2023-10-2",
+        "review_history": [
+            [
+                "2023-10-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "recuperate": {
+        "date_added": "2023-10-2",
+        "review_history": [
+            [
+                "2023-10-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "ethereal": {
+        "date_added": "2023-10-2",
+        "review_history": [
+            [
+                "2023-10-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "royalty": {
+        "date_added": "2023-10-2",
+        "review_history": [
+            [
+                "2023-10-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "hemorrhage": {
+        "date_added": "2023-10-2",
+        "review_history": [
+            [
+                "2023-10-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "tranche": {
+        "date_added": "2023-10-2",
+        "review_history": [
+            [
+                "2023-10-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "compelling": {
+        "date_added": "2023-10-2",
+        "review_history": [
+            [
+                "2023-10-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "taint": {
+        "date_added": "2023-10-2",
+        "review_history": [
+            [
+                "2023-10-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
     }
 }
