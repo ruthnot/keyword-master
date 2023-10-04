@@ -2,8 +2,8 @@ import random
 from db_helper import DBHelper
 from compute_priority import ComputePriority
 
-# TOPIC = "voc"
-TOPIC = "ALL"
+TOPIC = "voc"
+# TOPIC = "ALL"
 
 SHUFFLE = False
 # SHUFFLE = True

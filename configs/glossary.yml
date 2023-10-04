@@ -35,7 +35,7 @@ ww2: WW2
 rl: Reinforcement Learning
 leg: Legal
 cal: Calculus
-ar: Art
+art: Art
 stat: Statistics
 quo: Quotes
 mo: Motorcycle
@@ -46,3 +46,4 @@ ma: Math
 zoo: Zoology
 bab: Baby
 bot: Botany
+con: control
