@@ -19837,5 +19837,38 @@
         ],
         "type": "Vocabulary",
         "priority": 100.0
+    },
+    "SARSA": {
+        "date_added": "2023-10-5",
+        "review_history": [
+            [
+                "2023-10-5",
+                "m"
+            ]
+        ],
+        "type": "rk",
+        "priority": 100.0
+    },
+    "on-policy vs off-policy": {
+        "date_added": "2023-10-5",
+        "review_history": [
+            [
+                "2023-10-5",
+                "m"
+            ]
+        ],
+        "type": "Reinforcement Learning",
+        "priority": 100.0
+    },
+    "linear programming": {
+        "date_added": "2023-10-5",
+        "review_history": [
+            [
+                "2023-10-5",
+                "m"
+            ]
+        ],
+        "type": "Reinforcement Learning",
+        "priority": 100.0
     }
 }
