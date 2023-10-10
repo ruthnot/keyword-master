@@ -20570,5 +20570,71 @@
         ],
         "type": "Baby",
         "priority": 100.0
+    },
+    "baby sit-up": {
+        "date_added": "2023-10-9",
+        "review_history": [
+            [
+                "2023-10-9",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "stump": {
+        "date_added": "2023-10-9",
+        "review_history": [
+            [
+                "2023-10-9",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "flail": {
+        "date_added": "2023-10-9",
+        "review_history": [
+            [
+                "2023-10-9",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "scalding": {
+        "date_added": "2023-10-10",
+        "review_history": [
+            [
+                "2023-10-10",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "infant CPR": {
+        "date_added": "2023-10-10",
+        "review_history": [
+            [
+                "2023-10-10",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "Heimlich maneuver": {
+        "date_added": "2023-10-10",
+        "review_history": [
+            [
+                "2023-10-10",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
     }
 }

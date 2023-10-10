@@ -20471,5 +20471,104 @@
         ],
         "type": "Vocabulary",
         "priority": 100.0
+    },
+    "circadian rhythm": {
+        "date_added": "2023-10-8",
+        "review_history": [
+            [
+                "2023-10-8",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "diaper pail": {
+        "date_added": "2023-10-8",
+        "review_history": [
+            [
+                "2023-10-8",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "laundry hamper": {
+        "date_added": "2023-10-8",
+        "review_history": [
+            [
+                "2023-10-8",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "co-sleeping": {
+        "date_added": "2023-10-8",
+        "review_history": [
+            [
+                "2023-10-8",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "self soothe": {
+        "date_added": "2023-10-8",
+        "review_history": [
+            [
+                "2023-10-8",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "sleep training": {
+        "date_added": "2023-10-8",
+        "review_history": [
+            [
+                "2023-10-8",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "changing pad": {
+        "date_added": "2023-10-8",
+        "review_history": [
+            [
+                "2023-10-8",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "sponge bath": {
+        "date_added": "2023-10-9",
+        "review_history": [
+            [
+                "2023-10-9",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "tummy time": {
+        "date_added": "2023-10-9",
+        "review_history": [
+            [
+                "2023-10-9",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
     }
 }
