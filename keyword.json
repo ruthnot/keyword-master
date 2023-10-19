@@ -20816,5 +20816,115 @@
         ],
         "type": "Legal",
         "priority": 100.0
+    },
+    "caput succedaneum": {
+        "date_added": "2023-10-19",
+        "review_history": [
+            [
+                "2023-10-19",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "heart murmur": {
+        "date_added": "2023-10-19",
+        "review_history": [
+            [
+                "2023-10-19",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "thrush": {
+        "date_added": "2023-10-19",
+        "review_history": [
+            [
+                "2023-10-19",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "umbilical hernia": {
+        "date_added": "2023-10-19",
+        "review_history": [
+            [
+                "2023-10-19",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "APGAR test": {
+        "date_added": "2023-10-19",
+        "review_history": [
+            [
+                "2023-10-19",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "vitamin k shot": {
+        "date_added": "2023-10-19",
+        "review_history": [
+            [
+                "2023-10-19",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "antibiotic eye ointment": {
+        "date_added": "2023-10-19",
+        "review_history": [
+            [
+                "2023-10-19",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "skin to skin contact": {
+        "date_added": "2023-10-19",
+        "review_history": [
+            [
+                "2023-10-19",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "rooting": {
+        "date_added": "2023-10-19",
+        "review_history": [
+            [
+                "2023-10-19",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "blowout": {
+        "date_added": "2023-10-19",
+        "review_history": [
+            [
+                "2023-10-19",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
     }
 }

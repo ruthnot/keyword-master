@@ -20783,5 +20783,38 @@
         ],
         "type": "Zoology",
         "priority": 100.0
+    },
+    "gush": {
+        "date_added": "2023-10-14",
+        "review_history": [
+            [
+                "2023-10-14",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "respite": {
+        "date_added": "2023-10-14",
+        "review_history": [
+            [
+                "2023-10-14",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "depose": {
+        "date_added": "2023-10-16",
+        "review_history": [
+            [
+                "2023-10-16",
+                "m"
+            ]
+        ],
+        "type": "Legal",
+        "priority": 100.0
     }
 }
