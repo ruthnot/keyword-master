@@ -21054,5 +21054,93 @@
         ],
         "type": "Vocabulary",
         "priority": 100.0
+    },
+    "k armed bandits": {
+        "date_added": "2023-10-30",
+        "review_history": [
+            [
+                "2023-10-30",
+                "m"
+            ]
+        ],
+        "type": "Reinforcement Learning",
+        "priority": 100.0
+    },
+    "instigator": {
+        "date_added": "2023-10-30",
+        "review_history": [
+            [
+                "2023-10-30",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "confidence-based exploration": {
+        "date_added": "2023-10-31",
+        "review_history": [
+            [
+                "2023-10-31",
+                "m"
+            ]
+        ],
+        "type": "Reinforcement Learning",
+        "priority": 100.0
+    },
+    "Double DQN": {
+        "date_added": "2023-10-31",
+        "review_history": [
+            [
+                "2023-10-31",
+                "m"
+            ]
+        ],
+        "type": "Reinforcement Learning",
+        "priority": 100.0
+    },
+    "epsilon gredy": {
+        "date_added": "2023-10-31",
+        "review_history": [
+            [
+                "2023-10-31",
+                "m"
+            ]
+        ],
+        "type": "Reinforcement Learning",
+        "priority": 100.0
+    },
+    "replay buffer in DQN": {
+        "date_added": "2023-10-31",
+        "review_history": [
+            [
+                "2023-10-31",
+                "m"
+            ]
+        ],
+        "type": "Reinforcement Learning",
+        "priority": 100.0
+    },
+    "Gittms Index": {
+        "date_added": "2023-10-31",
+        "review_history": [
+            [
+                "2023-10-31",
+                "m"
+            ]
+        ],
+        "type": "Reinforcement Learning",
+        "priority": 100.0
+    },
+    "PAC learning": {
+        "date_added": "2023-10-31",
+        "review_history": [
+            [
+                "2023-10-31",
+                "m"
+            ]
+        ],
+        "type": "Reinforcement Learning",
+        "priority": 100.0
     }
 }

@@ -20966,5 +20966,115 @@
         ],
         "type": "Baby",
         "priority": 100
+    },
+    "startle reflex": {
+        "date_added": "2023-10-20",
+        "review_history": [
+            [
+                "2023-10-20",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "emery board": {
+        "date_added": "2023-10-20",
+        "review_history": [
+            [
+                "2023-10-20",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "spitting up": {
+        "date_added": "2023-10-20",
+        "review_history": [
+            [
+                "2023-10-20",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "colic": {
+        "date_added": "2023-10-20",
+        "review_history": [
+            [
+                "2023-10-20",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "growrh spurt": {
+        "date_added": "2023-10-20",
+        "review_history": [
+            [
+                "2023-10-20",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "fontanelle": {
+        "date_added": "2023-10-20",
+        "review_history": [
+            [
+                "2023-10-20",
+                "m"
+            ]
+        ],
+        "type": "Baby",
+        "priority": 100.0
+    },
+    "sully": {
+        "date_added": "2023-10-28",
+        "review_history": [
+            [
+                "2023-10-28",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "burrow": {
+        "date_added": "2023-10-28",
+        "review_history": [
+            [
+                "2023-10-28",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "k armed bandits": {
+        "date_added": "2023-10-30",
+        "review_history": [
+            [
+                "2023-10-30",
+                "m"
+            ]
+        ],
+        "type": "Reinforcement Learning",
+        "priority": 100.0
+    },
+    "instigator": {
+        "date_added": "2023-10-30",
+        "review_history": [
+            [
+                "2023-10-30",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
     }
 }
