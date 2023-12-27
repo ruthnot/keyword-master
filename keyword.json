@@ -23228,5 +23228,27 @@
         ],
         "type": "Vocabulary",
         "priority": 100.0
+    },
+    "encumber": {
+        "date_added": "2023-12-26",
+        "review_history": [
+            [
+                "2023-12-26",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "community property": {
+        "date_added": "2023-12-26",
+        "review_history": [
+            [
+                "2023-12-26",
+                "m"
+            ]
+        ],
+        "type": "Real Estate",
+        "priority": 100.0
     }
 }
