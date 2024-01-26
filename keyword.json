@@ -24882,5 +24882,93 @@
         ],
         "type": "Vocabulary",
         "priority": 100.0
+    },
+    "barbed": {
+        "date_added": "2024-1-23",
+        "review_history": [
+            [
+                "2024-1-23",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "wreath": {
+        "date_added": "2024-1-23",
+        "review_history": [
+            [
+                "2024-1-23",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "destitute": {
+        "date_added": "2024-1-23",
+        "review_history": [
+            [
+                "2024-1-23",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "Vertigo": {
+        "date_added": "2024-1-23",
+        "review_history": [
+            [
+                "2024-1-23",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "cordial": {
+        "date_added": "2024-1-24",
+        "review_history": [
+            [
+                "2024-1-24",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "undulate": {
+        "date_added": "2024-1-26",
+        "review_history": [
+            [
+                "2024-1-26",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "ravenous": {
+        "date_added": "2024-1-26",
+        "review_history": [
+            [
+                "2024-1-26",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "beret": {
+        "date_added": "2024-1-26",
+        "review_history": [
+            [
+                "2024-1-26",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
     }
 }
