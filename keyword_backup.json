@@ -32,7 +32,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 34.92
+        "priority": 6.96
     },
     "supposition": {
         "date_added": "2023-3-18",
@@ -63,7 +63,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 8.43
+        "priority": 10.08
     },
     "BGP": {
         "date_added": "2023-3-22",
@@ -284,7 +284,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.2
+        "priority": 22.480000000000004
     },
     "Prefix Hijacking": {
         "date_added": "2023-3-22",
@@ -357,7 +357,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.055999999999999
+        "priority": 23.36
     },
     "connotation": {
         "date_added": "2023-3-23",
@@ -384,7 +384,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.52
+        "priority": 23.36
     },
     "prepend": {
         "date_added": "2023-3-23",
@@ -415,7 +415,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.991999999999999
+        "priority": 39.0
     },
     "incontinence": {
         "date_added": "2023-3-23",
@@ -442,7 +442,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 33.96
+        "priority": 33.839999999999996
     },
     "abatement": {
         "date_added": "2023-3-23",
@@ -469,7 +469,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.152
+        "priority": 33.72
     },
     "rumination": {
         "date_added": "2023-3-23",
@@ -519,7 +519,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 8.79
+        "priority": 23.28
     },
     "stark": {
         "date_added": "2023-3-24",
@@ -557,7 +557,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.2
+        "priority": 22.480000000000004
     },
     "assuage": {
         "date_added": "2023-3-24",
@@ -584,7 +584,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 30.8
+        "priority": 36.48
     },
     "composure": {
         "date_added": "2023-3-24",
@@ -615,7 +615,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 30.2
+        "priority": 9.0
     },
     "Gordon Moore": {
         "date_added": "2023-3-24",
@@ -665,7 +665,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.880000000000003
+        "priority": 34.08
     },
     "patronizing": {
         "date_added": "2023-3-24",
@@ -711,7 +711,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.44
+        "priority": 34.92
     },
     "subvert": {
         "date_added": "2023-3-24",
@@ -738,7 +738,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 36.0
+        "priority": 35.64
     },
     "trail off": {
         "date_added": "2023-7-29",
@@ -799,7 +799,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 9.600000000000001
+        "priority": 4.248
     },
     "resilience": {
         "date_added": "2023-3-24",
@@ -814,7 +814,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 36.239999999999995
+        "priority": 24.0
     },
     "serendipity": {
         "date_added": "2023-3-25",
@@ -841,7 +841,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.64
+        "priority": 22.560000000000002
     },
     "emergent": {
         "date_added": "2023-3-25",
@@ -940,7 +940,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.872
+        "priority": 6.06
     },
     "Enuma Elish": {
         "date_added": "2023-3-25",
@@ -994,7 +994,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.36
+        "priority": 23.28
     },
     "vex": {
         "date_added": "2023-3-25",
@@ -1029,7 +1029,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.76
+        "priority": 27.599999999999998
     },
     "contention": {
         "date_added": "2023-3-25",
@@ -1098,7 +1098,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.279999999999998
+        "priority": 5.819999999999999
     },
     "enmity": {
         "date_added": "2023-3-25",
@@ -1198,7 +1198,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 33.0
+        "priority": 38.76
     },
     "inure": {
         "date_added": "2023-3-25",
@@ -1244,7 +1244,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.152
+        "priority": 22.480000000000004
     },
     "yearn": {
         "date_added": "2023-3-25",
@@ -1267,7 +1267,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.560000000000002
+        "priority": 22.480000000000004
     },
     "longing": {
         "date_added": "2023-3-25",
@@ -1298,7 +1298,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.92
+        "priority": 8.88
     },
     "solicit": {
         "date_added": "2023-3-26",
@@ -1317,7 +1317,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.5
+        "priority": 23.44
     },
     "elicit": {
         "date_added": "2023-3-26",
@@ -1340,7 +1340,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.040000000000003
+        "priority": 21.0
     },
     "engulf": {
         "date_added": "2023-3-26",
@@ -1386,7 +1386,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.2
+        "priority": 28.1
     },
     "esteem": {
         "date_added": "2023-3-26",
@@ -1409,7 +1409,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 33.839999999999996
+        "priority": 10.116
     },
     "virtuoso": {
         "date_added": "2023-3-26",
@@ -1432,7 +1432,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.2
+        "priority": 6.03
     },
     "impediment": {
         "date_added": "2023-3-26",
@@ -1478,7 +1478,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.152
+        "priority": 22.480000000000004
     },
     "Abraham Maslow": {
         "date_added": "2023-3-26",
@@ -1574,7 +1574,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.271999999999999
+        "priority": 24.12
     },
     "enunciate": {
         "date_added": "2023-3-29",
@@ -1601,7 +1601,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 8.819999999999999
+        "priority": 35.04
     },
     "laden": {
         "date_added": "2023-3-29",
@@ -1624,7 +1624,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.2
+        "priority": 28.1
     },
     "endow": {
         "date_added": "2023-3-29",
@@ -1651,7 +1651,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.96
+        "priority": 24.720000000000002
     },
     "stellar": {
         "date_added": "2023-3-29",
@@ -1697,7 +1697,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.1
+        "priority": 6.72
     },
     "disposition": {
         "date_added": "2023-3-29",
@@ -1728,7 +1728,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 34.08
+        "priority": 6.792000000000001
     },
     "countenance": {
         "date_added": "2023-3-29",
@@ -1763,7 +1763,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.247999999999999
+        "priority": 10.763999999999998
     },
     "gloomy": {
         "date_added": "2023-3-29",
@@ -1870,7 +1870,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.32
+        "priority": 6.09
     },
     "relish": {
         "date_added": "2023-3-30",
@@ -1897,7 +1897,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.64
+        "priority": 28.2
     },
     "obstinate": {
         "date_added": "2023-3-30",
@@ -1924,7 +1924,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.240000000000002
+        "priority": 24.24
     },
     "contentious": {
         "date_added": "2023-3-30",
@@ -1955,7 +1955,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.16
+        "priority": 7.175999999999999
     },
     "plaster": {
         "date_added": "2023-4-1",
@@ -1974,7 +1974,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.560000000000002
+        "priority": 6.744
     },
     "fresco": {
         "date_added": "2023-4-1",
@@ -2020,7 +2020,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 30.2
+        "priority": 29.9
     },
     "Michelangelo": {
         "date_added": "2023-4-1",
@@ -2070,7 +2070,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.560000000000002
+        "priority": 28.1
     },
     "swath": {
         "date_added": "2023-4-1",
@@ -2089,7 +2089,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 33.839999999999996
+        "priority": 28.1
     },
     "rebuke": {
         "date_added": "2023-4-2",
@@ -2112,7 +2112,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.3
+        "priority": 34.92
     },
     "chastise": {
         "date_added": "2023-4-2",
@@ -2139,7 +2139,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 35.279999999999994
+        "priority": 35.04
     },
     "punitive": {
         "date_added": "2023-4-2",
@@ -2181,7 +2181,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 35.64
+        "priority": 35.4
     },
     "rectify": {
         "date_added": "2023-4-2",
@@ -2216,7 +2216,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.331999999999999
+        "priority": 10.296
     },
     "reverence": {
         "date_added": "2023-4-2",
@@ -2243,7 +2243,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.331999999999999
+        "priority": 28.6
     },
     "poised": {
         "date_added": "2023-4-2",
@@ -2270,7 +2270,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.6
+        "priority": 15.0
     },
     "VoIP": {
         "date_added": "2023-4-3",
@@ -2339,7 +2339,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.7
+        "priority": 24.720000000000002
     },
     "temporal": {
         "date_added": "2023-4-3",
@@ -2358,7 +2358,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.152
+        "priority": 10.116
     },
     "panegyric": {
         "date_added": "2023-4-3",
@@ -2385,7 +2385,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.319999999999999
+        "priority": 11.0
     },
     "atone": {
         "date_added": "2023-4-3",
@@ -2408,7 +2408,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.3
+        "priority": 33.72
     },
     "defer": {
         "date_added": "2023-4-3",
@@ -2427,7 +2427,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.560000000000002
+        "priority": 28.1
     },
     "bewitch": {
         "date_added": "2023-4-3",
@@ -2450,7 +2450,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.032
+        "priority": 23.28
     },
     "impertinence": {
         "date_added": "2023-4-3",
@@ -2469,7 +2469,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.560000000000002
+        "priority": 33.72
     },
     "Dale Chihuly": {
         "date_added": "2023-4-3",
@@ -2511,7 +2511,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 34.68
+        "priority": 34.56
     },
     "rebuff": {
         "date_added": "2023-4-3",
@@ -2546,7 +2546,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.728
+        "priority": 7.056
     },
     "dismiss": {
         "date_added": "2023-4-3",
@@ -2565,7 +2565,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.560000000000002
+        "priority": 33.72
     },
     "windfall": {
         "date_added": "2023-4-3",
@@ -2592,7 +2592,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.104000000000001
+        "priority": 35.279999999999994
     },
     "arraignment": {
         "date_added": "2023-4-3",
@@ -2623,7 +2623,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.7
+        "priority": 16.400000000000002
     },
     "endowment": {
         "date_added": "2023-4-4",
@@ -2642,7 +2642,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.680000000000003
+        "priority": 35.279999999999994
     },
     "bequeath": {
         "date_added": "2023-4-4",
@@ -2676,7 +2676,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 33.839999999999996
+        "priority": 10.116
     },
     "imperious": {
         "date_added": "2023-4-4",
@@ -2699,7 +2699,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.52
+        "priority": 15.440000000000001
     },
     "transient": {
         "date_added": "2023-4-4",
@@ -2726,7 +2726,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.36
+        "priority": 20.2
     },
     "reverse searing": {
         "date_added": "2023-4-4",
@@ -2768,7 +2768,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 35.04
+        "priority": 34.92
     },
     "fortnight": {
         "date_added": "2023-4-4",
@@ -2787,7 +2787,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.08
+        "priority": 35.16
     },
     "impertinent": {
         "date_added": "2023-4-4",
@@ -2818,7 +2818,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.4
+        "priority": 9.68
     },
     "obviate": {
         "date_added": "2023-4-5",
@@ -2865,7 +2865,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 36.0
+        "priority": 8.94
     },
     "implore": {
         "date_added": "2023-4-5",
@@ -2892,7 +2892,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.56
+        "priority": 24.599999999999998
     },
     "proponent": {
         "date_added": "2023-4-5",
@@ -2923,7 +2923,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.9
+        "priority": 29.6
     },
     "disseminate": {
         "date_added": "2023-4-5",
@@ -2954,7 +2954,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.4
+        "priority": 15.0
     },
     "defy": {
         "date_added": "2023-4-5",
@@ -2981,7 +2981,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.8
+        "priority": 23.680000000000003
     },
     "patronage": {
         "date_added": "2023-4-6",
@@ -3000,7 +3000,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.36
+        "priority": 8.7
     },
     "ordain": {
         "date_added": "2023-4-6",
@@ -3027,7 +3027,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 35.279999999999994
+        "priority": 8.76
     },
     "ordination": {
         "date_added": "2023-4-6",
@@ -3054,7 +3054,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.76
+        "priority": 7.08
     },
     "commendable": {
         "date_added": "2023-4-6",
@@ -3073,7 +3073,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.16
+        "priority": 24.12
     },
     "amiable": {
         "date_added": "2023-4-6",
@@ -3096,7 +3096,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.44
+        "priority": 34.56
     },
     "disposed": {
         "date_added": "2023-4-6",
@@ -3115,7 +3115,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.560000000000002
+        "priority": 28.1
     },
     "enter-deep vs bring-home": {
         "date_added": "2023-4-6",
@@ -3180,7 +3180,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.52
+        "priority": 23.36
     },
     "atonement": {
         "date_added": "2023-4-6",
@@ -3222,7 +3222,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.2
+        "priority": 33.72
     },
     "DNS Hierarchy": {
         "date_added": "2023-4-7",
@@ -3386,7 +3386,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.64
+        "priority": 28.2
     },
     "engross": {
         "date_added": "2023-4-7",
@@ -3401,7 +3401,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.4
+        "priority": 23.279999999999998
     },
     "proclaim": {
         "date_added": "2023-4-7",
@@ -3432,7 +3432,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.16
+        "priority": 24.0
     },
     "espionage": {
         "date_added": "2023-4-8",
@@ -3455,7 +3455,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.96
+        "priority": 4.944000000000001
     },
     "vehemently": {
         "date_added": "2023-4-8",
@@ -3486,7 +3486,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.9
+        "priority": 24.84
     },
     "deem": {
         "date_added": "2023-4-8",
@@ -3509,7 +3509,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.9
+        "priority": 19.8
     },
     "palatable": {
         "date_added": "2023-4-8",
@@ -3528,7 +3528,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 9.040000000000001
+        "priority": 11.2
     },
     "palate": {
         "date_added": "2023-4-8",
@@ -3547,7 +3547,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 33.839999999999996
+        "priority": 28.1
     },
     "impede": {
         "date_added": "2023-4-8",
@@ -3570,7 +3570,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.96
+        "priority": 24.720000000000002
     },
     "hinder": {
         "date_added": "2023-4-8",
@@ -3589,7 +3589,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.76
+        "priority": 35.4
     },
     "abominable": {
         "date_added": "2023-4-8",
@@ -3612,7 +3612,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.599999999999998
+        "priority": 6.119999999999999
     },
     "trifle": {
         "date_added": "2023-4-8",
@@ -3677,7 +3677,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.64
+        "priority": 28.2
     },
     "tarnish": {
         "date_added": "2023-4-8",
@@ -3700,7 +3700,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.728
+        "priority": 23.639999999999997
     },
     "bona fides": {
         "date_added": "2023-4-8",
@@ -3719,7 +3719,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.52
+        "priority": 23.16
     },
     "undercut": {
         "date_added": "2023-4-8",
@@ -3742,7 +3742,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.656
+        "priority": 6.983999999999999
     },
     "underscore": {
         "date_added": "2023-4-8",
@@ -3761,7 +3761,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.2
+        "priority": 22.480000000000004
     },
     "Autonomous System": {
         "date_added": "2023-4-9",
@@ -3795,7 +3795,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.4
+        "priority": 19.4
     },
     "gloss over": {
         "date_added": "2023-4-9",
@@ -3818,7 +3818,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 6.09
+        "priority": 20.2
     },
     "The Tower of Babel": {
         "date_added": "2023-4-9",
@@ -3856,7 +3856,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.44
+        "priority": 6.984000000000001
     },
     "abide": {
         "date_added": "2023-4-9",
@@ -3883,7 +3883,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.16
+        "priority": 7.236
     },
     "Mesopotamia": {
         "date_added": "2023-4-9",
@@ -3933,7 +3933,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.02
+        "priority": 15.52
     },
     "felicity": {
         "date_added": "2023-4-9",
@@ -3964,7 +3964,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 9.040000000000001
+        "priority": 4.032
     },
     "retrenchment": {
         "date_added": "2023-4-11",
@@ -4025,7 +4025,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 33.96
+        "priority": 28.2
     },
     "moratorium": {
         "date_added": "2023-4-11",
@@ -4056,7 +4056,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.9
+        "priority": 23.76
     },
     "underwrite": {
         "date_added": "2023-4-11",
@@ -4079,7 +4079,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.7
+        "priority": 34.32
     },
     "Gen Z": {
         "date_added": "2023-4-11",
@@ -4140,7 +4140,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.92
+        "priority": 29.6
     },
     "upholstery": {
         "date_added": "2023-4-11",
@@ -4155,7 +4155,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.3
+        "priority": 33.839999999999996
     },
     "bestow": {
         "date_added": "2023-4-12",
@@ -4182,7 +4182,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.680000000000003
+        "priority": 29.4
     },
     "Comprehensions": {
         "date_added": "2023-4-12",
@@ -4231,7 +4231,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.4
+        "priority": 15.52
     },
     "equivocal": {
         "date_added": "2023-4-13",
@@ -4254,7 +4254,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.1
+        "priority": 3.9599999999999995
     },
     "articulate": {
         "date_added": "2023-4-13",
@@ -4273,7 +4273,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.5
+        "priority": 23.44
     },
     "eloquent": {
         "date_added": "2023-4-13",
@@ -4304,7 +4304,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 35.879999999999995
+        "priority": 35.52
     },
     "shackle": {
         "date_added": "2023-4-13",
@@ -4323,7 +4323,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.6
+        "priority": 7.3439999999999985
     },
     "confer": {
         "date_added": "2023-4-13",
@@ -4342,7 +4342,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.3
+        "priority": 33.839999999999996
     },
     "NATO": {
         "date_added": "2023-4-13",
@@ -4391,7 +4391,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.5
+        "priority": 19.4
     },
     "disclosure": {
         "date_added": "2023-4-13",
@@ -4410,7 +4410,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.271999999999999
+        "priority": 24.12
     },
     "cohort": {
         "date_added": "2023-4-13",
@@ -4433,7 +4433,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.32
+        "priority": 16.240000000000002
     },
     "dubious": {
         "date_added": "2023-4-14",
@@ -4448,7 +4448,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 6.768
+        "priority": 28.1
     },
     "pollination": {
         "date_added": "2023-4-14",
@@ -4471,7 +4471,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 36.239999999999995
+        "priority": 10.763999999999998
     },
     "chairlift": {
         "date_added": "2023-4-14",
@@ -4486,7 +4486,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.2
+        "priority": 33.72
     },
     "pungent": {
         "date_added": "2023-4-14",
@@ -4501,7 +4501,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 33.839999999999996
+        "priority": 22.480000000000004
     },
     "dogmatic": {
         "date_added": "2023-4-14",
@@ -4520,7 +4520,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 8.49
+        "priority": 33.839999999999996
     },
     "fraudulent": {
         "date_added": "2023-4-14",
@@ -4535,7 +4535,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.152
+        "priority": 22.480000000000004
     },
     "Michael Pollan": {
         "date_added": "2023-4-14",
@@ -4695,7 +4695,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.175999999999999
+        "priority": 29.6
     },
     "Arterial Plaque": {
         "date_added": "2023-4-14",
@@ -4748,7 +4748,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.64
+        "priority": 16.48
     },
     "frivolous": {
         "date_added": "2023-4-15",
@@ -4779,7 +4779,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 36.239999999999995
+        "priority": 7.2
     },
     "ostentatious": {
         "date_added": "2023-4-15",
@@ -4810,7 +4810,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.87
+        "priority": 3.7199999999999998
     },
     "drudgery": {
         "date_added": "2023-4-16",
@@ -4841,7 +4841,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.0
+        "priority": 34.68
     },
     "cardiovascular": {
         "date_added": "2023-4-16",
@@ -4879,7 +4879,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.72
+        "priority": 22.64
     },
     "irk": {
         "date_added": "2023-4-16",
@@ -4902,7 +4902,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.5
+        "priority": 24.36
     },
     "prominence": {
         "date_added": "2023-4-16",
@@ -4925,7 +4925,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.080000000000002
+        "priority": 20.0
     },
     "cannibalization": {
         "date_added": "2023-4-18",
@@ -4955,7 +4955,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.2
+        "priority": 22.480000000000004
     },
     "content": {
         "date_added": "2023-4-18",
@@ -4970,7 +4970,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.64
+        "priority": 28.2
     },
     "wryly": {
         "date_added": "2023-4-18",
@@ -4993,7 +4993,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.6
+        "priority": 12.5
     },
     "Type I vs II Diabetes": {
         "date_added": "2023-4-18",
@@ -5198,7 +5198,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 34.68
+        "priority": 23.040000000000003
     },
     "optometry": {
         "date_added": "2023-4-19",
@@ -5213,7 +5213,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.5
+        "priority": 5.819999999999999
     },
     "boilerplate": {
         "date_added": "2023-4-19",
@@ -5232,7 +5232,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.680000000000001
+        "priority": 7.02
     },
     "bitrate": {
         "date_added": "2023-4-20",
@@ -5270,7 +5270,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.3
+        "priority": 23.28
     },
     "aperture": {
         "date_added": "2023-4-21",
@@ -5285,7 +5285,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.4
+        "priority": 19.4
     },
     "Pinhole Camera Model": {
         "date_added": "2023-4-21",
@@ -5624,7 +5624,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.6
+        "priority": 29.4
     },
     "Materialism": {
         "date_added": "2023-4-21",
@@ -5707,7 +5707,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 36.0
+        "priority": 23.840000000000003
     },
     "Franz Kalfka": {
         "date_added": "2023-4-21",
@@ -5753,7 +5753,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.76
+        "priority": 7.08
     },
     "insidious": {
         "date_added": "2023-4-21",
@@ -5784,7 +5784,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.36
+        "priority": 16.16
     },
     "varsity": {
         "date_added": "2023-4-21",
@@ -5803,7 +5803,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.4
+        "priority": 28.3
     },
     "minutiae": {
         "date_added": "2023-4-21",
@@ -5822,7 +5822,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.6
+        "priority": 15.600000000000001
     },
     "vieled": {
         "date_added": "2023-4-21",
@@ -5837,7 +5837,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.5
+        "priority": 15.52
     },
     "decision paralysis": {
         "date_added": "2023-4-21",
@@ -5871,7 +5871,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.600000000000001
+        "priority": 15.52
     },
     "thrift": {
         "date_added": "2023-4-21",
@@ -5890,7 +5890,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.76
+        "priority": 15.680000000000001
     },
     "neuron": {
         "date_added": "2023-4-21",
@@ -5989,7 +5989,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.72
+        "priority": 22.64
     },
     "pout": {
         "date_added": "2023-4-21",
@@ -6008,7 +6008,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 35.16
+        "priority": 8.73
     },
     "gawk": {
         "date_added": "2023-4-21",
@@ -6035,7 +6035,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.992000000000001
+        "priority": 24.720000000000002
     },
     "peruse": {
         "date_added": "2023-4-21",
@@ -6054,7 +6054,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 34.08
+        "priority": 28.3
     },
     "pensive": {
         "date_added": "2023-4-21",
@@ -6085,7 +6085,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.656
+        "priority": 35.279999999999994
     },
     "cornea": {
         "date_added": "2023-4-21",
@@ -6127,7 +6127,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.72
+        "priority": 28.3
     },
     "gargantuan": {
         "date_added": "2023-4-21",
@@ -6154,7 +6154,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.240000000000002
+        "priority": 20.2
     },
     "frazzle": {
         "date_added": "2023-4-21",
@@ -6181,7 +6181,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.840000000000002
+        "priority": 23.639999999999997
     },
     "rummage": {
         "date_added": "2023-4-21",
@@ -6208,7 +6208,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.040000000000003
+        "priority": 34.44
     },
     "fiasco": {
         "date_added": "2023-4-21",
@@ -6231,7 +6231,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.600000000000001
+        "priority": 19.4
     },
     "shrapnel": {
         "date_added": "2023-4-21",
@@ -6254,7 +6254,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.680000000000001
+        "priority": 19.6
     },
     "cysteine": {
         "date_added": "2023-4-21",
@@ -6319,7 +6319,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.0
+        "priority": 35.76
     },
     "contend": {
         "date_added": "2023-4-22",
@@ -6342,7 +6342,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.152
+        "priority": 35.4
     },
     "abstinence": {
         "date_added": "2023-4-22",
@@ -6373,7 +6373,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.4
+        "priority": 14.52
     },
     "zero-based budgeting": {
         "date_added": "2023-4-22",
@@ -6423,7 +6423,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.08
+        "priority": 4.3919999999999995
     },
     "bleak": {
         "date_added": "2023-4-22",
@@ -6450,7 +6450,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.72
+        "priority": 6.21
     },
     "contrarian": {
         "date_added": "2023-4-22",
@@ -6473,7 +6473,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 6.09
+        "priority": 4.848
     },
     "abomination": {
         "date_added": "2023-4-23",
@@ -6496,7 +6496,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 6.81
+        "priority": 26.639999999999997
     },
     "glycemia": {
         "date_added": "2023-4-23",
@@ -6538,7 +6538,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.16
+        "priority": 7.2
     },
     "spur": {
         "date_added": "2023-4-23",
@@ -6557,7 +6557,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.680000000000001
+        "priority": 15.600000000000001
     },
     "SDN": {
         "date_added": "2023-4-23",
@@ -6625,7 +6625,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.52
+        "priority": 7.008
     },
     "percolate": {
         "date_added": "2023-4-24",
@@ -6655,7 +6655,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.72
+        "priority": 22.560000000000002
     },
     "embryo": {
         "date_added": "2023-4-24",
@@ -6750,7 +6750,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.600000000000001
+        "priority": 23.279999999999998
     },
     "hypoglycemia": {
         "date_added": "2023-4-25",
@@ -6826,7 +6826,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.96
+        "priority": 16.48
     },
     "tassel": {
         "date_added": "2023-4-27",
@@ -6849,7 +6849,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 35.4
+        "priority": 23.44
     },
     "manifest": {
         "date_added": "2023-4-27",
@@ -6872,7 +6872,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.240000000000002
+        "priority": 20.2
     },
     "interim": {
         "date_added": "2023-4-27",
@@ -6891,7 +6891,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.896
+        "priority": 24.36
     },
     "herald": {
         "date_added": "2023-4-27",
@@ -6918,7 +6918,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.08
+        "priority": 29.3
     },
     "subdue": {
         "date_added": "2023-4-27",
@@ -6949,7 +6949,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.2
+        "priority": 20.1
     },
     "inimical": {
         "date_added": "2023-4-27",
@@ -6984,7 +6984,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.536
+        "priority": 9.76
     },
     "animosity": {
         "date_added": "2023-4-27",
@@ -7003,7 +7003,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.040000000000003
+        "priority": 16.8
     },
     "confide": {
         "date_added": "2023-4-27",
@@ -7030,7 +7030,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.692
+        "priority": 23.6
     },
     "affront": {
         "date_added": "2023-4-3",
@@ -7057,7 +7057,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.4
+        "priority": 19.4
     },
     "reproach": {
         "date_added": "2023-4-2",
@@ -7076,7 +7076,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.52
+        "priority": 19.3
     },
     "IP spoofing": {
         "date_added": "2023-4-27",
@@ -7228,7 +7228,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.3
+        "priority": 22.560000000000002
     },
     "desertion": {
         "date_added": "2023-4-28",
@@ -7247,7 +7247,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.080000000000002
+        "priority": 24.0
     },
     "desert": {
         "date_added": "2023-4-28",
@@ -7262,7 +7262,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.72
+        "priority": 28.2
     },
     "drain flies": {
         "date_added": "2023-4-28",
@@ -7300,7 +7300,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 35.879999999999995
+        "priority": 23.680000000000003
     },
     "moniker": {
         "date_added": "2023-4-28",
@@ -7327,7 +7327,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.0
+        "priority": 2.8320000000000003
     },
     "farce": {
         "date_added": "2023-4-28",
@@ -7354,7 +7354,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.76
+        "priority": 19.7
     },
     "scourge": {
         "date_added": "2023-4-28",
@@ -7385,7 +7385,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.4
+        "priority": 13.56
     },
     "brigade": {
         "date_added": "2023-4-28",
@@ -7404,7 +7404,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.4
+        "priority": 33.96
     },
     "aggravated assault": {
         "date_added": "2023-4-28",
@@ -7438,7 +7438,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 36.48
+        "priority": 24.16
     },
     "DNS Censorship": {
         "date_added": "2023-4-28",
@@ -7484,7 +7484,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 35.279999999999994
+        "priority": 35.16
     },
     "blemish": {
         "date_added": "2023-4-28",
@@ -7499,7 +7499,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.639999999999997
+        "priority": 23.52
     },
     "understudy": {
         "date_added": "2023-4-28",
@@ -7518,7 +7518,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.4
+        "priority": 23.36
     },
     "incarcerate": {
         "date_added": "2023-4-28",
@@ -7545,7 +7545,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.479999999999997
+        "priority": 7.308
     },
     "afflict": {
         "date_added": "2023-4-28",
@@ -7560,7 +7560,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 8.64
+        "priority": 22.96
     },
     "rebut": {
         "date_added": "2023-4-28",
@@ -7579,7 +7579,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.56
+        "priority": 24.720000000000002
     },
     "sporadic": {
         "date_added": "2023-4-28",
@@ -7602,7 +7602,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.6
+        "priority": 35.279999999999994
     },
     "nurotransmitter": {
         "date_added": "2023-4-28",
@@ -7640,7 +7640,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.776
+        "priority": 23.76
     },
     "exubrant": {
         "date_added": "2023-4-28",
@@ -7655,7 +7655,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.6
+        "priority": 23.4
     },
     "anaesthesia": {
         "date_added": "2023-4-28",
@@ -7674,7 +7674,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 35.52
+        "priority": 29.4
     },
     "amphetamine": {
         "date_added": "2023-4-28",
@@ -7724,7 +7724,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 2.88
+        "priority": 13.8
     },
     "barrage": {
         "date_added": "2023-4-29",
@@ -7747,7 +7747,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.399999999999999
+        "priority": 9.440000000000001
     },
     "lackluster": {
         "date_added": "2023-4-29",
@@ -7766,7 +7766,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.1
+        "priority": 7.199999999999999
     },
     "overt": {
         "date_added": "2023-4-29",
@@ -7789,7 +7789,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.6
+        "priority": 15.0
     },
     "detractor": {
         "date_added": "2023-4-29",
@@ -7820,7 +7820,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.656
+        "priority": 8.819999999999999
     },
     "Toni Bou": {
         "date_added": "2023-4-29",
@@ -7869,7 +7869,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.72
+        "priority": 8.49
     },
     "lenient": {
         "date_added": "2023-4-30",
@@ -7892,7 +7892,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.680000000000003
+        "priority": 29.4
     },
     "petulant": {
         "date_added": "2023-4-30",
@@ -7923,7 +7923,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.5
+        "priority": 14.639999999999999
     },
     "ornament": {
         "date_added": "2023-4-30",
@@ -7946,7 +7946,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.5
+        "priority": 35.16
     },
     "commemorate": {
         "date_added": "2023-4-30",
@@ -7965,7 +7965,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.56
+        "priority": 31.1
     },
     "calisthenics": {
         "date_added": "2023-4-30",
@@ -7999,7 +7999,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 36.12
+        "priority": 7.175999999999999
     },
     "whimsical": {
         "date_added": "2023-5-2",
@@ -8034,7 +8034,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.96
+        "priority": 16.48
     },
     "capricious": {
         "date_added": "2023-5-2",
@@ -8065,7 +8065,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.2
+        "priority": 16.080000000000002
     },
     "droop": {
         "date_added": "2023-5-2",
@@ -8092,7 +8092,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 30.4
+        "priority": 30.1
     },
     "loom": {
         "date_added": "2023-5-2",
@@ -8107,7 +8107,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.909999999999999
+        "priority": 19.7
     },
     "menace": {
         "date_added": "2023-5-2",
@@ -8130,7 +8130,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.36
+        "priority": 24.24
     },
     "commandeer": {
         "date_added": "2023-5-2",
@@ -8153,7 +8153,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 35.52
+        "priority": 29.4
     },
     "venue": {
         "date_added": "2023-5-2",
@@ -8168,7 +8168,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.259999999999998
+        "priority": 34.08
     },
     "disparity": {
         "date_added": "2023-5-2",
@@ -8187,7 +8187,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.1
+        "priority": 19.9
     },
     "pinnacle": {
         "date_added": "2023-5-2",
@@ -8206,7 +8206,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 31.5
+        "priority": 24.880000000000003
     },
     "nuance": {
         "date_added": "2023-5-2",
@@ -8225,7 +8225,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 35.279999999999994
+        "priority": 29.3
     },
     "stipulation": {
         "date_added": "2023-5-2",
@@ -8256,7 +8256,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 9.920000000000002
+        "priority": 4.356
     },
     "solidarity": {
         "date_added": "2023-5-2",
@@ -8275,7 +8275,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 34.44
+        "priority": 34.32
     },
     "dismay": {
         "date_added": "2023-5-2",
@@ -8290,7 +8290,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.5
+        "priority": 23.4
     },
     "timorous": {
         "date_added": "2023-5-2",
@@ -8313,7 +8313,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.16
+        "priority": 16.080000000000002
     },
     "ascertain": {
         "date_added": "2023-5-2",
@@ -8332,7 +8332,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.0
+        "priority": 9.76
     },
     "complacency": {
         "date_added": "2023-5-2",
@@ -8347,7 +8347,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.223999999999998
+        "priority": 33.839999999999996
     },
     "disdain": {
         "date_added": "2023-5-2",
@@ -8374,7 +8374,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.0
+        "priority": 4.3919999999999995
     },
     "welfare": {
         "date_added": "2023-5-2",
@@ -8389,7 +8389,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.72
+        "priority": 33.839999999999996
     },
     "axon": {
         "date_added": "2023-5-2",
@@ -8666,7 +8666,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.9
+        "priority": 6.912000000000001
     },
     "triangular mesh": {
         "date_added": "2023-5-4",
@@ -8700,7 +8700,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 30.0
+        "priority": 23.840000000000003
     },
     "hefty": {
         "date_added": "2023-5-4",
@@ -8715,7 +8715,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.7
+        "priority": 22.880000000000003
     },
     "aroma": {
         "date_added": "2023-5-4",
@@ -8730,7 +8730,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.5
+        "priority": 6.816
     },
     "perforate": {
         "date_added": "2023-5-4",
@@ -8745,7 +8745,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.96
+        "priority": 12.839999999999998
     },
     "fastidious": {
         "date_added": "2023-5-4",
@@ -8768,7 +8768,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.3439999999999985
+        "priority": 24.24
     },
     "savvy": {
         "date_added": "2023-5-4",
@@ -8783,7 +8783,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.4
+        "priority": 22.64
     },
     "trance": {
         "date_added": "2023-5-4",
@@ -8798,7 +8798,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 8.61
+        "priority": 22.8
     },
     "anguish": {
         "date_added": "2023-5-4",
@@ -8817,7 +8817,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.32
+        "priority": 20.2
     },
     "revolt": {
         "date_added": "2023-5-4",
@@ -8836,7 +8836,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.728
+        "priority": 23.52
     },
     "permeate": {
         "date_added": "2023-5-4",
@@ -8863,7 +8863,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 36.12
+        "priority": 29.9
     },
     "innocuous": {
         "date_added": "2023-5-4",
@@ -8886,7 +8886,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.080000000000002
+        "priority": 6.0
     },
     "ramification": {
         "date_added": "2023-5-4",
@@ -8901,7 +8901,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.76
+        "priority": 15.680000000000001
     },
     "impetuous": {
         "date_added": "2023-5-4",
@@ -8928,7 +8928,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.9
+        "priority": 12.5
     },
     "provost": {
         "date_added": "2023-5-5",
@@ -8943,7 +8943,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.5
+        "priority": 15.600000000000001
     },
     "linger": {
         "date_added": "2023-5-5",
@@ -8966,7 +8966,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.0
+        "priority": 23.840000000000003
     },
     "cloister": {
         "date_added": "2023-5-5",
@@ -8993,7 +8993,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 38.52
+        "priority": 11.339999999999998
     },
     "spoof": {
         "date_added": "2023-5-5",
@@ -9016,7 +9016,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.944000000000001
+        "priority": 24.599999999999998
     },
     "battery": {
         "date_added": "2023-5-5",
@@ -9062,7 +9062,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.440000000000001
+        "priority": 4.896
     },
     "confine -voc": {
         "date_added": "2023-5-5",
@@ -9092,7 +9092,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.4
+        "priority": 8.49
     },
     "figurative": {
         "date_added": "2023-5-5",
@@ -9111,7 +9111,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.44
+        "priority": 34.92
     },
     "zygote": {
         "date_added": "2023-5-6",
@@ -9164,7 +9164,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 35.52
+        "priority": 35.279999999999994
     },
     "QR Decomposition": {
         "date_added": "2023-4-21",
@@ -9247,7 +9247,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.85
+        "priority": 23.4
     },
     "SEC": {
         "date_added": "2023-5-8",
@@ -9308,7 +9308,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.16
+        "priority": 36.0
     },
     "imperative": {
         "date_added": "2023-5-9",
@@ -9331,7 +9331,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.9
+        "priority": 14.879999999999999
     },
     "catharsis": {
         "date_added": "2023-5-9",
@@ -9362,7 +9362,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 27.36
+        "priority": 17.76
     },
     "onerous": {
         "date_added": "2023-5-9",
@@ -9385,7 +9385,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.7
+        "priority": 15.680000000000001
     },
     "pertinent": {
         "date_added": "2023-5-13",
@@ -9404,7 +9404,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 30.2
+        "priority": 10.763999999999998
     },
     "savory": {
         "date_added": "2023-5-13",
@@ -9423,7 +9423,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.4
+        "priority": 35.16
     },
     "cerebral": {
         "date_added": "2023-5-13",
@@ -9438,7 +9438,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 34.199999999999996
+        "priority": 28.4
     },
     "incision": {
         "date_added": "2023-5-13",
@@ -9457,7 +9457,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.055999999999999
+        "priority": 35.16
     },
     "lobotomy": {
         "date_added": "2023-5-13",
@@ -9491,7 +9491,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 34.44
+        "priority": 34.199999999999996
     },
     "disparage": {
         "date_added": "2023-5-14",
@@ -9506,7 +9506,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.4
+        "priority": 4.068
     },
     "struvite stones": {
         "date_added": "2023-5-14",
@@ -9548,7 +9548,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.599999999999998
+        "priority": 24.36
     },
     "Pheidippides": {
         "date_added": "2023-5-14",
@@ -9582,7 +9582,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.0
+        "priority": 8.28
     },
     "Alma Mater": {
         "date_added": "2023-5-14",
@@ -9605,7 +9605,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 8.819999999999999
+        "priority": 23.36
     },
     "emeritus": {
         "date_added": "2023-5-14",
@@ -9620,7 +9620,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.52
+        "priority": 19.5
     },
     "DNS CNAME Records": {
         "date_added": "2023-5-14",
@@ -9697,7 +9697,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.56
+        "priority": 8.959999999999999
     },
     "malignant": {
         "date_added": "2023-5-15",
@@ -9712,7 +9712,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 35.04
+        "priority": 29.0
     },
     "embezzlement": {
         "date_added": "2023-5-15",
@@ -9735,7 +9735,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.16
+        "priority": 35.879999999999995
     },
     "feign": {
         "date_added": "2023-5-15",
@@ -9754,7 +9754,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.9
+        "priority": 9.920000000000002
     },
     "loss function": {
         "date_added": "2023-5-16",
@@ -10065,7 +10065,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.3
+        "priority": 34.92
     },
     "Omega-3 Fatty Acids": {
         "date_added": "2023-4-14",
@@ -10168,7 +10168,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.692
+        "priority": 7.08
     },
     "backpropagation": {
         "date_added": "2023-5-23",
@@ -10239,7 +10239,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.104000000000001
+        "priority": 35.279999999999994
     },
     "alfalfa": {
         "date_added": "2023-5-24",
@@ -10254,7 +10254,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.12
+        "priority": 16.0
     },
     "sedentary": {
         "date_added": "2023-5-24",
@@ -10277,7 +10277,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.0
+        "priority": 10.0
     },
     "diminish": {
         "date_added": "2023-5-26",
@@ -10292,7 +10292,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.968
+        "priority": 20.6
     },
     "hyperplane": {
         "date_added": "2023-5-26",
@@ -10345,7 +10345,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 25.08
+        "priority": 24.84
     },
     "activation function": {
         "date_added": "2023-5-30",
@@ -10425,7 +10425,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.319999999999999
+        "priority": 13.2
     },
     "ReLU": {
         "date_added": "2023-5-30",
@@ -10860,7 +10860,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.799999999999997
+        "priority": 18.400000000000002
     },
     "barren": {
         "date_added": "2023-6-6",
@@ -10879,7 +10879,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.0
+        "priority": 12.2
     },
     "PCA": {
         "date_added": "2023-6-6",
@@ -11353,7 +11353,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.5
+        "priority": 35.16
     },
     "forward vs. backward pass": {
         "date_added": "2023-5-23",
@@ -11432,7 +11432,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 38.4
+        "priority": 37.8
     },
     "eminent": {
         "date_added": "2023-5-9",
@@ -11459,7 +11459,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.5
+        "priority": 10.547999999999998
     },
     "CNN": {
         "date_added": "2023-6-11",
@@ -11689,7 +11689,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.240000000000002
+        "priority": 14.879999999999999
     },
     "gibbon": {
         "date_added": "2023-6-11",
@@ -11749,7 +11749,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 30.1
+        "priority": 7.175999999999999
     },
     "nautical": {
         "date_added": "2023-6-13",
@@ -11768,7 +11768,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.631999999999999
+        "priority": 16.72
     },
     "schizophrenia": {
         "date_added": "2023-6-13",
@@ -11783,7 +11783,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.32
+        "priority": 7.308
     },
     "make amends": {
         "date_added": "2023-4-6",
@@ -11829,7 +11829,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.9959999999999996
+        "priority": 13.2
     },
     "attain": {
         "date_added": "2023-6-14",
@@ -11844,7 +11844,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.319999999999999
+        "priority": 8.8
     },
     "attainment": {
         "date_added": "2023-6-14",
@@ -11859,7 +11859,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 8.88
+        "priority": 13.2
     },
     "control vs. data plane": {
         "date_added": "2023-6-14",
@@ -11938,7 +11938,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.4
+        "priority": 12.1
     },
     "assimilate": {
         "date_added": "2023-6-16",
@@ -11957,7 +11957,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 2.736
+        "priority": 13.8
     },
     "prod": {
         "date_added": "2023-6-16",
@@ -11972,7 +11972,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.924
+        "priority": 10.23
     },
     "AdaGrad": {
         "date_added": "2023-6-6",
@@ -12022,7 +12022,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.48
+        "priority": 12.4
     },
     "pundit": {
         "date_added": "2023-6-23",
@@ -12041,7 +12041,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.0
+        "priority": 12.5
     },
     "soot": {
         "date_added": "2023-6-28",
@@ -12056,7 +12056,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.9
+        "priority": 20.7
     },
     "cellophane": {
         "date_added": "2023-6-28",
@@ -12075,7 +12075,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.72
+        "priority": 20.7
     },
     "stoke": {
         "date_added": "2023-6-28",
@@ -12098,7 +12098,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 36.48
+        "priority": 36.12
     },
     "navel": {
         "date_added": "2023-6-29",
@@ -12113,7 +12113,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.8
+        "priority": 16.48
     },
     "heredity": {
         "date_added": "2023-6-29",
@@ -12140,7 +12140,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.72
+        "priority": 25.0
     },
     "melancholy": {
         "date_added": "2023-6-29",
@@ -12159,7 +12159,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.2
+        "priority": 24.12
     },
     "bestial": {
         "date_added": "2023-6-29",
@@ -12178,7 +12178,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.719999999999999
+        "priority": 4.536
     },
     "Non-local Neural Network": {
         "date_added": "2023-6-29",
@@ -12234,7 +12234,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.715999999999998
+        "priority": 11.088000000000001
     },
     "silhouette": {
         "date_added": "2023-6-30",
@@ -12249,7 +12249,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.3431999999999995
+        "priority": 25.4
     },
     "conditional language model": {
         "date_added": "2023-7-1",
@@ -12301,7 +12301,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.0
+        "priority": 14.16
     },
     "entail": {
         "date_added": "2023-7-1",
@@ -12320,7 +12320,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 2.88
+        "priority": 16.56
     },
     "knowledge distillation": {
         "date_added": "2023-7-1",
@@ -12425,7 +12425,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.9
+        "priority": 24.84
     },
     "obtrude": {
         "date_added": "2023-5-2",
@@ -12452,7 +12452,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.4
+        "priority": 11.3
     },
     "preclude": {
         "date_added": "2023-7-6",
@@ -12463,7 +12463,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.715999999999998
+        "priority": 13.86
     },
     "Logistic Regression": {
         "date_added": "2023-5-16",
@@ -12656,7 +12656,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 25.2
+        "priority": 24.96
     },
     "dementia": {
         "date_added": "2023-7-9",
@@ -12675,7 +12675,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.5
+        "priority": 8.79
     },
     "t-SNE": {
         "date_added": "2023-7-9",
@@ -12761,7 +12761,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.799999999999997
+        "priority": 16.715999999999998
     },
     "precarious": {
         "date_added": "2023-7-13",
@@ -12780,7 +12780,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.4
+        "priority": 15.0
     },
     "stewardship": {
         "date_added": "2023-7-17",
@@ -12799,7 +12799,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.32
+        "priority": 14.879999999999999
     },
     "premise": {
         "date_added": "2023-7-17",
@@ -12818,7 +12818,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 8.604
+        "priority": 23.0
     },
     "sinuous": {
         "date_added": "2023-7-17",
@@ -12837,7 +12837,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.680000000000003
+        "priority": 35.279999999999994
     },
     "sill": {
         "date_added": "2023-7-17",
@@ -12852,7 +12852,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.3
+        "priority": 29.1
     },
     "mingle": {
         "date_added": "2023-7-17",
@@ -12867,7 +12867,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 35.52
+        "priority": 23.52
     },
     "sublime": {
         "date_added": "2023-7-17",
@@ -12882,7 +12882,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.2
+        "priority": 23.28
     },
     "rein": {
         "date_added": "2023-7-17",
@@ -12897,7 +12897,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 25.08
+        "priority": 16.56
     },
     "incite": {
         "date_added": "2023-7-17",
@@ -12916,7 +12916,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.728
+        "priority": 35.4
     },
     "bustling": {
         "date_added": "2023-7-17",
@@ -12935,7 +12935,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.9
+        "priority": 23.0
     },
     "smattering": {
         "date_added": "2023-7-17",
@@ -12946,7 +12946,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.0
+        "priority": 3.3431999999999995
     },
     "mellow": {
         "date_added": "2023-7-17",
@@ -12965,7 +12965,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 27.479999999999997
+        "priority": 5.352
     },
     "exhilarating": {
         "date_added": "2023-7-17",
@@ -12980,7 +12980,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 27.84
+        "priority": 33.4
     },
     "unassuming": {
         "date_added": "2023-7-17",
@@ -12991,7 +12991,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.799999999999997
+        "priority": 13.929999999999998
     },
     "pennant": {
         "date_added": "2023-7-17",
@@ -13010,7 +13010,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.991999999999999
+        "priority": 39.0
     },
     "discourse": {
         "date_added": "2023-7-17",
@@ -13029,7 +13029,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 6.21
+        "priority": 7.379999999999999
     },
     "irreverent": {
         "date_added": "2023-7-17",
@@ -13044,7 +13044,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.96
+        "priority": 16.48
     },
     "translucent": {
         "date_added": "2023-7-17",
@@ -13063,7 +13063,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.32
+        "priority": 27.36
     },
     "audacity": {
         "date_added": "2023-7-17",
@@ -13078,7 +13078,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.271999999999999
+        "priority": 24.12
     },
     "tantrum": {
         "date_added": "2023-7-17",
@@ -13093,7 +13093,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 34.6
+        "priority": 9.989999999999998
     },
     "grudgingly": {
         "date_added": "2023-7-17",
@@ -13112,7 +13112,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 36.239999999999995
+        "priority": 36.0
     },
     "aloof": {
         "date_added": "2023-7-17",
@@ -13127,7 +13127,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.0
+        "priority": 3.75
     },
     "preside": {
         "date_added": "2023-7-17",
@@ -13142,7 +13142,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.48
+        "priority": 3.78
     },
     "pandemonium": {
         "date_added": "2023-7-17",
@@ -13165,7 +13165,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 9.600000000000001
+        "priority": 4.248
     },
     "virtue": {
         "date_added": "2023-7-17",
@@ -13180,7 +13180,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 35.64
+        "priority": 35.4
     },
     "entourage": {
         "date_added": "2023-7-17",
@@ -13195,7 +13195,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 6.24
+        "priority": 24.720000000000002
     },
     "conformist": {
         "date_added": "2023-7-17",
@@ -13210,7 +13210,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.4879999999999995
+        "priority": 4.944000000000001
     },
     "qubit": {
         "date_added": "2023-7-17",
@@ -13244,7 +13244,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 36.96
+        "priority": 36.48
     },
     "gracious": {
         "date_added": "2023-7-17",
@@ -13255,7 +13255,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.0
+        "priority": 16.715999999999998
     },
     "subversive": {
         "date_added": "2023-7-17",
@@ -13274,7 +13274,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.400000000000002
+        "priority": 7.3439999999999985
     },
     "allegiance": {
         "date_added": "2023-7-17",
@@ -13285,7 +13285,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.0
+        "priority": 13.929999999999998
     },
     "remedy": {
         "date_added": "2023-7-17",
@@ -13300,7 +13300,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.16
+        "priority": 6.96
     },
     "recount": {
         "date_added": "2023-7-17",
@@ -13315,7 +13315,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 21.0
+        "priority": 24.96
     },
     "wistful": {
         "date_added": "2023-7-17",
@@ -13326,7 +13326,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.799999999999997
+        "priority": 13.929999999999998
     },
     "gruelling": {
         "date_added": "2023-7-17",
@@ -13345,7 +13345,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.8
+        "priority": 6.869999999999999
     },
     "rendezvous": {
         "date_added": "2023-7-17",
@@ -13360,7 +13360,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 8.94
+        "priority": 7.104000000000001
     },
     "ovation": {
         "date_added": "2023-7-17",
@@ -13375,7 +13375,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 36.12
+        "priority": 29.9
     },
     "meticulous": {
         "date_added": "2023-7-17",
@@ -13386,7 +13386,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.799999999999997
+        "priority": 13.929999999999998
     },
     "vigilant": {
         "date_added": "2023-7-17",
@@ -13405,7 +13405,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.48
+        "priority": 12.6
     },
     "infamy": {
         "date_added": "2023-7-17",
@@ -13424,7 +13424,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 37.08
+        "priority": 30.0
     },
     "percipitate": {
         "date_added": "2023-7-17",
@@ -13435,7 +13435,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.039999999999999
+        "priority": 13.929999999999998
     },
     "migraine": {
         "date_added": "2023-7-20",
@@ -13454,7 +13454,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.48
+        "priority": 2.976
     },
     "throbbing": {
         "date_added": "2023-7-20",
@@ -13465,7 +13465,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.799999999999997
+        "priority": 16.715999999999998
     },
     "debilitate": {
         "date_added": "2023-7-20",
@@ -13491,7 +13491,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 9.200000000000001
+        "priority": 9.040000000000001
     },
     "confidence interval": {
         "date_added": "2023-7-21",
@@ -13544,7 +13544,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.4
+        "priority": 29.3
     },
     "Database vs. DeataWarehouse vs. DataLake": {
         "date_added": "2023-6-5",
@@ -13589,7 +13589,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.5
+        "priority": 14.639999999999999
     },
     "utilitarian": {
         "date_added": "2023-7-21",
@@ -13604,7 +13604,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 25.2
+        "priority": 20.8
     },
     "MixUp": {
         "date_added": "2023-7-22",
@@ -13701,7 +13701,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 35.16
+        "priority": 34.92
     },
     "The League of Nations": {
         "date_added": "2023-7-22",
@@ -13753,7 +13753,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.884
+        "priority": 16.715999999999998
     },
     "Manchuria": {
         "date_added": "2023-7-22",
@@ -13787,7 +13787,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.5
+        "priority": 2.928
     },
     "vendetta": {
         "date_added": "2023-7-24",
@@ -13806,7 +13806,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.8
+        "priority": 16.32
     },
     "anemia": {
         "date_added": "2023-7-24",
@@ -13844,7 +13844,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.4879999999999995
+        "priority": 16.48
     },
     "-a Francisco Franco": {
         "date_added": "2023-7-24",
@@ -13870,7 +13870,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 36.1
+        "priority": 34.2
     },
     "rearmament": {
         "date_added": "2023-7-24",
@@ -13889,7 +13889,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 9.27
+        "priority": 20.0
     },
     "The Sino-Japanese War": {
         "date_added": "2023-7-24",
@@ -13986,7 +13986,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 34.2
+        "priority": 26.400000000000002
     },
     "opus": {
         "date_added": "2023-7-24",
@@ -14001,7 +14001,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.16
+        "priority": 16.080000000000002
     },
     "disconsolate": {
         "date_added": "2023-7-25",
@@ -14028,7 +14028,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.144
+        "priority": 11.040000000000001
     },
     "pogrom": {
         "date_added": "2023-7-25",
@@ -14039,7 +14039,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.256
+        "priority": 3.3600000000000003
     },
     "Nazi-Soviet Nonaggression Pact": {
         "date_added": "2023-7-25",
@@ -14208,7 +14208,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.9
+        "priority": 27.599999999999998
     },
     "atlas": {
         "date_added": "2023-7-29",
@@ -14223,7 +14223,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.096
+        "priority": 32.6
     },
     "plaster onto": {
         "date_added": "2023-7-29",
@@ -14253,7 +14253,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 21.0
+        "priority": 6.24
     },
     "patter": {
         "date_added": "2023-7-29",
@@ -14264,7 +14264,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.256
+        "priority": 16.799999999999997
     },
     "plump": {
         "date_added": "2023-7-29",
@@ -14283,7 +14283,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.0
+        "priority": 9.440000000000001
     },
     "proffer": {
         "date_added": "2023-7-29",
@@ -14298,7 +14298,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.440000000000001
+        "priority": 3.2640000000000002
     },
     "foliage": {
         "date_added": "2023-7-29",
@@ -14317,7 +14317,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.96
+        "priority": 20.6
     },
     "GAN": {
         "date_added": "2023-7-29",
@@ -14347,7 +14347,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 30.0
+        "priority": 35.76
     },
     "subjugation": {
         "date_added": "2023-7-30",
@@ -14358,7 +14358,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.256
+        "priority": 14.0
     },
     "the Phony War": {
         "date_added": "2023-7-30",
@@ -14414,7 +14414,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.9
+        "priority": 15.0
     },
     "Helsinki": {
         "date_added": "2023-7-30",
@@ -14482,7 +14482,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.5
+        "priority": 9.76
     },
     "The Battle of Narvic": {
         "date_added": "2023-7-31",
@@ -14520,7 +14520,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.719999999999999
+        "priority": 10.08
     },
     "devious": {
         "date_added": "2023-8-3",
@@ -14531,7 +14531,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.090399999999999
+        "priority": 3.3768000000000002
     },
     "congragate": {
         "date_added": "2023-8-3",
@@ -14550,7 +14550,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.12
+        "priority": 12.2
     },
     "parody": {
         "date_added": "2023-8-4",
@@ -14565,7 +14565,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.656
+        "priority": 35.279999999999994
     },
     "aspersion": {
         "date_added": "2023-4-23",
@@ -14592,7 +14592,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.0
+        "priority": 15.0
     },
     "pervate": {
         "date_added": "2023-8-4",
@@ -14603,7 +14603,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.967999999999996
+        "priority": 14.07
     },
     "diffuse": {
         "date_added": "2023-8-4",
@@ -14618,7 +14618,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.16
+        "priority": 16.32
     },
     "tectonic": {
         "date_added": "2023-8-4",
@@ -14633,7 +14633,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.240000000000002
+        "priority": 36.0
     },
     "usher": {
         "date_added": "2023-8-4",
@@ -14648,7 +14648,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 9.120000000000001
+        "priority": 2.712
     },
     "fathom": {
         "date_added": "2023-8-4",
@@ -14659,7 +14659,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.139999999999999
+        "priority": 11.256
     },
     "stigma": {
         "date_added": "2023-8-4",
@@ -14674,7 +14674,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.399999999999999
+        "priority": 11.8
     },
     "conspire": {
         "date_added": "2023-8-4",
@@ -14693,7 +14693,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.96
+        "priority": 24.720000000000002
     },
     "introspective": {
         "date_added": "2023-8-4",
@@ -14708,7 +14708,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 36.72
+        "priority": 30.3
     },
     "patriarchy": {
         "date_added": "2023-8-4",
@@ -14723,7 +14723,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.080000000000002
+        "priority": 29.9
     },
     "infringement": {
         "date_added": "2023-8-4",
@@ -14742,7 +14742,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.72
+        "priority": 11.016
     },
     "vindication": {
         "date_added": "2023-8-4",
@@ -14757,7 +14757,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.4
+        "priority": 11.3
     },
     "propel": {
         "date_added": "2023-8-4",
@@ -14772,7 +14772,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 36.36
+        "priority": 36.0
     },
     "spunky": {
         "date_added": "2023-8-4",
@@ -14791,7 +14791,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.6
+        "priority": 21.7
     },
     "obliterate": {
         "date_added": "2023-8-4",
@@ -14806,7 +14806,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 38.4
+        "priority": 31.5
     },
     "constituent": {
         "date_added": "2023-8-4",
@@ -14817,7 +14817,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.312
+        "priority": 11.256
     },
     "contingent": {
         "date_added": "2023-8-4",
@@ -14832,7 +14832,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.1
+        "priority": 13.2
     },
     "estrange": {
         "date_added": "2023-8-4",
@@ -14847,7 +14847,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 41.52
+        "priority": 26.64
     },
     "shun": {
         "date_added": "2023-8-4",
@@ -14862,7 +14862,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 36.72
+        "priority": 9.09
     },
     "defiant": {
         "date_added": "2023-8-4",
@@ -14881,7 +14881,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 30.1
+        "priority": 10.763999999999998
     },
     "cannery": {
         "date_added": "2023-8-4",
@@ -14896,7 +14896,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.68
+        "priority": 13.56
     },
     "forsake": {
         "date_added": "2023-8-4",
@@ -14911,7 +14911,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.799999999999999
+        "priority": 9.040000000000001
     },
     "repellent": {
         "date_added": "2023-8-4",
@@ -14926,7 +14926,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 44.9
+        "priority": 29.12
     },
     "despaire": {
         "date_added": "2023-8-4",
@@ -14937,7 +14937,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.967999999999996
+        "priority": 16.884
     },
     "allure": {
         "date_added": "2023-8-4",
@@ -14952,7 +14952,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 18.48
+        "priority": 17.919999999999998
     },
     "embroil": {
         "date_added": "2023-8-4",
@@ -14967,7 +14967,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.16
+        "priority": 23.2
     },
     "impish": {
         "date_added": "2023-8-4",
@@ -14986,7 +14986,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 9.120000000000001
+        "priority": 13.56
     },
     "disperse": {
         "date_added": "2023-8-4",
@@ -15005,7 +15005,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.14
+        "priority": 27.479999999999997
     },
     "indignation": {
         "date_added": "2023-8-4",
@@ -15020,7 +15020,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.32
+        "priority": 15.36
     },
     "hiatus": {
         "date_added": "2023-8-4",
@@ -15031,7 +15031,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.241999999999999
+        "priority": 14.07
     },
     "sow": {
         "date_added": "2023-8-4",
@@ -15046,7 +15046,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 27.92
+        "priority": 40.199999999999996
     },
     "abalone": {
         "date_added": "2023-8-4",
@@ -15069,7 +15069,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.4499999999999997
+        "priority": 16.56
     },
     "conducive": {
         "date_added": "2023-8-4",
@@ -15084,7 +15084,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.6
+        "priority": 4.5
     },
     "afoot": {
         "date_added": "2023-8-4",
@@ -15099,7 +15099,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 9.920000000000002
+        "priority": 2.904
     },
     "Admiral Graf Spee": {
         "date_added": "2023-8-4",
@@ -15152,7 +15152,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.200000000000003
+        "priority": 18.400000000000002
     },
     "Blitzkrieg": {
         "date_added": "2023-8-4",
@@ -15215,7 +15215,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.0
+        "priority": 15.0
     },
     "Vichy France": {
         "date_added": "2023-8-4",
@@ -15272,7 +15272,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.440000000000001
+        "priority": 16.32
     },
     "Power vs. Product vs. Quotient Rule": {
         "date_added": "2023-5-28",
@@ -15333,7 +15333,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.8
+        "priority": 24.96
     },
     "haven": {
         "date_added": "2023-8-5",
@@ -15348,7 +15348,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.32
+        "priority": 24.16
     },
     "dismissive": {
         "date_added": "2023-8-5",
@@ -15359,7 +15359,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.967999999999996
+        "priority": 14.07
     },
     "tenacious": {
         "date_added": "2023-8-5",
@@ -15370,7 +15370,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.967999999999996
+        "priority": 16.884
     },
     "meandering": {
         "date_added": "2023-8-5",
@@ -15393,7 +15393,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.0
+        "priority": 16.56
     },
     "retrospect": {
         "date_added": "2023-8-5",
@@ -15408,7 +15408,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 30.2
+        "priority": 30.0
     },
     "dissipate": {
         "date_added": "2023-8-5",
@@ -15419,7 +15419,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.312
+        "priority": 14.07
     },
     "tether": {
         "date_added": "2023-8-5",
@@ -15434,7 +15434,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.3935999999999997
+        "priority": 36.9
     },
     "lanky": {
         "date_added": "2023-8-5",
@@ -15453,7 +15453,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 30.0
+        "priority": 35.64
     },
     "propensity": {
         "date_added": "2023-8-5",
@@ -15464,7 +15464,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.139999999999999
+        "priority": 16.884
     },
     "autocratic": {
         "date_added": "2023-8-5",
@@ -15479,7 +15479,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 43.08
+        "priority": 12.276
     },
     "mangle": {
         "date_added": "2023-8-5",
@@ -15494,7 +15494,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.36
+        "priority": 25.56
     },
     "mercurial": {
         "date_added": "2023-8-5",
@@ -15509,7 +15509,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.8
+        "priority": 4.992000000000001
     },
     "amend": {
         "date_added": "2023-8-5",
@@ -15524,7 +15524,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 21.0
+        "priority": 24.96
     },
     "infuriate": {
         "date_added": "2023-8-5",
@@ -15539,7 +15539,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 9.45
+        "priority": 31.1
     },
     "culmination": {
         "date_added": "2023-8-5",
@@ -15550,7 +15550,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.312
+        "priority": 4.221
     },
     "arthritic": {
         "date_added": "2023-8-5",
@@ -15561,7 +15561,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.967999999999996
+        "priority": 16.884
     },
     "convene": {
         "date_added": "2023-8-5",
@@ -15572,7 +15572,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.312
+        "priority": 14.07
     },
     "covet": {
         "date_added": "2023-8-5",
@@ -15583,7 +15583,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.139999999999999
+        "priority": 14.07
     },
     "blunt": {
         "date_added": "2023-8-5",
@@ -15594,7 +15594,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.312
+        "priority": 11.256
     },
     "capitulation": {
         "date_added": "2023-8-7",
@@ -15609,7 +15609,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.169999999999999
+        "priority": 18.400000000000002
     },
     "Charles de Gaulle": {
         "date_added": "2023-8-7",
@@ -15643,7 +15643,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.4
+        "priority": 10.0
     },
     "RAF": {
         "date_added": "2023-8-7",
@@ -15775,7 +15775,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 36.12
+        "priority": 7.175999999999999
     },
     "pedant": {
         "date_added": "2023-8-7",
@@ -15790,7 +15790,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 25.200000000000003
+        "priority": 37.32
     },
     "adaptive bitrate streaming": {
         "date_added": "2023-4-4",
@@ -15854,7 +15854,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.160000000000004
+        "priority": 33.7
     },
     "convulsion": {
         "date_added": "2023-8-9",
@@ -15873,7 +15873,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.0
+        "priority": 12.5
     },
     "trot": {
         "date_added": "2023-8-9",
@@ -15892,7 +15892,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.0
+        "priority": 18.400000000000002
     },
     "addendum": {
         "date_added": "2023-8-9",
@@ -15911,7 +15911,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.12
+        "priority": 5.52
     },
     "ordinance": {
         "date_added": "2023-8-9",
@@ -15926,7 +15926,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 9.120000000000001
+        "priority": 9.040000000000001
     },
     "The Blitz": {
         "date_added": "2023-8-9",
@@ -15952,7 +15952,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.967999999999996
+        "priority": 16.884
     },
     "The Mariana Trench": {
         "date_added": "2023-8-10",
@@ -16016,7 +16016,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 30.2
+        "priority": 35.879999999999995
     },
     "MiniMax": {
         "date_added": "2023-7-30",
@@ -16046,7 +16046,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.1
+        "priority": 22.4
     },
     "endeavor": {
         "date_added": "2023-8-10",
@@ -16061,7 +16061,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.400000000000002
+        "priority": 20.3
     },
     "startle": {
         "date_added": "2023-8-10",
@@ -16072,7 +16072,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.967999999999996
+        "priority": 14.07
     },
     "stencil": {
         "date_added": "2023-8-10",
@@ -16087,7 +16087,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.5
+        "priority": 4.104
     },
     "parting": {
         "date_added": "2023-8-10",
@@ -16102,7 +16102,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 30.5
+        "priority": 24.16
     },
     "candid": {
         "date_added": "2023-8-10",
@@ -16117,7 +16117,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 36.239999999999995
+        "priority": 23.92
     },
     "blurt": {
         "date_added": "2023-8-10",
@@ -16136,7 +16136,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 35.64
+        "priority": 29.5
     },
     "reminisce": {
         "date_added": "2023-8-10",
@@ -16151,7 +16151,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.3
+        "priority": 18.56
     },
     "inconspicuious": {
         "date_added": "2023-8-10",
@@ -16166,7 +16166,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 30.6
+        "priority": 10.908
     },
     "advent": {
         "date_added": "2023-8-10",
@@ -16185,7 +16185,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.556000000000001
+        "priority": 25.200000000000003
     },
     "matte": {
         "date_added": "2023-8-10",
@@ -16200,7 +16200,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 30.2
+        "priority": 8.969999999999999
     },
     "indigenous": {
         "date_added": "2023-8-10",
@@ -16219,7 +16219,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.200000000000003
+        "priority": 23.0
     },
     "desecrate": {
         "date_added": "2023-8-10",
@@ -16238,7 +16238,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 2.688
+        "priority": 11.040000000000001
     },
     "esoteric": {
         "date_added": "2023-8-11",
@@ -16253,7 +16253,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.4103999999999997
+        "priority": 3.312
     },
     "fatty acids": {
         "date_added": "2023-4-14",
@@ -16291,7 +16291,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.200000000000003
+        "priority": 18.400000000000002
     },
     "principal component analysis": {
         "date_added": "2023-8-11",
@@ -16340,7 +16340,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.32
+        "priority": 24.16
     },
     "acquiesce": {
         "date_added": "2023-8-11",
@@ -16363,7 +16363,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 40.199999999999996
+        "priority": 26.080000000000002
     },
     "awning": {
         "date_added": "2023-8-11",
@@ -16382,7 +16382,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.16
+        "priority": 23.92
     },
     "conciliatory": {
         "date_added": "2023-8-11",
@@ -16397,7 +16397,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.944000000000001
+        "priority": 24.599999999999998
     },
     "oust": {
         "date_added": "2023-8-11",
@@ -16412,7 +16412,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 21.0
+        "priority": 20.8
     },
     "perpetual": {
         "date_added": "2023-8-11",
@@ -16427,7 +16427,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 25.2
+        "priority": 20.8
     },
     "effusive": {
         "date_added": "2023-8-11",
@@ -16450,7 +16450,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 9.920000000000002
+        "priority": 14.52
     },
     "solemn": {
         "date_added": "2023-8-11",
@@ -16465,7 +16465,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 30.0
+        "priority": 29.7
     },
     "acolyte": {
         "date_added": "2023-8-11",
@@ -16476,7 +16476,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.052
+        "priority": 5.0652
     },
     "superlatives": {
         "date_added": "2023-8-11",
@@ -16487,7 +16487,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.052
+        "priority": 14.07
     },
     "cataract": {
         "date_added": "2023-8-11",
@@ -16498,7 +16498,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.263
+        "priority": 11.256
     },
     "freewheeling": {
         "date_added": "2023-8-11",
@@ -16517,7 +16517,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.6
+        "priority": 15.0
     },
     "marrow": {
         "date_added": "2023-8-11",
@@ -16532,7 +16532,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.8
+        "priority": 24.720000000000002
     },
     "totter": {
         "date_added": "2023-8-11",
@@ -16543,7 +16543,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.263
+        "priority": 14.07
     },
     "consensus": {
         "date_added": "2023-8-11",
@@ -16558,7 +16558,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.1
+        "priority": 3.024
     },
     "asceticism": {
         "date_added": "2023-8-11",
@@ -16573,7 +16573,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.08
+        "priority": 12.2
     },
     "averse": {
         "date_added": "2023-8-11",
@@ -16588,7 +16588,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.016
+        "priority": 24.240000000000002
     },
     "reluctant": {
         "date_added": "2023-8-11",
@@ -16603,7 +16603,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 25.6
+        "priority": 11.339999999999998
     },
     "Pantheon": {
         "date_added": "2023-8-11",
@@ -16618,7 +16618,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.0
+        "priority": 10.728
     },
     "revamp": {
         "date_added": "2023-8-11",
@@ -16633,7 +16633,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 25.2
+        "priority": 6.24
     },
     "virtuosity": {
         "date_added": "2023-8-11",
@@ -16648,7 +16648,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 29.7
+        "priority": 35.4
     },
     "contemplate": {
         "date_added": "2023-8-11",
@@ -16663,7 +16663,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.240000000000002
+        "priority": 6.06
     },
     "prune": {
         "date_added": "2023-8-11",
@@ -16678,7 +16678,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 9.18
+        "priority": 30.3
     },
     "retribution": {
         "date_added": "2023-8-11",
@@ -16697,7 +16697,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.0
+        "priority": 12.5
     },
     "purport": {
         "date_added": "2023-8-11",
@@ -16716,7 +16716,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.987999999999998
+        "priority": 11.663999999999998
     },
     "reassure": {
         "date_added": "2023-8-11",
@@ -16731,7 +16731,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.56
+        "priority": 27.479999999999997
     },
     "exploitation": {
         "date_added": "2023-8-11",
@@ -16746,7 +16746,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.840000000000003
+        "priority": 35.52
     },
     "alimony": {
         "date_added": "2023-8-11",
@@ -16757,7 +16757,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.263
+        "priority": 14.07
     },
     "inept": {
         "date_added": "2023-8-11",
@@ -16772,7 +16772,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.4
+        "priority": 4.5
     },
     "tepid": {
         "date_added": "2023-8-11",
@@ -16791,7 +16791,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.48
+        "priority": 14.879999999999999
     },
     "impound": {
         "date_added": "2023-8-11",
@@ -16802,7 +16802,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.1156
+        "priority": 16.884
     },
     "wunderkind": {
         "date_added": "2023-8-11",
@@ -16817,7 +16817,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.64
+        "priority": 12.7
     },
     "subjugate": {
         "date_added": "2023-8-11",
@@ -16828,7 +16828,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.1156
+        "priority": 16.884
     },
     "haggle": {
         "date_added": "2023-8-11",
@@ -16839,7 +16839,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.209999999999999
+        "priority": 11.256
     },
     "mar": {
         "date_added": "2023-8-11",
@@ -16858,7 +16858,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.72
+        "priority": 24.84
     },
     "extortion": {
         "date_added": "2023-8-11",
@@ -16873,7 +16873,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.680000000000003
+        "priority": 23.52
     },
     "chasm": {
         "date_added": "2023-8-11",
@@ -16888,7 +16888,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.76
+        "priority": 28.08
     },
     "concede": {
         "date_added": "2023-8-11",
@@ -16899,7 +16899,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.209999999999999
+        "priority": 3.3768000000000002
     },
     "innate": {
         "date_added": "2023-8-11",
@@ -16910,7 +16910,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.209999999999999
+        "priority": 4.221
     },
     "NeRF": {
         "date_added": "2023-8-11",
@@ -16932,7 +16932,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.209999999999999
+        "priority": 16.884
     },
     "trifle with": {
         "date_added": "2023-8-12",
@@ -16966,7 +16966,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.0
+        "priority": 9.76
     },
     "lull": {
         "date_added": "2023-8-12",
@@ -16977,7 +16977,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.209999999999999
+        "priority": 11.256
     },
     "Gilgamesh": {
         "date_added": "2023-8-12",
@@ -17007,7 +17007,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.56
+        "priority": 3.36
     },
     "quarry": {
         "date_added": "2023-8-12",
@@ -17022,7 +17022,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.0
+        "priority": 3.75
     },
     "chiefdom": {
         "date_added": "2023-8-12",
@@ -17033,7 +17033,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.368
+        "priority": 16.884
     },
     "cross-correlation vs. convolution": {
         "date_added": "2023-7-22",
@@ -17063,7 +17063,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.452
+        "priority": 7.416
     },
     "amicable": {
         "date_added": "2023-8-14",
@@ -17074,7 +17074,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.263
+        "priority": 4.241999999999999
     },
     "blubber": {
         "date_added": "2023-8-14",
@@ -17093,7 +17093,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.48
+        "priority": 9.920000000000002
     },
     "blistering": {
         "date_added": "2023-8-14",
@@ -17108,7 +17108,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.5
+        "priority": 11.3
     },
     "conflate": {
         "date_added": "2023-8-14",
@@ -17123,7 +17123,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.440000000000001
+        "priority": 10.88
     },
     "unslicited opinion": {
         "date_added": "2023-8-15",
@@ -17149,7 +17149,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.56
+        "priority": 27.479999999999997
     },
     "inconspicuous": {
         "date_added": "2023-8-15",
@@ -17160,7 +17160,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.209999999999999
+        "priority": 16.967999999999996
     },
     "antismitism": {
         "date_added": "2023-8-15",
@@ -17186,7 +17186,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.6
+        "priority": 3.0
     },
     "forage": {
         "date_added": "2023-8-15",
@@ -17205,7 +17205,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.87
+        "priority": 14.879999999999999
     },
     "henchman": {
         "date_added": "2023-8-15",
@@ -17216,7 +17216,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.052
+        "priority": 11.312
     },
     "lambda function": {
         "date_added": "2023-8-15",
@@ -17276,7 +17276,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.12
+        "priority": 16.56
     },
     "MVC": {
         "date_added": "2023-4-19",
@@ -17314,7 +17314,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.052
+        "priority": 14.139999999999999
     },
     "dead reckoning": {
         "date_added": "2023-8-17",
@@ -17344,7 +17344,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 28.56
+        "priority": 6.869999999999999
     },
     "U boats": {
         "date_added": "2023-8-17",
@@ -17418,7 +17418,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.368
+        "priority": 14.139999999999999
     },
     "Suez Canal": {
         "date_added": "2023-8-17",
@@ -17444,7 +17444,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.263
+        "priority": 11.312
     },
     "devote": {
         "date_added": "2023-8-17",
@@ -17459,7 +17459,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.76
+        "priority": 7.02
     },
     "one hot": {
         "date_added": "2023-6-6",
@@ -17523,7 +17523,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.4103999999999997
+        "priority": 36.9
     },
     "obituary": {
         "date_added": "2023-8-18",
@@ -17534,7 +17534,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.209999999999999
+        "priority": 11.312
     },
     "\"Moderation is a fatal thing, nothing succeeds like excess.\" Oscar Wilde": {
         "date_added": "2023-8-18",
@@ -17575,7 +17575,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.440000000000001
+        "priority": 3.2640000000000002
     },
     "foist": {
         "date_added": "2023-8-18",
@@ -17594,7 +17594,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.68
+        "priority": 15.0
     },
     "unwitting": {
         "date_added": "2023-8-18",
@@ -17613,7 +17613,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 26.400000000000002
+        "priority": 7.752
     },
     "Greco Italian War": {
         "date_added": "2023-8-19",
@@ -17635,7 +17635,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.263
+        "priority": 16.967999999999996
     },
     "silt": {
         "date_added": "2023-8-19",
@@ -17654,7 +17654,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.12
+        "priority": 13.8
     },
     "demur": {
         "date_added": "2023-8-19",
@@ -17669,7 +17669,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.8
+        "priority": 13.6
     },
     "promiscuous": {
         "date_added": "2023-8-19",
@@ -17684,7 +17684,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.99
+        "priority": 12.7
     },
     "fizz": {
         "date_added": "2023-8-19",
@@ -17703,7 +17703,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.1679999999999997
+        "priority": 13.8
     },
     "skitter": {
         "date_added": "2023-8-19",
@@ -17714,7 +17714,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.263
+        "priority": 14.139999999999999
     },
     "gumption": {
         "date_added": "2023-8-19",
@@ -17729,7 +17729,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.3
+        "priority": 13.44
     },
     "shrewd": {
         "date_added": "2023-8-19",
@@ -17740,7 +17740,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.368
+        "priority": 14.139999999999999
     },
     "astute": {
         "date_added": "2023-8-19",
@@ -17755,7 +17755,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 9.200000000000001
+        "priority": 13.68
     },
     "languish": {
         "date_added": "2023-8-19",
@@ -17770,7 +17770,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.751999999999999
+        "priority": 10.08
     },
     "prevailing": {
         "date_added": "2023-8-19",
@@ -17785,7 +17785,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.5
+        "priority": 9.040000000000001
     },
     "vacuous": {
         "date_added": "2023-8-19",
@@ -17800,7 +17800,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.799999999999999
+        "priority": 13.56
     },
     "vigilante": {
         "date_added": "2023-8-19",
@@ -17815,7 +17815,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.6
+        "priority": 5.184000000000001
     },
     "larynx": {
         "date_added": "2023-8-19",
@@ -17860,7 +17860,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.052
+        "priority": 16.967999999999996
     },
     "slosh": {
         "date_added": "2023-8-19",
@@ -17879,7 +17879,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.68
+        "priority": 10.0
     },
     "overhaul": {
         "date_added": "2023-8-19",
@@ -17898,7 +17898,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.6
+        "priority": 15.0
     },
     "twiddle": {
         "date_added": "2023-8-19",
@@ -17913,7 +17913,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.5
+        "priority": 15.36
     },
     "fray": {
         "date_added": "2023-8-19",
@@ -17924,7 +17924,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.052
+        "priority": 14.139999999999999
     },
     "smithereens": {
         "date_added": "2023-8-19",
@@ -17939,7 +17939,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 21.3
+        "priority": 21.0
     },
     "fret": {
         "date_added": "2023-8-19",
@@ -17954,7 +17954,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 9.040000000000001
+        "priority": 11.2
     },
     "inoculate": {
         "date_added": "2023-8-19",
@@ -17965,7 +17965,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.368
+        "priority": 11.312
     },
     "percipitation": {
         "date_added": "2023-8-19",
@@ -17976,7 +17976,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.052
+        "priority": 4.241999999999999
     },
     "attention": {
         "date_added": "2023-7-1",
@@ -18014,7 +18014,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.4
+        "priority": 13.56
     },
     "abomination of desolation": {
         "date_added": "2023-8-20",
@@ -18044,7 +18044,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.16
+        "priority": 16.32
     },
     "girder": {
         "date_added": "2023-8-20",
@@ -18059,7 +18059,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.400000000000002
+        "priority": 20.4
     },
     "Mobridge": {
         "date_added": "2023-8-20",
@@ -18096,7 +18096,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 25.08
+        "priority": 20.7
     },
     "Chautauqua": {
         "date_added": "2023-8-20",
@@ -18122,7 +18122,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 9.200000000000001
+        "priority": 9.040000000000001
     },
     "botch": {
         "date_added": "2023-8-20",
@@ -18133,7 +18133,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.424
+        "priority": 11.312
     },
     "Markov Decision Process (MDP)": {
         "date_added": "2023-8-21",
@@ -18255,7 +18255,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.8
+        "priority": 18.32
     },
     "whiz": {
         "date_added": "2023-8-22",
@@ -18270,7 +18270,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 9.200000000000001
+        "priority": 11.3
     },
     "cop-out": {
         "date_added": "2023-8-22",
@@ -18318,7 +18318,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.8
+        "priority": 16.48
     },
     "balmy": {
         "date_added": "2023-8-23",
@@ -18337,7 +18337,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 9.600000000000001
+        "priority": 11.8
     },
     "updraft": {
         "date_added": "2023-8-23",
@@ -18348,7 +18348,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.135999999999996
+        "priority": 16.967999999999996
     },
     "enamor": {
         "date_added": "2023-8-23",
@@ -18367,7 +18367,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.9
+        "priority": 3.75
     },
     "scorn": {
         "date_added": "2023-8-23",
@@ -18378,7 +18378,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.279999999999998
+        "priority": 14.139999999999999
     },
     "jeer": {
         "date_added": "2023-8-23",
@@ -18389,7 +18389,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.424
+        "priority": 16.967999999999996
     },
     "latent": {
         "date_added": "2023-8-23",
@@ -18400,7 +18400,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.424
+        "priority": 16.967999999999996
     },
     "toil": {
         "date_added": "2023-8-23",
@@ -18411,7 +18411,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.135999999999996
+        "priority": 16.967999999999996
     },
     "tumultuous": {
         "date_added": "2023-8-23",
@@ -18422,7 +18422,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.135999999999996
+        "priority": 14.139999999999999
     },
     "guild": {
         "date_added": "2023-8-23",
@@ -18437,7 +18437,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 31.5
+        "priority": 31.1
     },
     "plight": {
         "date_added": "2023-8-23",
@@ -18452,7 +18452,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.719999999999999
+        "priority": 15.12
     },
     "fickle": {
         "date_added": "2023-8-23",
@@ -18467,7 +18467,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.4271999999999996
+        "priority": 16.56
     },
     "scrupulous": {
         "date_added": "2023-8-23",
@@ -18478,7 +18478,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.135999999999996
+        "priority": 14.139999999999999
     },
     "blithely": {
         "date_added": "2023-8-23",
@@ -18493,7 +18493,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.3
+        "priority": 8.959999999999999
     },
     "utility of a state": {
         "date_added": "2023-8-23",
@@ -18552,7 +18552,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.56
+        "priority": 20.5
     },
     "akin": {
         "date_added": "2023-8-24",
@@ -18567,7 +18567,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.04
+        "priority": 20.8
     },
     "quality function": {
         "date_added": "2023-8-24",
@@ -18601,7 +18601,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.75
+        "priority": 12.2
     },
     "Gaslighting": {
         "date_added": "2023-8-26",
@@ -18695,7 +18695,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.987999999999998
+        "priority": 7.800000000000001
     },
     "Immanuel Kant": {
         "date_added": "2023-8-27",
@@ -18732,7 +18732,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.1
+        "priority": 15.12
     },
     "veneer": {
         "date_added": "2023-8-27",
@@ -18747,7 +18747,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.84
+        "priority": 16.400000000000002
     },
     "latent image": {
         "date_added": "2023-8-27",
@@ -18758,7 +18758,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.135999999999996
+        "priority": 17.052
     },
     "coalesce": {
         "date_added": "2023-8-27",
@@ -18773,7 +18773,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.715999999999999
+        "priority": 15.12
     },
     "euphemism": {
         "date_added": "2023-8-27",
@@ -18792,7 +18792,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 34.3
+        "priority": 39.72
     },
     "partisan": {
         "date_added": "2023-8-27",
@@ -18803,7 +18803,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.424
+        "priority": 17.052
     },
     "predicament": {
         "date_added": "2023-8-27",
@@ -18814,7 +18814,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.135999999999996
+        "priority": 11.368
     },
     "expound": {
         "date_added": "2023-8-27",
@@ -18829,7 +18829,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.8
+        "priority": 10.88
     },
     "contrive": {
         "date_added": "2023-8-27",
@@ -18844,7 +18844,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.4271999999999996
+        "priority": 16.56
     },
     "heretic": {
         "date_added": "2023-8-27",
@@ -18855,7 +18855,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.424
+        "priority": 14.209999999999999
     },
     "stationary policy": {
         "date_added": "2023-8-27",
@@ -18892,7 +18892,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 9.120000000000001
+        "priority": 13.56
     },
     "map projection": {
         "date_added": "2023-8-29",
@@ -18966,7 +18966,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.35
+        "priority": 17.052
     },
     "withering look": {
         "date_added": "2023-8-14",
@@ -19007,7 +19007,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.22
+        "priority": 11.368
     },
     "consortium": {
         "date_added": "2023-8-29",
@@ -19022,7 +19022,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 21.0
+        "priority": 24.96
     },
     "berate": {
         "date_added": "2023-8-29",
@@ -19037,7 +19037,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.56
+        "priority": 13.44
     },
     "dire": {
         "date_added": "2023-8-29",
@@ -19048,7 +19048,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.22
+        "priority": 3.4103999999999997
     },
     "imperil": {
         "date_added": "2023-8-29",
@@ -19059,7 +19059,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.22
+        "priority": 14.209999999999999
     },
     "boisterous": {
         "date_added": "2023-8-29",
@@ -19078,7 +19078,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.16
+        "priority": 4.896
     },
     "percolation": {
         "date_added": "2023-8-29",
@@ -19093,7 +19093,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.720000000000002
+        "priority": 24.599999999999998
     },
     "hurdle": {
         "date_added": "2023-8-29",
@@ -19104,7 +19104,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.22
+        "priority": 17.052
     },
     "rant": {
         "date_added": "2023-8-29",
@@ -19119,7 +19119,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 21.7
+        "priority": 25.56
     },
     "curate": {
         "date_added": "2023-8-29",
@@ -19134,7 +19134,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.56
+        "priority": 31.1
     },
     "ballistic": {
         "date_added": "2023-8-29",
@@ -19149,7 +19149,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 30.2
+        "priority": 23.92
     },
     "budge": {
         "date_added": "2023-8-29",
@@ -19160,7 +19160,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.35
+        "priority": 17.052
     },
     "superfluous": {
         "date_added": "2023-8-29",
@@ -19171,7 +19171,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.305
+        "priority": 11.368
     },
     "dissent": {
         "date_added": "2023-8-29",
@@ -19190,7 +19190,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.24
+        "priority": 13.8
     },
     "atrium": {
         "date_added": "2023-8-29",
@@ -19205,7 +19205,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.3
+        "priority": 12.7
     },
     "hoard": {
         "date_added": "2023-8-29",
@@ -19220,7 +19220,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.56
+        "priority": 31.1
     },
     "delegate": {
         "date_added": "2023-8-29",
@@ -19231,7 +19231,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.48
+        "priority": 14.209999999999999
     },
     "relatiation": {
         "date_added": "2023-8-29",
@@ -19242,7 +19242,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.35
+        "priority": 14.209999999999999
     },
     "deft": {
         "date_added": "2023-8-29",
@@ -19261,7 +19261,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 30.9
+        "priority": 30.0
     },
     "complacent": {
         "date_added": "2023-8-29",
@@ -19272,7 +19272,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.165999999999999
+        "priority": 11.368
     },
     "cirrhosis": {
         "date_added": "2023-8-29",
@@ -19302,7 +19302,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.35
+        "priority": 11.368
     },
     "amble": {
         "date_added": "2023-8-29",
@@ -19313,7 +19313,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.35
+        "priority": 5.1156
     },
     "belligerent": {
         "date_added": "2023-8-29",
@@ -19324,7 +19324,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.48
+        "priority": 14.209999999999999
     },
     "harmonic series": {
         "date_added": "2023-8-29",
@@ -19354,7 +19354,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.0
+        "priority": 11.8
     },
     "gleam": {
         "date_added": "2023-8-31",
@@ -19365,7 +19365,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.305
+        "priority": 17.052
     },
     "leaden": {
         "date_added": "2023-8-31",
@@ -19380,7 +19380,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.719999999999999
+        "priority": 10.08
     },
     "transgression": {
         "date_added": "2023-8-31",
@@ -19391,7 +19391,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.305
+        "priority": 17.052
     },
     "proximity": {
         "date_added": "2023-8-31",
@@ -19406,7 +19406,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.200000000000003
+        "priority": 23.0
     },
     "succumb": {
         "date_added": "2023-8-31",
@@ -19421,7 +19421,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.799999999999999
+        "priority": 9.040000000000001
     },
     "ordeal": {
         "date_added": "2023-8-31",
@@ -19432,7 +19432,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.305
+        "priority": 17.052
     },
     "watershed": {
         "date_added": "2023-9-1",
@@ -19451,7 +19451,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.0
+        "priority": 12.2
     },
     "coalface": {
         "date_added": "2023-9-1",
@@ -19466,7 +19466,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.32
+        "priority": 10.240000000000002
     },
     "conglomerate": {
         "date_added": "2023-9-1",
@@ -19481,7 +19481,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.3
+        "priority": 3.048
     },
     "emporium": {
         "date_added": "2023-9-2",
@@ -19492,7 +19492,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.35
+        "priority": 4.283999999999999
     },
     "eviscerate": {
         "date_added": "2023-9-2",
@@ -19511,7 +19511,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.240000000000002
+        "priority": 4.4639999999999995
     },
     "exasperate": {
         "date_added": "2023-9-2",
@@ -19545,7 +19545,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.22
+        "priority": 5.140799999999999
     },
     "pander": {
         "date_added": "2023-9-4",
@@ -19560,7 +19560,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.16
+        "priority": 10.88
     },
     "titter": {
         "date_added": "2023-9-4",
@@ -19571,7 +19571,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.22
+        "priority": 11.424
     },
     "entrench": {
         "date_added": "2023-9-4",
@@ -19582,7 +19582,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.35
+        "priority": 14.279999999999998
     },
     "remnant": {
         "date_added": "2023-9-4",
@@ -19593,7 +19593,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.48
+        "priority": 14.279999999999998
     },
     "eerie": {
         "date_added": "2023-9-4",
@@ -19604,7 +19604,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.22
+        "priority": 14.279999999999998
     },
     "recant": {
         "date_added": "2023-9-4",
@@ -19615,7 +19615,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.35
+        "priority": 11.424
     },
     "belligerence": {
         "date_added": "2023-9-4",
@@ -19630,7 +19630,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.8
+        "priority": 12.8
     },
     "thwart": {
         "date_added": "2023-8-19",
@@ -19645,7 +19645,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.92
+        "priority": 23.680000000000003
     },
     "cononical": {
         "date_added": "2023-8-11",
@@ -19660,7 +19660,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.6
+        "priority": 7.3439999999999985
     },
     "self-handicapping": {
         "date_added": "2023-9-8",
@@ -19694,7 +19694,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 36.239999999999995
+        "priority": 35.879999999999995
     },
     "Operation Barbarossa": {
         "date_added": "2023-9-10",
@@ -19749,7 +19749,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.42
+        "priority": 11.48
     },
     "Hideki Tojo": {
         "date_added": "2023-9-11",
@@ -19771,7 +19771,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.304000000000002
+        "priority": 17.22
     },
     "VOC": {
         "date_added": "2023-9-11",
@@ -19815,7 +19815,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.304000000000002
+        "priority": 11.48
     },
     "TD Lambda": {
         "date_added": "2023-9-12",
@@ -19856,7 +19856,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 8.963999999999999
+        "priority": 28.2
     },
     "reckon with": {
         "date_added": "2023-9-12",
@@ -19889,7 +19889,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.536
+        "priority": 5.165999999999999
     },
     "gale": {
         "date_added": "2023-9-12",
@@ -19908,7 +19908,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.987999999999998
+        "priority": 38.879999999999995
     },
     "groan": {
         "date_added": "2023-9-12",
@@ -19923,7 +19923,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.4608000000000003
+        "priority": 11.040000000000001
     },
     "apparition": {
         "date_added": "2023-9-12",
@@ -19934,7 +19934,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.304000000000002
+        "priority": 3.444
     },
     "capitulate": {
         "date_added": "2023-9-12",
@@ -19957,7 +19957,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.024
+        "priority": 25.4
     },
     "poignant": {
         "date_added": "2023-9-12",
@@ -19968,7 +19968,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.536
+        "priority": 14.35
     },
     "ameliorate": {
         "date_added": "2023-9-12",
@@ -19983,7 +19983,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.440000000000001
+        "priority": 16.32
     },
     "repose": {
         "date_added": "2023-9-12",
@@ -19994,7 +19994,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.304000000000002
+        "priority": 11.48
     },
     "Geneva": {
         "date_added": "2023-9-12",
@@ -20016,7 +20016,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.216399999999999
+        "priority": 11.48
     },
     "abode": {
         "date_added": "2023-9-15",
@@ -20027,7 +20027,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.489999999999998
+        "priority": 11.48
     },
     "excursion": {
         "date_added": "2023-9-15",
@@ -20042,7 +20042,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.4776
+        "priority": 16.56
     },
     "archipelago": {
         "date_added": "2023-9-15",
@@ -20057,7 +20057,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.32
+        "priority": 12.8
     },
     "Sook Ching Massacre": {
         "date_added": "2023-9-15",
@@ -20079,7 +20079,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.3469999999999995
+        "priority": 14.35
     },
     "armament": {
         "date_added": "2023-9-16",
@@ -20094,7 +20094,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.96
+        "priority": 15.239999999999998
     },
     "sullen": {
         "date_added": "2023-9-16",
@@ -20109,7 +20109,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.5
+        "priority": 15.36
     },
     "ardour": {
         "date_added": "2023-9-16",
@@ -20120,7 +20120,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.216399999999999
+        "priority": 5.165999999999999
     },
     "apathy": {
         "date_added": "2023-9-16",
@@ -20131,7 +20131,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.489999999999998
+        "priority": 4.305
     },
     "imbued with": {
         "date_added": "2023-9-16",
@@ -20153,7 +20153,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.3469999999999995
+        "priority": 17.22
     },
     "elixir": {
         "date_added": "2023-9-16",
@@ -20164,7 +20164,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.489999999999998
+        "priority": 11.48
     },
     "caprice": {
         "date_added": "2023-9-16",
@@ -20175,7 +20175,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.489999999999998
+        "priority": 11.48
     },
     "vein": {
         "date_added": "2023-9-17",
@@ -20297,7 +20297,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.387999999999998
+        "priority": 14.42
     },
     "Scoville Heat Unit (SHU)": {
         "date_added": "2023-9-10",
@@ -20323,7 +20323,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.648
+        "priority": 17.304000000000002
     },
     "ardor": {
         "date_added": "2023-9-20",
@@ -20342,7 +20342,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.0
+        "priority": 12.2
     },
     "lukewarm": {
         "date_added": "2023-9-20",
@@ -20353,7 +20353,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.471999999999998
+        "priority": 17.304000000000002
     },
     "NoSQL Database": {
         "date_added": "2023-6-5",
@@ -20379,7 +20379,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.471999999999998
+        "priority": 17.304000000000002
     },
     "RNA": {
         "date_added": "2023-9-22",
@@ -20427,7 +20427,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.648
+        "priority": 3.4608000000000003
     },
     "Warsaw Ghetto": {
         "date_added": "2023-9-22",
@@ -20482,7 +20482,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.471999999999998
+        "priority": 5.1912
     },
     "placid": {
         "date_added": "2023-9-23",
@@ -20493,7 +20493,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.471999999999998
+        "priority": 11.536
     },
     "trifling": {
         "date_added": "2023-9-23",
@@ -20508,7 +20508,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.440000000000001
+        "priority": 10.88
     },
     "unbridled": {
         "date_added": "2023-9-23",
@@ -20519,7 +20519,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.471999999999998
+        "priority": 17.304000000000002
     },
     "callous": {
         "date_added": "2023-9-23",
@@ -20530,7 +20530,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.559999999999999
+        "priority": 4.3260000000000005
     },
     "Keto Diet": {
         "date_added": "2023-9-24",
@@ -20552,7 +20552,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.648
+        "priority": 11.536
     },
     "spellbound": {
         "date_added": "2023-9-24",
@@ -20563,7 +20563,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.471999999999998
+        "priority": 14.42
     },
     "wretched": {
         "date_added": "2023-9-24",
@@ -20574,7 +20574,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.648
+        "priority": 5.1912
     },
     "desolated": {
         "date_added": "2023-9-24",
@@ -20585,7 +20585,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.648
+        "priority": 14.42
     },
     "deposition": {
         "date_added": "2023-9-24",
@@ -20596,7 +20596,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.367999999999999
+        "priority": 11.536
     },
     "cedar": {
         "date_added": "2023-9-25",
@@ -20633,7 +20633,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.3
+        "priority": 15.239999999999998
     },
     "abhorrence": {
         "date_added": "2023-9-27",
@@ -20644,7 +20644,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.629999999999997
+        "priority": 11.591999999999999
     },
     "woe": {
         "date_added": "2023-9-27",
@@ -20655,7 +20655,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.555999999999997
+        "priority": 11.591999999999999
     },
     "sacrilege": {
         "date_added": "2023-9-27",
@@ -20666,7 +20666,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.629999999999997
+        "priority": 14.489999999999998
     },
     "one-hot encoding": {
         "date_added": "2023-9-30",
@@ -20773,7 +20773,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.5111999999999997
+        "priority": 25.4
     },
     "understatment": {
         "date_added": "2023-10-2",
@@ -20784,7 +20784,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.555999999999997
+        "priority": 17.387999999999998
     },
     "accolade": {
         "date_added": "2023-10-2",
@@ -20795,7 +20795,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.266799999999999
+        "priority": 17.387999999999998
     },
     "eschew": {
         "date_added": "2023-10-2",
@@ -20814,7 +20814,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.72
+        "priority": 30.0
     },
     "dissemble": {
         "date_added": "2023-10-2",
@@ -20825,7 +20825,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.629999999999997
+        "priority": 11.591999999999999
     },
     "jaundice": {
         "date_added": "2023-10-2",
@@ -20836,7 +20836,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.703999999999999
+        "priority": 17.387999999999998
     },
     "billow": {
         "date_added": "2023-10-2",
@@ -20847,7 +20847,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.266799999999999
+        "priority": 14.489999999999998
     },
     "tout": {
         "date_added": "2023-10-2",
@@ -20858,7 +20858,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.388999999999999
+        "priority": 14.489999999999998
     },
     "brisk": {
         "date_added": "2023-10-2",
@@ -20869,7 +20869,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.629999999999997
+        "priority": 5.216399999999999
     },
     "underdog": {
         "date_added": "2023-10-2",
@@ -20880,7 +20880,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.555999999999997
+        "priority": 11.591999999999999
     },
     "fringe": {
         "date_added": "2023-10-2",
@@ -20891,7 +20891,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.629999999999997
+        "priority": 17.387999999999998
     },
     "recuperate": {
         "date_added": "2023-10-2",
@@ -20902,7 +20902,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.5111999999999997
+        "priority": 17.387999999999998
     },
     "ethereal": {
         "date_added": "2023-10-2",
@@ -20913,7 +20913,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.555999999999997
+        "priority": 17.387999999999998
     },
     "royalty": {
         "date_added": "2023-10-2",
@@ -20924,7 +20924,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.5111999999999997
+        "priority": 11.591999999999999
     },
     "hemorrhage": {
         "date_added": "2023-10-2",
@@ -20935,7 +20935,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.266799999999999
+        "priority": 11.591999999999999
     },
     "tranche": {
         "date_added": "2023-10-2",
@@ -20950,7 +20950,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.6
+        "priority": 9.200000000000001
     },
     "compelling": {
         "date_added": "2023-10-2",
@@ -20961,7 +20961,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.5111999999999997
+        "priority": 3.4776
     },
     "taint": {
         "date_added": "2023-10-2",
@@ -20972,7 +20972,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.5111999999999997
+        "priority": 11.591999999999999
     },
     "H infinity control - con": {
         "date_added": "2023-10-3",
@@ -20983,7 +20983,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.5279999999999996
+        "priority": 11.648
     },
     "Generalized MDPs": {
         "date_added": "2023-10-3",
@@ -21035,7 +21035,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.76
+        "priority": 23.4
     },
     "aristocrat": {
         "date_added": "2023-10-5",
@@ -21050,7 +21050,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.6
+        "priority": 10.240000000000002
     },
     "SARSA": {
         "date_added": "2023-10-5",
@@ -21116,7 +21116,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.76
+        "priority": 17.471999999999998
     },
     "prevailing wage": {
         "date_added": "2023-10-6",
@@ -21138,7 +21138,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.76
+        "priority": 11.648
     },
     "MLM (masked language modeling\"": {
         "date_added": "2023-7-1",
@@ -21175,7 +21175,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.76
+        "priority": 11.648
     },
     "showdown": {
         "date_added": "2023-10-7",
@@ -21186,7 +21186,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.409999999999999
+        "priority": 17.471999999999998
     },
     "remorseful": {
         "date_added": "2023-10-7",
@@ -21197,7 +21197,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.639999999999997
+        "priority": 3.4944000000000006
     },
     "indispensable": {
         "date_added": "2023-10-7",
@@ -21208,7 +21208,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.76
+        "priority": 11.648
     },
     "unanimous": {
         "date_added": "2023-10-7",
@@ -21219,7 +21219,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.76
+        "priority": 3.4944000000000006
     },
     "hoist": {
         "date_added": "2023-10-7",
@@ -21234,7 +21234,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.64
+        "priority": 15.239999999999998
     },
     "wondrous": {
         "date_added": "2023-10-7",
@@ -21249,7 +21249,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.176
+        "priority": 13.799999999999999
     },
     "nimble": {
         "date_added": "2023-10-7",
@@ -21264,7 +21264,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 31.5
+        "priority": 9.33
     },
     "indisputable": {
         "date_added": "2023-10-7",
@@ -21275,7 +21275,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.7
+        "priority": 4.367999999999999
     },
     "demise": {
         "date_added": "2023-10-7",
@@ -21290,7 +21290,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 43.08
+        "priority": 40.92
     },
     "roam": {
         "date_added": "2023-10-7",
@@ -21305,7 +21305,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.924
+        "priority": 27.28
     },
     "exemplary": {
         "date_added": "2023-10-7",
@@ -21316,7 +21316,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.76
+        "priority": 14.559999999999999
     },
     "pilgrimage": {
         "date_added": "2023-10-7",
@@ -21327,7 +21327,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.639999999999997
+        "priority": 14.559999999999999
     },
     "encase": {
         "date_added": "2023-10-7",
@@ -21338,7 +21338,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.7
+        "priority": 17.471999999999998
     },
     "magnanimous": {
         "date_added": "2023-10-7",
@@ -21349,7 +21349,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.76
+        "priority": 17.471999999999998
     },
     "indictment": {
         "date_added": "2023-10-7",
@@ -21360,7 +21360,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.292
+        "priority": 11.648
     },
     "incredulous": {
         "date_added": "2023-10-7",
@@ -21371,7 +21371,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.76
+        "priority": 4.367999999999999
     },
     "bulldozer": {
         "date_added": "2023-10-7",
@@ -21382,7 +21382,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.76
+        "priority": 11.648
     },
     "broach": {
         "date_added": "2023-10-7",
@@ -21393,7 +21393,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.292
+        "priority": 11.648
     },
     "adjudicate": {
         "date_added": "2023-10-7",
@@ -21408,7 +21408,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.5
+        "priority": 12.8
     },
     "behemoth": {
         "date_added": "2023-10-7",
@@ -21419,7 +21419,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.76
+        "priority": 14.559999999999999
     },
     "gauze": {
         "date_added": "2023-10-7",
@@ -21430,7 +21430,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.639999999999997
+        "priority": 17.471999999999998
     },
     "bereave": {
         "date_added": "2023-10-7",
@@ -21441,7 +21441,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.639999999999997
+        "priority": 14.559999999999999
     },
     "commentariat": {
         "date_added": "2023-10-7",
@@ -21452,7 +21452,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.409999999999999
+        "priority": 4.367999999999999
     },
     "trounce": {
         "date_added": "2023-10-7",
@@ -21463,7 +21463,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.76
+        "priority": 14.559999999999999
     },
     "contemptuous": {
         "date_added": "2023-10-7",
@@ -21478,7 +21478,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 24.7
+        "priority": 28.08
     },
     "stroll": {
         "date_added": "2023-10-7",
@@ -21489,7 +21489,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.76
+        "priority": 14.559999999999999
     },
     "reel": {
         "date_added": "2023-10-7",
@@ -21504,7 +21504,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 43.08
+        "priority": 12.276
     },
     "talisman": {
         "date_added": "2023-10-7",
@@ -21515,7 +21515,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.76
+        "priority": 14.559999999999999
     },
     "pledge": {
         "date_added": "2023-10-7",
@@ -21526,7 +21526,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.7
+        "priority": 11.648
     },
     "surrogate": {
         "date_added": "2023-10-7",
@@ -21537,7 +21537,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.639999999999997
+        "priority": 17.471999999999998
     },
     "mesmerizing": {
         "date_added": "2023-10-7",
@@ -21548,7 +21548,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.639999999999997
+        "priority": 11.648
     },
     "speculate": {
         "date_added": "2023-10-7",
@@ -21559,7 +21559,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.7
+        "priority": 11.648
     },
     "enzyme": {
         "date_added": "2023-10-7",
@@ -21585,7 +21585,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.0
+        "priority": 14.16
     },
     "perverse": {
         "date_added": "2023-10-7",
@@ -21596,7 +21596,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.7
+        "priority": 11.648
     },
     "streak": {
         "date_added": "2023-10-7",
@@ -21607,7 +21607,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.76
+        "priority": 14.559999999999999
     },
     "circadian rhythm": {
         "date_added": "2023-10-8",
@@ -21728,7 +21728,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.77
+        "priority": 11.703999999999999
     },
     "flail": {
         "date_added": "2023-10-9",
@@ -21739,7 +21739,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.724
+        "priority": 4.388999999999999
     },
     "scalding": {
         "date_added": "2023-10-10",
@@ -21750,7 +21750,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.3172
+        "priority": 17.555999999999997
     },
     "infant CPR": {
         "date_added": "2023-10-10",
@@ -21783,7 +21783,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.816
+        "priority": 17.555999999999997
     },
     "baby acne": {
         "date_added": "2023-10-10",
@@ -21850,7 +21850,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.5
+        "priority": 9.76
     },
     "ardent": {
         "date_added": "2023-10-12",
@@ -21861,7 +21861,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.724
+        "priority": 3.5111999999999997
     },
     "affluence": {
         "date_added": "2023-10-12",
@@ -21872,7 +21872,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 11.816
+        "priority": 17.555999999999997
     },
     "hare": {
         "date_added": "2023-10-14",
@@ -21894,7 +21894,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.839999999999998
+        "priority": 11.703999999999999
     },
     "respite": {
         "date_added": "2023-10-14",
@@ -21905,7 +21905,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.807999999999996
+        "priority": 14.629999999999997
     },
     "depose": {
         "date_added": "2023-10-16",
@@ -22107,7 +22107,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.6119999999999997
+        "priority": 17.807999999999996
     },
     "burrow": {
         "date_added": "2023-10-28",
@@ -22122,7 +22122,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.8
+        "priority": 12.8
     },
     "k armed bandits": {
         "date_added": "2023-10-30",
@@ -22144,7 +22144,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 18.06
+        "priority": 11.872
     },
     "confidence-based exploration": {
         "date_added": "2023-10-31",
@@ -22225,7 +22225,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.248
+        "priority": 3.48
     },
     "fentanyl": {
         "date_added": "2023-11-6",
@@ -22251,7 +22251,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 10.88
+        "priority": 12.8
     },
     "botched": {
         "date_added": "2023-11-15",
@@ -22262,7 +22262,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.264
+        "priority": 18.144
     },
     "epitomize": {
         "date_added": "2023-11-15",
@@ -22273,7 +22273,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 18.395999999999997
+        "priority": 4.536
     },
     "pedagogic": {
         "date_added": "2023-11-16",
@@ -22284,7 +22284,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.32
+        "priority": 15.12
     },
     "laud": {
         "date_added": "2023-11-17",
@@ -22295,7 +22295,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.32
+        "priority": 12.096
     },
     "Rmax": {
         "date_added": "2023-11-17",
@@ -22317,7 +22317,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.399999999999999
+        "priority": 12.096
     },
     "Ceviche": {
         "date_added": "2023-11-17",
@@ -22339,7 +22339,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.399999999999999
+        "priority": 15.12
     },
     "anvil": {
         "date_added": "2023-11-18",
@@ -22350,7 +22350,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.32
+        "priority": 15.189999999999998
     },
     "unnerving": {
         "date_added": "2023-11-18",
@@ -22361,7 +22361,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 18.479999999999997
+        "priority": 15.189999999999998
     },
     "ruse": {
         "date_added": "2023-11-18",
@@ -22372,7 +22372,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.32
+        "priority": 18.227999999999998
     },
     "exert": {
         "date_added": "2023-11-18",
@@ -22383,7 +22383,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.543999999999999
+        "priority": 18.227999999999998
     },
     "befuddle": {
         "date_added": "2023-11-18",
@@ -22394,7 +22394,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.399999999999999
+        "priority": 18.227999999999998
     },
     "accomplice": {
         "date_added": "2023-11-18",
@@ -22405,7 +22405,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 12.32
+        "priority": 18.227999999999998
     },
     "averager": {
         "date_added": "2023-11-18",
@@ -22482,7 +22482,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.5691999999999995
+        "priority": 12.152
     },
     "amygdala": {
         "date_added": "2023-11-19",
@@ -22504,7 +22504,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.641
+        "priority": 12.152
     },
     "SMDP": {
         "date_added": "2023-12-4",
@@ -22548,7 +22548,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.7669999999999995
+        "priority": 18.647999999999996
     },
     "minimax": {
         "date_added": "2023-12-5",
@@ -22603,7 +22603,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.067999999999998
+        "priority": 18.647999999999996
     },
     "subgame perfect": {
         "date_added": "2023-12-5",
@@ -22669,7 +22669,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.8471999999999995
+        "priority": 12.488
     },
     "gregarious": {
         "date_added": "2023-12-18",
@@ -22680,7 +22680,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.45
+        "priority": 4.7669999999999995
     },
     "flannel": {
         "date_added": "2023-12-19",
@@ -22691,7 +22691,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.823999999999998
+        "priority": 12.768
     },
     "sterile": {
         "date_added": "2023-12-19",
@@ -22702,7 +22702,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.9472
+        "priority": 12.768
     },
     "inaugural": {
         "date_added": "2023-12-19",
@@ -22713,7 +22713,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.216000000000001
+        "priority": 5.7456
     },
     "purgatory": {
         "date_added": "2023-12-19",
@@ -22724,7 +22724,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.52
+        "priority": 19.151999999999997
     },
     "equitable": {
         "date_added": "2023-12-19",
@@ -22735,7 +22735,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.216000000000001
+        "priority": 12.768
     },
     "blatant": {
         "date_added": "2023-12-19",
@@ -22746,7 +22746,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.9472
+        "priority": 15.959999999999999
     },
     "reprisal": {
         "date_added": "2023-12-19",
@@ -22757,7 +22757,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.216000000000001
+        "priority": 5.7456
     },
     "premonition": {
         "date_added": "2023-12-19",
@@ -22768,7 +22768,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.52
+        "priority": 15.959999999999999
     },
     "prickly": {
         "date_added": "2023-12-19",
@@ -22779,7 +22779,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.52
+        "priority": 15.959999999999999
     },
     "tandem": {
         "date_added": "2023-12-19",
@@ -22790,7 +22790,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.52
+        "priority": 12.768
     },
     "impale": {
         "date_added": "2023-12-19",
@@ -22801,7 +22801,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.9648000000000003
+        "priority": 12.768
     },
     "volatile": {
         "date_added": "2023-12-19",
@@ -22812,7 +22812,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.216000000000001
+        "priority": 19.151999999999997
     },
     "flair": {
         "date_added": "2023-12-19",
@@ -22823,7 +22823,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.823999999999998
+        "priority": 15.959999999999999
     },
     "foster": {
         "date_added": "2023-12-19",
@@ -22834,7 +22834,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.216000000000001
+        "priority": 19.151999999999997
     },
     "transpire": {
         "date_added": "2023-12-19",
@@ -22845,7 +22845,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.216000000000001
+        "priority": 19.151999999999997
     },
     "relent": {
         "date_added": "2023-12-19",
@@ -22856,7 +22856,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.216000000000001
+        "priority": 19.151999999999997
     },
     "duress": {
         "date_added": "2023-12-19",
@@ -22867,7 +22867,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.823999999999998
+        "priority": 4.787999999999999
     },
     "gruesome": {
         "date_added": "2023-12-19",
@@ -22878,7 +22878,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.216000000000001
+        "priority": 12.768
     },
     "calamity": {
         "date_added": "2023-12-20",
@@ -22889,7 +22889,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.59
+        "priority": 5.7456
     },
     "emaciated": {
         "date_added": "2023-12-20",
@@ -22900,7 +22900,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.976999999999999
+        "priority": 15.959999999999999
     },
     "culminate": {
         "date_added": "2023-12-20",
@@ -22911,7 +22911,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.272
+        "priority": 12.768
     },
     "reckon": {
         "date_added": "2023-12-20",
@@ -22922,7 +22922,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.59
+        "priority": 3.8304
     },
     "steeple": {
         "date_added": "2023-12-20",
@@ -22933,7 +22933,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.972399999999999
+        "priority": 19.151999999999997
     },
     "debacle": {
         "date_added": "2023-12-21",
@@ -22944,7 +22944,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.972399999999999
+        "priority": 16.029999999999998
     },
     "livid": {
         "date_added": "2023-12-21",
@@ -22955,7 +22955,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.272
+        "priority": 19.235999999999997
     },
     "paraverbal": {
         "date_added": "2023-12-21",
@@ -22966,7 +22966,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 3.9815999999999994
+        "priority": 16.029999999999998
     },
     "pervade": {
         "date_added": "2023-12-21",
@@ -22977,7 +22977,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.972399999999999
+        "priority": 16.029999999999998
     },
     "protract": {
         "date_added": "2023-12-21",
@@ -22988,7 +22988,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.59
+        "priority": 12.824
     },
     "spasm": {
         "date_added": "2023-12-22",
@@ -22999,7 +22999,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.328000000000001
+        "priority": 3.8471999999999995
     },
     "enamel": {
         "date_added": "2023-12-22",
@@ -23010,7 +23010,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.328000000000001
+        "priority": 16.029999999999998
     },
     "lagoon": {
         "date_added": "2023-7-29",
@@ -23025,7 +23025,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.12
+        "priority": 6.8999999999999995
     },
     "murky": {
         "date_added": "2023-12-23",
@@ -23036,7 +23036,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.729999999999997
+        "priority": 16.099999999999998
     },
     "undermine": {
         "date_added": "2023-12-23",
@@ -23047,7 +23047,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.729999999999997
+        "priority": 12.88
     },
     "bequeathe": {
         "date_added": "2023-12-23",
@@ -23058,7 +23058,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.075999999999997
+        "priority": 4.829999999999999
     },
     "unilateral": {
         "date_added": "2023-12-23",
@@ -23069,7 +23069,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.384
+        "priority": 16.099999999999998
     },
     "rascal": {
         "date_added": "2023-12-23",
@@ -23080,7 +23080,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.384
+        "priority": 16.099999999999998
     },
     "atrocity": {
         "date_added": "2023-12-23",
@@ -23091,7 +23091,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.384
+        "priority": 12.88
     },
     "humility": {
         "date_added": "2023-12-23",
@@ -23102,7 +23102,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.729999999999997
+        "priority": 16.099999999999998
     },
     "scaffolding": {
         "date_added": "2023-12-23",
@@ -23113,7 +23113,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.015199999999999
+        "priority": 16.099999999999998
     },
     "detrimental": {
         "date_added": "2023-12-23",
@@ -23124,7 +23124,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.384
+        "priority": 12.88
     },
     "captivate": {
         "date_added": "2023-12-23",
@@ -23135,7 +23135,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.384
+        "priority": 4.829999999999999
     },
     "intricacy": {
         "date_added": "2023-12-23",
@@ -23146,7 +23146,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.015199999999999
+        "priority": 16.099999999999998
     },
     "awash": {
         "date_added": "2023-12-23",
@@ -23157,7 +23157,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.075999999999997
+        "priority": 12.88
     },
     "expendable": {
         "date_added": "2023-12-23",
@@ -23168,7 +23168,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.729999999999997
+        "priority": 19.319999999999997
     },
     "regimen": {
         "date_added": "2023-12-23",
@@ -23179,7 +23179,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.015199999999999
+        "priority": 5.795999999999999
     },
     "flout": {
         "date_added": "2023-12-23",
@@ -23190,7 +23190,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.729999999999997
+        "priority": 16.099999999999998
     },
     "prudent": {
         "date_added": "2023-12-23",
@@ -23201,7 +23201,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.015199999999999
+        "priority": 19.319999999999997
     },
     "insatiable": {
         "date_added": "2023-12-23",
@@ -23212,7 +23212,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.729999999999997
+        "priority": 19.319999999999997
     },
     "chaplain": {
         "date_added": "2023-12-23",
@@ -23223,7 +23223,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.075999999999997
+        "priority": 12.88
     },
     "bona fide": {
         "date_added": "2023-12-23",
@@ -23234,7 +23234,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.384
+        "priority": 4.829999999999999
     },
     "intemperate": {
         "date_added": "2023-12-23",
@@ -23245,7 +23245,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.729999999999997
+        "priority": 16.099999999999998
     },
     "drench": {
         "date_added": "2023-12-23",
@@ -23256,7 +23256,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.075999999999997
+        "priority": 4.829999999999999
     },
     "adjutant": {
         "date_added": "2023-12-23",
@@ -23267,7 +23267,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.075999999999997
+        "priority": 12.88
     },
     "spate": {
         "date_added": "2023-12-23",
@@ -23278,7 +23278,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.075999999999997
+        "priority": 12.88
     },
     "boast": {
         "date_added": "2023-12-23",
@@ -23289,7 +23289,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.384
+        "priority": 19.319999999999997
     },
     "conceal": {
         "date_added": "2023-12-23",
@@ -23300,7 +23300,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.384
+        "priority": 12.88
     },
     "bicker": {
         "date_added": "2023-12-23",
@@ -23311,7 +23311,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.075999999999997
+        "priority": 19.319999999999997
     },
     "devout": {
         "date_added": "2023-12-24",
@@ -23322,7 +23322,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.039999999999999
+        "priority": 19.319999999999997
     },
     "holistic": {
         "date_added": "2023-12-24",
@@ -23333,7 +23333,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.799999999999997
+        "priority": 19.319999999999997
     },
     "rasp": {
         "date_added": "2023-8-3",
@@ -23352,7 +23352,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.719999999999999
+        "priority": 10.08
     },
     "rote": {
         "date_added": "2023-12-24",
@@ -23363,7 +23363,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.159999999999997
+        "priority": 3.8639999999999994
     },
     "hip dysplasia": {
         "date_added": "2023-12-25",
@@ -23385,7 +23385,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.496
+        "priority": 12.936
     },
     "real property": {
         "date_added": "2023-12-25",
@@ -23429,7 +23429,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.496
+        "priority": 16.17
     },
     "riparian right": {
         "date_added": "2023-12-25",
@@ -23473,7 +23473,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.244
+        "priority": 12.936
     },
     "fixtures": {
         "date_added": "2023-12-25",
@@ -23539,7 +23539,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.939999999999998
+        "priority": 3.8976
     },
     "encumber": {
         "date_added": "2023-12-26",
@@ -23550,7 +23550,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 16.939999999999998
+        "priority": 4.872
     },
     "community property": {
         "date_added": "2023-12-26",
@@ -23572,7 +23572,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.08
+        "priority": 16.31
     },
     "Fair Housing Act": {
         "date_added": "2023-12-28",
@@ -23594,7 +23594,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.08
+        "priority": 19.572
     },
     "Rumford Act": {
         "date_added": "2023-12-28",
@@ -23638,7 +23638,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 6.148799999999999
+        "priority": 19.572
     },
     "foreclose": {
         "date_added": "2023-12-28",
@@ -23671,7 +23671,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.496
+        "priority": 16.31
     },
     "plaintiff": {
         "date_added": "2023-12-28",
@@ -23682,7 +23682,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.08
+        "priority": 16.31
     },
     "writ": {
         "date_added": "2023-12-28",
@@ -23693,7 +23693,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.664
+        "priority": 19.572
     },
     "writ of execution": {
         "date_added": "2023-12-28",
@@ -23715,7 +23715,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.664
+        "priority": 16.31
     },
     "prop 13": {
         "date_added": "2023-12-28",
@@ -23836,7 +23836,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.747999999999998
+        "priority": 4.914
     },
     "larder": {
         "date_added": "2023-12-30",
@@ -23847,7 +23847,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 6.224399999999999
+        "priority": 16.38
     },
     "hectic": {
         "date_added": "2023-12-30",
@@ -23858,7 +23858,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 13.832
+        "priority": 19.656
     },
     "fiduciary": {
         "date_added": "2023-12-30",
@@ -23869,7 +23869,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.29
+        "priority": 13.104
     },
     "impute": {
         "date_added": "2023-12-30",
@@ -23880,7 +23880,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 6.224399999999999
+        "priority": 4.914
     },
     "tort": {
         "date_added": "2023-12-30",
@@ -23902,7 +23902,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.639999999999997
+        "priority": 16.59
     },
     "interpleader": {
         "date_added": "2024-1-5",
@@ -23935,7 +23935,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 18.2
+        "priority": 16.799999999999997
     },
     "derogatory": {
         "date_added": "2024-1-6",
@@ -23946,7 +23946,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 14.559999999999999
+        "priority": 13.440000000000001
     },
     "coerce": {
         "date_added": "2024-1-7",
@@ -23957,7 +23957,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.092
+        "priority": 20.244
     },
     "obsolete": {
         "date_added": "2024-1-7",
@@ -23968,7 +23968,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.092
+        "priority": 6.0732
     },
     "implosion": {
         "date_added": "2024-1-9",
@@ -23979,7 +23979,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 6.8039999999999985
+        "priority": 17.009999999999998
     },
     "preposterous": {
         "date_added": "2024-1-9",
@@ -23990,7 +23990,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 18.9
+        "priority": 13.608
     },
     "prominent": {
         "date_added": "2024-1-9",
@@ -24001,7 +24001,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 6.8039999999999985
+        "priority": 17.009999999999998
     },
     "hamper": {
         "date_added": "2024-1-9",
@@ -24012,7 +24012,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.12
+        "priority": 17.009999999999998
     },
     "scruffy": {
         "date_added": "2024-1-9",
@@ -24023,7 +24023,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.669999999999999
+        "priority": 20.412
     },
     "deterrent": {
         "date_added": "2024-1-9",
@@ -24034,7 +24034,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 6.8039999999999985
+        "priority": 17.009999999999998
     },
     "nook": {
         "date_added": "2024-1-9",
@@ -24045,7 +24045,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 22.679999999999996
+        "priority": 13.608
     },
     "teem": {
         "date_added": "2024-1-9",
@@ -24056,7 +24056,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 6.8039999999999985
+        "priority": 13.608
     },
     "iridescence": {
         "date_added": "2024-1-9",
@@ -24067,7 +24067,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.536
+        "priority": 13.608
     },
     "seep": {
         "date_added": "2024-1-9",
@@ -24078,7 +24078,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.12
+        "priority": 13.608
     },
     "primrose": {
         "date_added": "2024-1-9",
@@ -24089,7 +24089,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.669999999999999
+        "priority": 13.608
     },
     "Naples": {
         "date_added": "2024-1-9",
@@ -24111,7 +24111,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.179999999999996
+        "priority": 20.496
     },
     "impend": {
         "date_added": "2024-1-10",
@@ -24122,7 +24122,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.344
+        "priority": 17.08
     },
     "confluence": {
         "date_added": "2024-1-10",
@@ -24133,7 +24133,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.344
+        "priority": 20.496
     },
     "straggle": {
         "date_added": "2024-1-10",
@@ -24144,7 +24144,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.344
+        "priority": 20.496
     },
     "sodden": {
         "date_added": "2024-1-10",
@@ -24155,7 +24155,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.603199999999999
+        "priority": 5.124
     },
     "luscious": {
         "date_added": "2024-1-10",
@@ -24166,7 +24166,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.344
+        "priority": 20.496
     },
     "weal": {
         "date_added": "2024-1-10",
@@ -24177,7 +24177,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.603199999999999
+        "priority": 5.124
     },
     "trough": {
         "date_added": "2024-1-10",
@@ -24188,7 +24188,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 6.904799999999999
+        "priority": 20.496
     },
     "dandelion": {
         "date_added": "2024-1-10",
@@ -24199,7 +24199,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.344
+        "priority": 17.08
     },
     "clasp": {
         "date_added": "2024-1-10",
@@ -24210,7 +24210,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.603199999999999
+        "priority": 13.664
     },
     "insurmountable": {
         "date_added": "2024-1-10",
@@ -24221,7 +24221,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.179999999999996
+        "priority": 13.664
     },
     "bludgeon": {
         "date_added": "2024-1-10",
@@ -24232,7 +24232,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.344
+        "priority": 6.148799999999999
     },
     "huddle": {
         "date_added": "2024-1-10",
@@ -24243,7 +24243,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.179999999999996
+        "priority": 20.496
     },
     "snivel": {
         "date_added": "2024-1-10",
@@ -24254,7 +24254,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.344
+        "priority": 17.08
     },
     "blather": {
         "date_added": "2024-1-10",
@@ -24265,7 +24265,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.179999999999996
+        "priority": 5.124
     },
     "concocti": {
         "date_added": "2024-1-10",
@@ -24276,7 +24276,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.344
+        "priority": 17.08
     },
     "beckon": {
         "date_added": "2024-1-10",
@@ -24287,7 +24287,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.015999999999995
+        "priority": 20.496
     },
     "detest": {
         "date_added": "2024-1-10",
@@ -24298,7 +24298,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.603199999999999
+        "priority": 6.148799999999999
     },
     "grit": {
         "date_added": "2024-1-11",
@@ -24309,7 +24309,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.529999999999998
+        "priority": 20.663999999999998
     },
     "jostle": {
         "date_added": "2024-1-11",
@@ -24320,7 +24320,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.623999999999999
+        "priority": 13.776000000000002
     },
     "cranny": {
         "date_added": "2024-1-11",
@@ -24331,7 +24331,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.623999999999999
+        "priority": 13.776000000000002
     },
     "hearth": {
         "date_added": "2024-1-11",
@@ -24342,7 +24342,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.623999999999999
+        "priority": 17.22
     },
     "scant": {
         "date_added": "2024-1-11",
@@ -24353,7 +24353,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.623999999999999
+        "priority": 17.22
     },
     "burgeon": {
         "date_added": "2024-1-11",
@@ -24364,7 +24364,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.623999999999999
+        "priority": 17.22
     },
     "sustenance": {
         "date_added": "2024-1-11",
@@ -24375,7 +24375,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.435999999999996
+        "priority": 13.776000000000002
     },
     "whisk": {
         "date_added": "2024-1-11",
@@ -24386,7 +24386,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.435999999999996
+        "priority": 13.776000000000002
     },
     "weary": {
         "date_added": "2024-1-11",
@@ -24397,7 +24397,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.6872
+        "priority": 17.22
     },
     "chaperone": {
         "date_added": "2024-1-11",
@@ -24408,7 +24408,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.858999999999999
+        "priority": 13.776000000000002
     },
     "tart": {
         "date_added": "2024-1-11",
@@ -24419,7 +24419,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.435999999999996
+        "priority": 13.776000000000002
     },
     "tunic": {
         "date_added": "2024-1-11",
@@ -24430,7 +24430,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 23.435999999999996
+        "priority": 4.1328
     },
     "dest": {
         "date_added": "2024-1-11",
@@ -24441,7 +24441,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.623999999999999
+        "priority": 13.776000000000002
     },
     "stammer": {
         "date_added": "2024-1-11",
@@ -24452,7 +24452,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.529999999999998
+        "priority": 13.776000000000002
     },
     "dead ringer": {
         "date_added": "2024-1-11",
@@ -24463,7 +24463,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.529999999999998
+        "priority": 5.1659999999999995
     },
     "emaciate": {
         "date_added": "2024-1-11",
@@ -24474,7 +24474,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.623999999999999
+        "priority": 20.663999999999998
     },
     "deluge": {
         "date_added": "2024-1-11",
@@ -24485,7 +24485,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.623999999999999
+        "priority": 17.22
     },
     "colander": {
         "date_added": "2024-1-11",
@@ -24496,7 +24496,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 15.623999999999999
+        "priority": 17.22
     },
     "fling": {
         "date_added": "2024-1-11",
@@ -24507,7 +24507,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 19.529999999999998
+        "priority": 13.776000000000002
     },
     "barter": {
         "date_added": "2024-1-11",
@@ -24518,7 +24518,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 4.6872
+        "priority": 13.776000000000002
     },
     "mush": {
         "date_added": "2024-1-12",
@@ -24529,7 +24529,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 6.005999999999999
+        "priority": 20.747999999999998
     },
     "mallard": {
         "date_added": "2024-1-12",
@@ -24573,7 +24573,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.02
+        "priority": 13.832
     },
     "serrated": {
         "date_added": "2024-1-13",
@@ -24584,7 +24584,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 20.65
+        "priority": 20.915999999999997
     },
     "puny": {
         "date_added": "2024-1-14",
@@ -24595,7 +24595,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.304
+        "priority": 4.199999999999999
     },
     "fortuitous": {
         "date_added": "2024-1-14",
@@ -24606,7 +24606,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.304
+        "priority": 14.0
     },
     "defuse": {
         "date_added": "2024-1-14",
@@ -24617,7 +24617,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 25.955999999999996
+        "priority": 5.25
     },
     "lemur": {
         "date_added": "2024-1-14",
@@ -24639,7 +24639,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 7.786799999999999
+        "priority": 17.5
     },
     "comparative market analysis report (CMA)": {
         "date_added": "2024-1-14",
@@ -24683,7 +24683,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.304
+        "priority": 17.5
     },
     "snarl": {
         "date_added": "2024-1-14",
@@ -24694,7 +24694,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 21.63
+        "priority": 14.0
     },
     "prcarious": {
         "date_added": "2024-1-14",
@@ -24705,7 +24705,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 25.955999999999996
+        "priority": 17.5
     },
     "ooze": {
         "date_added": "2024-1-14",
@@ -24716,7 +24716,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 6.488999999999999
+        "priority": 4.199999999999999
     },
     "teeter": {
         "date_added": "2024-1-14",
@@ -24727,7 +24727,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 17.304
+        "priority": 14.0
     },
     "dew": {
         "date_added": "2024-1-14",
@@ -24738,7 +24738,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 5.1912
+        "priority": 21.0
     },
     "rife": {
         "date_added": "2024-1-15",
@@ -24749,7 +24749,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 100
+        "priority": 14.111999999999998
     },
     "surfeit": {
         "date_added": "2024-1-15",
@@ -24760,7 +24760,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 100
+        "priority": 14.111999999999998
     },
     "proverbial": {
         "date_added": "2024-1-15",
@@ -24771,7 +24771,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 100
+        "priority": 17.639999999999997
     },
     "burlap": {
         "date_added": "2024-1-16",
@@ -24782,7 +24782,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 100
+        "priority": 17.779999999999998
     },
     "famished": {
         "date_added": "2024-1-16",
@@ -24793,7 +24793,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 100
+        "priority": 21.335999999999995
     },
     "lopsided": {
         "date_added": "2024-1-16",
@@ -24804,7 +24804,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 100
+        "priority": 21.335999999999995
     },
     "decadent": {
         "date_added": "2024-1-16",
@@ -24815,7 +24815,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 100
+        "priority": 6.4007999999999985
     },
     "cognizant": {
         "date_added": "2024-1-16",
@@ -24826,7 +24826,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 100
+        "priority": 5.333999999999999
     },
     "levy": {
         "date_added": "2024-1-16",
@@ -24837,7 +24837,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 100
+        "priority": 17.779999999999998
     },
     "Truth in Lending Act (TILA)": {
         "date_added": "2024-1-16",
@@ -24859,7 +24859,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 100
+        "priority": 14.223999999999998
     },
     "perch": {
         "date_added": "2024-1-16",
@@ -24870,7 +24870,7 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 100
+        "priority": 6.4007999999999985
     },
     "entrails": {
         "date_added": "2024-1-16",
@@ -24881,6 +24881,149 @@
             ]
         ],
         "type": "Vocabulary",
-        "priority": 100.0
+        "priority": 21.335999999999995
+    },
+    "barbed": {
+        "date_added": "2024-1-23",
+        "review_history": [
+            [
+                "2024-1-23",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 15.344
+    },
+    "wreath": {
+        "date_added": "2024-1-23",
+        "review_history": [
+            [
+                "2024-1-23",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 15.344
+    },
+    "destitute": {
+        "date_added": "2024-1-23",
+        "review_history": [
+            [
+                "2024-1-23",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 19.179999999999996
+    },
+    "Vertigo": {
+        "date_added": "2024-1-23",
+        "review_history": [
+            [
+                "2024-1-23",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 19.179999999999996
+    },
+    "cordial": {
+        "date_added": "2024-1-24",
+        "review_history": [
+            [
+                "2024-1-24",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 19.529999999999998
+    },
+    "undulate": {
+        "date_added": "2024-1-26",
+        "review_history": [
+            [
+                "2024-1-26",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 20.65
+    },
+    "ravenous": {
+        "date_added": "2024-1-26",
+        "review_history": [
+            [
+                "2024-1-26",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 16.52
+    },
+    "beret": {
+        "date_added": "2024-1-26",
+        "review_history": [
+            [
+                "2024-1-26",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 24.779999999999998
+    },
+    "diminutive": {
+        "date_added": "2024-1-28",
+        "review_history": [
+            [
+                "2024-1-28",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100
+    },
+    "whim": {
+        "date_added": "2024-1-28",
+        "review_history": [
+            [
+                "2024-1-28",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100
+    },
+    "oar": {
+        "date_added": "2024-1-28",
+        "review_history": [
+            [
+                "2024-1-28",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100
+    },
+    "covert": {
+        "date_added": "2024-1-28",
+        "review_history": [
+            [
+                "2024-1-28",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100
+    },
+    "thicket": {
+        "date_added": "2024-1-29",
+        "review_history": [
+            [
+                "2024-1-29",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100
     }
 }
