@@ -25862,5 +25862,181 @@
         ],
         "type": "Vocabulary",
         "priority": 3.444
+    },
+    "ethanol": {
+        "date_added": "2024-2-2",
+        "review_history": [
+            [
+                "2024-2-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "amalgamate": {
+        "date_added": "2024-2-2",
+        "review_history": [
+            [
+                "2024-2-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "ignominious": {
+        "date_added": "2024-2-2",
+        "review_history": [
+            [
+                "2024-2-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "haddock": {
+        "date_added": "2024-2-2",
+        "review_history": [
+            [
+                "2024-2-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "prowl": {
+        "date_added": "2024-2-2",
+        "review_history": [
+            [
+                "2024-2-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "enclave": {
+        "date_added": "2024-2-2",
+        "review_history": [
+            [
+                "2024-2-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "stoop": {
+        "date_added": "2024-2-2",
+        "review_history": [
+            [
+                "2024-2-2",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "outcry": {
+        "date_added": "2024-2-3",
+        "review_history": [
+            [
+                "2024-2-3",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "lyntch": {
+        "date_added": "2024-2-3",
+        "review_history": [
+            [
+                "2024-2-3",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "cahoots": {
+        "date_added": "2024-2-3",
+        "review_history": [
+            [
+                "2024-2-3",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "entrenched": {
+        "date_added": "2024-2-3",
+        "review_history": [
+            [
+                "2024-2-3",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "glean": {
+        "date_added": "2024-2-3",
+        "review_history": [
+            [
+                "2024-2-3",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "engender": {
+        "date_added": "2024-2-3",
+        "review_history": [
+            [
+                "2024-2-3",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "deftly": {
+        "date_added": "2024-2-3",
+        "review_history": [
+            [
+                "2024-2-3",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "ostentation": {
+        "date_added": "2024-2-3",
+        "review_history": [
+            [
+                "2024-2-3",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "adorn": {
+        "date_added": "2024-2-4",
+        "review_history": [
+            [
+                "2024-2-4",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
     }
 }
