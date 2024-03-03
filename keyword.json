@@ -26214,5 +26214,126 @@
         ],
         "type": "Vocabulary",
         "priority": 100.0
+    },
+    "nuisance": {
+        "date_added": "2024-2-23",
+        "review_history": [
+            [
+                "2024-2-23",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "melange": {
+        "date_added": "2024-2-23",
+        "review_history": [
+            [
+                "2024-2-23",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "angioplasty": {
+        "date_added": "2024-2-23",
+        "review_history": [
+            [
+                "2024-2-23",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "decrepit": {
+        "date_added": "2024-2-24",
+        "review_history": [
+            [
+                "2024-2-24",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "Oedipus": {
+        "date_added": "2024-2-24",
+        "review_history": [
+            [
+                "2024-2-24",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "Highball": {
+        "date_added": "2024-2-24",
+        "review_history": [
+            [
+                "2024-2-24",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "wrought": {
+        "date_added": "2024-2-24",
+        "review_history": [
+            [
+                "2024-2-24",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "slump": {
+        "date_added": "2024-2-24",
+        "review_history": [
+            [
+                "2024-2-24",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "haggard": {
+        "date_added": "2024-2-25",
+        "review_history": [
+            [
+                "2024-2-25",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "injunction": {
+        "date_added": "2024-2-25",
+        "review_history": [
+            [
+                "2024-2-25",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
+    },
+    "superflous": {
+        "date_added": "2024-2-26",
+        "review_history": [
+            [
+                "2024-2-26",
+                "m"
+            ]
+        ],
+        "type": "Vocabulary",
+        "priority": 100.0
     }
 }
